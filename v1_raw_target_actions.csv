@@ -1,0 +1,1342 @@
+﻿raw_target_action_id,name,action_type,stripped_target_candidate
+rawtarget_synuclein_alpha_modulator,Synuclein alpha modulator,modulator,Synuclein alpha
+rawtarget_superoxide_dismutase_stimulator,Superoxide dismutase stimulator,stimulator,Superoxide dismutase
+rawtarget_beta_amyloid_modulator,Beta amyloid modulator,modulator,Beta amyloid
+rawtarget_tau_protein_modulator,Tau protein modulator,protein modulator;modulator,Tau
+rawtarget_huntingtin_modulator,Huntingtin modulator,modulator,Huntingtin
+rawtarget_cd73_antagonist,CD73 antagonist,antagonist;agonist,CD73
+rawtarget_muscarinic_m4_receptor_antagonist,Muscarinic M4 receptor antagonist,receptor antagonist;antagonist;agonist,Muscarinic M4
+rawtarget_epha4_tyrosine_kinase_receptor_stimulator,Epha4 tyrosine kinase receptor stimulator,stimulator,Epha4 tyrosine kinase receptor
+rawtarget_5-ht_2c_receptor_modulator,5-HT 2c receptor modulator,modulator,5-HT 2c receptor
+rawtarget_5-ht_2a_receptor_modulator,5-HT 2a receptor modulator,modulator,5-HT 2a receptor
+rawtarget_glucagon-like_peptide_1_receptor_agonist,Glucagon-like peptide 1 receptor agonist,receptor agonist;agonist,Glucagon-like peptide 1
+rawtarget_insulin_receptor_agonist,Insulin receptor agonist,receptor agonist;agonist,Insulin
+rawtarget_clk4_protein_kinase_inhibitor,CLK4 protein kinase inhibitor,protein kinase inhibitor;kinase inhibitor;inhibitor,CLK4
+rawtarget_clk1_protein_kinase_inhibitor,CLK1 protein kinase inhibitor,protein kinase inhibitor;kinase inhibitor;inhibitor,CLK1
+rawtarget_dyrk-1_alpha_protein_kinase_inhibitor,DYRK-1 alpha protein kinase inhibitor,protein kinase inhibitor;kinase inhibitor;inhibitor,DYRK-1 alpha
+rawtarget_drebrin_modulator,Drebrin modulator,modulator,Drebrin
+rawtarget_bcl-2_protein_inhibitor,Bcl-2 protein inhibitor,inhibitor,Bcl-2 protein
+rawtarget_flt3_tyrosine_kinase_inhibitor,Flt3 tyrosine kinase inhibitor,kinase inhibitor;inhibitor,Flt3 tyrosine
+rawtarget_leukotriene_d4_antagonist,Leukotriene D4 antagonist,antagonist;agonist,Leukotriene D4
+rawtarget_kit_tyrosine_kinase_inhibitor,Kit tyrosine kinase inhibitor,kinase inhibitor;inhibitor,Kit tyrosine
+rawtarget_sl_cytokine_ligand_inhibitor,SL cytokine ligand inhibitor,ligand inhibitor;inhibitor,SL cytokine
+rawtarget_csf-1_antagonist,CSF-1 antagonist,antagonist;agonist,CSF-1
+rawtarget_gpr17_gene_modulator,GPR17 gene modulator,gene modulator;modulator,GPR17
+rawtarget_trkb_receptor_agonist,TrkB receptor agonist,receptor agonist;agonist,TrkB
+rawtarget_lysine-specific_demethylase_5b_inhibitor,Lysine-specific demethylase 5B inhibitor,inhibitor,Lysine-specific demethylase 5B
+rawtarget_g_protein_coupled_receptor_139_agonist,G protein coupled receptor 139 agonist,agonist,G protein coupled receptor 139
+rawtarget_non_lysosomal_glucosylceramidase_inhibitor,Non lysosomal glucosylceramidase inhibitor,inhibitor,Non lysosomal glucosylceramidase
+rawtarget_tnf_alpha_ligand_inhibitor,TNF alpha ligand inhibitor,ligand inhibitor;inhibitor,TNF alpha
+rawtarget_tlr-9_antagonist,TLR-9 antagonist,antagonist;agonist,TLR-9
+rawtarget_tlr-7_antagonist,TLR-7 antagonist,antagonist;agonist,TLR-7
+rawtarget_trem_receptor_2_antagonist,TREM receptor 2 antagonist,antagonist;agonist,TREM receptor 2
+rawtarget_5-ht_2b_receptor_antagonist,5-HT 2b receptor antagonist,receptor antagonist;antagonist;agonist,5-HT 2b
+rawtarget_opioid_receptor_sigma_antagonist_1,Opioid receptor sigma antagonist 1,antagonist;agonist,Opioid receptor sigma 1
+rawtarget_5-ht_2a_receptor_antagonist,5-HT 2a receptor antagonist,receptor antagonist;antagonist;agonist,5-HT 2a
+rawtarget_5-ht_1b_receptor_antagonist,5-HT 1b receptor antagonist,receptor antagonist;antagonist;agonist,5-HT 1b
+rawtarget_glucocorticoid_receptor_antagonist,Glucocorticoid receptor antagonist,receptor antagonist;antagonist;agonist,Glucocorticoid
+rawtarget_maxi_k_potassium_channel_stimulator,Maxi K potassium channel stimulator,stimulator,Maxi K potassium channel
+rawtarget_amyloid_protein_deposition_inhibitor,Amyloid protein deposition inhibitor,deposition inhibitor;inhibitor,Amyloid protein
+rawtarget_beta_secretase_1_inhibitor,Beta secretase 1 inhibitor,inhibitor,Beta secretase 1
+rawtarget_cholinesterase_inhibitor,Cholinesterase inhibitor,inhibitor,Cholinesterase
+rawtarget_5-ht_2a_receptor_agonist,5-HT 2a receptor agonist,receptor agonist;agonist,5-HT 2a
+rawtarget_acetylcholinesterase_stimulator,Acetylcholinesterase stimulator,stimulator,Acetylcholinesterase
+rawtarget_amyloid_like_protein_1_modulator,Amyloid like protein 1 modulator,modulator,Amyloid like protein 1
+rawtarget_epoxide_hydrolase-2_inhibitor,Epoxide hydrolase-2 inhibitor,inhibitor,Epoxide hydrolase-2
+rawtarget_dopamine_d2_receptor_antagonist,Dopamine D2 receptor antagonist,receptor antagonist;antagonist;agonist,Dopamine D2
+rawtarget_dopamine_d3_receptor_antagonist,Dopamine D3 receptor antagonist,receptor antagonist;antagonist;agonist,Dopamine D3
+rawtarget_rip-1_kinase_inhibitor,RIP-1 kinase inhibitor,kinase inhibitor;inhibitor,RIP-1
+rawtarget_muscarinic_receptor_antagonist,Muscarinic receptor antagonist,receptor antagonist;antagonist;agonist,Muscarinic
+rawtarget_t_cell_receptor_modulator,T cell receptor modulator,modulator,T cell receptor
+rawtarget_spp1_gene_modulator,SPP1 gene modulator,gene modulator;modulator,SPP1
+rawtarget_osteopontin_ligand_modulator,Osteopontin ligand modulator,ligand modulator;modulator,Osteopontin
+rawtarget_fyve_finger_phosphoinositide_kinase_inhibitor,FYVE finger phosphoinositide kinase inhibitor,kinase inhibitor;inhibitor,FYVE finger phosphoinositide
+rawtarget_thyroid_hormone_receptor_beta_agonist,Thyroid hormone receptor beta agonist,agonist,Thyroid hormone receptor beta
+rawtarget_thyroid_hormone_receptor_alpha_agonist,Thyroid hormone receptor alpha agonist,agonist,Thyroid hormone receptor alpha
+rawtarget_beta_adrenoceptor_agonist,Beta adrenoceptor agonist,agonist,Beta adrenoceptor
+rawtarget_beta_2_adrenoceptor_agonist,Beta 2 adrenoceptor agonist,agonist,Beta 2 adrenoceptor
+rawtarget_beta_1_adrenoceptor_agonist,Beta 1 adrenoceptor agonist,agonist,Beta 1 adrenoceptor
+rawtarget_atxn3_gene_modulator,ATXN3 gene modulator,gene modulator;modulator,ATXN3
+rawtarget_ube3a_gene_modulator,UBE3A gene modulator,gene modulator;modulator,UBE3A
+rawtarget_atxn2_gene_modulator,ATXN2 gene modulator,gene modulator;modulator,ATXN2
+rawtarget_cacna1c_calcium_channel_subunit_stimulator,CACNA1C calcium channel subunit stimulator,stimulator,CACNA1C calcium channel subunit
+rawtarget_fos_related_antigen_stimulator,Fos related antigen stimulator,stimulator,Fos related antigen
+rawtarget_apolipoprotein_e4_modulator,Apolipoprotein E4 modulator,modulator,Apolipoprotein E4
+rawtarget_apolipoprotein_e3_modulator,Apolipoprotein E3 modulator,modulator,Apolipoprotein E3
+rawtarget_beta_amyloid_antagonist,Beta amyloid antagonist,antagonist;agonist,Beta amyloid
+rawtarget_scn2a_gene_modulator,SCN2A gene modulator,gene modulator;modulator,SCN2A
+rawtarget_gabbr2_gene_modulator,GABBR2 gene modulator,gene modulator;modulator,GABBR2
+rawtarget_v-type_proton_atpase_inhibitor,V-type proton ATPase inhibitor,inhibitor,V-type proton ATPase
+rawtarget_gabra1_gene_modulator,GABRA1 gene modulator,gene modulator;modulator,GABRA1
+rawtarget_glutaminyl_peptide_cyclotransferase_inhibitor,Glutaminyl peptide cyclotransferase inhibitor,inhibitor,Glutaminyl peptide cyclotransferase
+rawtarget_acetylcholinesterase_inhibitor,Acetylcholinesterase inhibitor,inhibitor,Acetylcholinesterase
+rawtarget_trp_cation_channel_c3_inhibitor,TRP cation channel C3 inhibitor,inhibitor,TRP cation channel C3
+rawtarget_tau_aggregation_inhibitor,Tau aggregation inhibitor,aggregation inhibitor;inhibitor,Tau
+rawtarget_pde_1_inhibitor,PDE 1 inhibitor,inhibitor,PDE 1
+rawtarget_nmda_receptor_agonist,NMDA receptor agonist,receptor agonist;agonist,NMDA
+rawtarget_phospholipase_a2_inhibitor,Phospholipase A2 inhibitor,inhibitor,Phospholipase A2
+rawtarget_g_protein_coupled_receptor_139_antagonist,G protein coupled receptor 139 antagonist,antagonist;agonist,G protein coupled receptor 139
+rawtarget_diacylglycerol_o_acyltransferase_2_inhibitor,Diacylglycerol O acyltransferase 2 inhibitor,inhibitor,Diacylglycerol O acyltransferase 2
+rawtarget_nad-dependent_deacetylase_sirtuin-2_modulator,NAD-dependent deacetylase sirtuin-2 modulator,modulator,NAD-dependent deacetylase sirtuin-2
+rawtarget_histone_deacetylase_modulator,Histone deacetylase modulator,modulator,Histone deacetylase
+rawtarget_pyruvate_dehydrogenase_modulator,Pyruvate dehydrogenase modulator,modulator,Pyruvate dehydrogenase
+rawtarget_muscarinic_m5_receptor_antagonist,Muscarinic M5 receptor antagonist,receptor antagonist;antagonist;agonist,Muscarinic M5
+rawtarget_rac1_gtpase_inhibitor,RAC1 GTPase inhibitor,inhibitor,RAC1 GTPase
+rawtarget_n-ras_gtpase_inhibitor,N-Ras GTPase inhibitor,inhibitor,N-Ras GTPase
+rawtarget_map_kinase_inhibitor,MAP kinase inhibitor,kinase inhibitor;inhibitor,MAP
+rawtarget_rho_associated_protein_kinase_inhibitor,Rho associated protein kinase inhibitor,protein kinase inhibitor;kinase inhibitor;inhibitor,Rho associated
+rawtarget_akt_protein_kinase_inhibitor,AKT protein kinase inhibitor,protein kinase inhibitor;kinase inhibitor;inhibitor,AKT
+rawtarget_il-6_receptor_antagonist,IL-6 receptor antagonist,receptor antagonist;antagonist;agonist,IL-6
+rawtarget_serine_racemase_inhibitor,Serine racemase inhibitor,inhibitor,Serine racemase
+rawtarget_mtor_stimulator,mTOR stimulator,stimulator,mTOR
+rawtarget_nicotinic_acetylcholine_receptor_antagonist,Nicotinic acetylcholine receptor antagonist,receptor antagonist;antagonist;agonist,Nicotinic acetylcholine
+rawtarget_nmda_receptor_antagonist,NMDA receptor antagonist,receptor antagonist;antagonist;agonist,NMDA
+rawtarget_mtor_modulator,mTOR modulator,modulator,mTOR
+rawtarget_nacht_lrr_pyd_domain_protein_3_inhibitor,NACHT LRR PYD domain protein 3 inhibitor,inhibitor,NACHT LRR PYD domain protein 3
+rawtarget_il-18_antagonist,IL-18 antagonist,antagonist;agonist,IL-18
+rawtarget_interleukin-1_beta_ligand_inhibitor,Interleukin-1 beta ligand inhibitor,ligand inhibitor;inhibitor,Interleukin-1 beta
+rawtarget_sortilin_related_receptor_modulator,Sortilin related receptor modulator,modulator,Sortilin related receptor
+rawtarget_sorl1_gene_modulator,SORL1 gene modulator,gene modulator;modulator,SORL1
+rawtarget_neuritin_stimulator,Neuritin stimulator,stimulator,Neuritin
+rawtarget_guanylate_cyclase_receptor_agonist,Guanylate cyclase receptor agonist,receptor agonist;agonist,Guanylate cyclase
+rawtarget_pde_5_inhibitor,PDE 5 inhibitor,inhibitor,PDE 5
+rawtarget_adipocyte_fatty_acid_binding_protein_inhibitor,Adipocyte fatty acid binding protein inhibitor,inhibitor,Adipocyte fatty acid binding protein
+rawtarget_tgf_beta_receptor_antagonist,TGF beta receptor antagonist,receptor antagonist;antagonist;agonist,TGF beta
+rawtarget_pancreatic_beta_cell_growth_factor_modulator,Pancreatic beta cell growth factor modulator,modulator,Pancreatic beta cell growth factor
+rawtarget_amp_activated_protein_kinase_stimulator,AMP activated protein kinase stimulator,stimulator,AMP activated protein kinase
+rawtarget_gaba_a_receptor_modulator,GABA A receptor modulator,modulator,GABA A receptor
+rawtarget_alk-5_protein_kinase_inhibitor,Alk-5 protein kinase inhibitor,protein kinase inhibitor;kinase inhibitor;inhibitor,Alk-5
+rawtarget_casein_kinase-i_gamma-1_inhibitor,Casein kinase-I gamma-1 inhibitor,inhibitor,Casein kinase-I gamma-1
+rawtarget_major_prion_protein_modulator,Major prion protein modulator,protein modulator;modulator,Major prion
+rawtarget_unspecified_calcium_channel_inhibitor,Unspecified calcium channel inhibitor,inhibitor,Unspecified calcium channel
+rawtarget_glycogen_synthase_kinase-3_beta_inhibitor,Glycogen synthase kinase-3 beta inhibitor,inhibitor,Glycogen synthase kinase-3 beta
+rawtarget_histamine_h3_receptor_antagonist,Histamine H3 receptor antagonist,receptor antagonist;antagonist;agonist,Histamine H3
+rawtarget_mao_a_inhibitor,MAO A inhibitor,inhibitor,MAO A
+rawtarget_mao_b_inhibitor,MAO B inhibitor,inhibitor,MAO B
+rawtarget_dopamine_transporter_inhibitor,Dopamine transporter inhibitor,inhibitor,Dopamine transporter
+rawtarget_membrane_copper_amine_oxidase_inhibitor,Membrane copper amine oxidase inhibitor,inhibitor,Membrane copper amine oxidase
+rawtarget_muscarinic_m1_receptor_agonist,Muscarinic M1 receptor agonist,receptor agonist;agonist,Muscarinic M1
+rawtarget_hepatocyte_growth_factor_receptor_antagonist,Hepatocyte growth factor receptor antagonist,receptor antagonist;antagonist;agonist,Hepatocyte growth factor
+rawtarget_pdgf_receptor_alpha_antagonist,PDGF receptor alpha antagonist,antagonist;agonist,PDGF receptor alpha
+rawtarget_axl_tyrosine_kinase_receptor_inhibitor,Axl tyrosine kinase receptor inhibitor,inhibitor,Axl tyrosine kinase receptor
+rawtarget_epha2_tyrosine_kinase_receptor_inhibitor,Epha2 tyrosine kinase receptor inhibitor,inhibitor,Epha2 tyrosine kinase receptor
+rawtarget_ephb4_tyrosine_kinase_receptor_inhibitor,Ephb4 tyrosine kinase receptor inhibitor,inhibitor,Ephb4 tyrosine kinase receptor
+rawtarget_src_tyrosine_kinase_inhibitor,Src tyrosine kinase inhibitor,kinase inhibitor;inhibitor,Src tyrosine
+rawtarget_pak_protein_kinase_inhibitor,PAK protein kinase inhibitor,protein kinase inhibitor;kinase inhibitor;inhibitor,PAK
+rawtarget_nk3_receptor_antagonist,NK3 receptor antagonist,receptor antagonist;antagonist;agonist,NK3
+rawtarget_bifunctional_protein_ncoat_inhibitor,Bifunctional protein NCOAT inhibitor,inhibitor,Bifunctional protein NCOAT
+rawtarget_kcnq_voltage-gated_potassium_channel-2_stimulator,KCNQ voltage-gated potassium channel-2 stimulator,stimulator,KCNQ voltage-gated potassium channel-2
+rawtarget_crispr_associated_endonuclease_cas9_modulator,CRISPR associated endonuclease Cas9 modulator,modulator,CRISPR associated endonuclease Cas9
+rawtarget_phosphoinositide-3_kinase_delta_inhibitor,Phosphoinositide-3 kinase delta inhibitor,inhibitor,Phosphoinositide-3 kinase delta
+rawtarget_melatonin_mt2_receptor_agonist,Melatonin MT2 receptor agonist,receptor agonist;agonist,Melatonin MT2
+rawtarget_melatonin_mt1_receptor_agonist,Melatonin MT1 receptor agonist,receptor agonist;agonist,Melatonin MT1
+rawtarget_5-ht_2c_receptor_antagonist,5-HT 2c receptor antagonist,receptor antagonist;antagonist;agonist,5-HT 2c
+rawtarget_nicotinamide_riboside_kinase_stimulator,Nicotinamide riboside kinase stimulator,stimulator,Nicotinamide riboside kinase
+rawtarget_vasopressin_v1a_receptor_antagonist,Vasopressin V1a receptor antagonist,receptor antagonist;antagonist;agonist,Vasopressin V1a
+rawtarget_sigma_opioid_receptor_modulator,Sigma opioid receptor modulator,modulator,Sigma opioid receptor
+rawtarget_synuclein_alpha_inhibitor,Synuclein alpha inhibitor,inhibitor,Synuclein alpha
+rawtarget_proteasome_stimulator,Proteasome stimulator,stimulator,Proteasome
+rawtarget_hcn_potassium-sodium_channel_1_modulator,HCN potassium-sodium channel 1 modulator,modulator,HCN potassium-sodium channel 1
+rawtarget_channel_rhodopsin_modulator,Channel rhodopsin modulator,modulator,Channel rhodopsin
+rawtarget_elongation_factor_1_alpha_1_modulator,Elongation factor 1 alpha 1 modulator,modulator,Elongation factor 1 alpha 1
+rawtarget_nmda_receptor_modulator,NMDA receptor modulator,modulator,NMDA receptor
+rawtarget_halorhodopsin_modulator,Halorhodopsin modulator,modulator,Halorhodopsin
+rawtarget_non_receptor_tyrosine_kinase_tyk2_antagonist,Non receptor tyrosine kinase TYK2 antagonist,antagonist;agonist,Non receptor tyrosine kinase TYK2
+rawtarget_5-ht_1b_receptor_agonist,5-HT 1b receptor agonist,receptor agonist;agonist,5-HT 1b
+rawtarget_gaba_a_receptor_alpha-5_subunit_inhibitor,GABA A receptor alpha-5 subunit inhibitor,inhibitor,GABA A receptor alpha-5 subunit
+rawtarget_insulin_ligand,Insulin ligand,unspecified,Insulin ligand
+rawtarget_vasopressin_receptor_agonist,Vasopressin receptor agonist,receptor agonist;agonist,Vasopressin
+rawtarget_oxytocin_receptor_agonist,Oxytocin receptor agonist,receptor agonist;agonist,Oxytocin
+rawtarget_muscarinic_m2_receptor_antagonist,Muscarinic M2 receptor antagonist,receptor antagonist;antagonist;agonist,Muscarinic M2
+rawtarget_ep4_prostanoid_receptor_antagonist,EP4 prostanoid receptor antagonist,receptor antagonist;antagonist;agonist,EP4 prostanoid
+rawtarget_pge2_antagonist,PGE2 antagonist,antagonist;agonist,PGE2
+rawtarget_ep2_prostanoid_receptor_antagonist,EP2 prostanoid receptor antagonist,receptor antagonist;antagonist;agonist,EP2 prostanoid
+rawtarget_superoxide_dismutase_modulator,Superoxide dismutase modulator,modulator,Superoxide dismutase
+rawtarget_rip-2_kinase_inhibitor,RIP-2 kinase inhibitor,kinase inhibitor;inhibitor,RIP-2
+rawtarget_leucine_rich_serine_threonine_kinase_2_inhibitor,Leucine rich serine threonine kinase 2 inhibitor,inhibitor,Leucine rich serine threonine kinase 2
+rawtarget_tyrosine_protein_kinase_abl1_inhibitor,Tyrosine protein kinase ABL1 inhibitor,inhibitor,Tyrosine protein kinase ABL1
+rawtarget_5-ht_2_receptor_agonist,5-HT 2 receptor agonist,receptor agonist;agonist,5-HT 2
+rawtarget_proteasome_inhibitor,Proteasome inhibitor,inhibitor,Proteasome
+rawtarget_alpha_1_adrenoceptor_agonist,Alpha 1 adrenoceptor agonist,agonist,Alpha 1 adrenoceptor
+rawtarget_thioredoxin_interacting_protein_inhibitor,Thioredoxin interacting protein inhibitor,inhibitor,Thioredoxin interacting protein
+rawtarget_txnip_gene_inhibitor,TXNIP gene inhibitor,inhibitor,TXNIP gene
+rawtarget_amyloid_like_protein_inhibitor,Amyloid like protein inhibitor,inhibitor,Amyloid like protein
+rawtarget_monoglyceride_lipase_inhibitor,Monoglyceride lipase inhibitor,inhibitor,Monoglyceride lipase
+rawtarget_fgf3_receptor_antagonist,FGF3 receptor antagonist,receptor antagonist;antagonist;agonist,FGF3
+rawtarget_fgf2_receptor_antagonist,FGF2 receptor antagonist,receptor antagonist;antagonist;agonist,FGF2
+rawtarget_farnesoid_x_receptor_agonist,Farnesoid X receptor agonist,receptor agonist;agonist,Farnesoid X
+rawtarget_adenosine_a2b_receptor_antagonist,Adenosine A2b receptor antagonist,receptor antagonist;antagonist;agonist,Adenosine A2b
+rawtarget_dna_gyrase_inhibitor,DNA gyrase inhibitor,inhibitor,DNA gyrase
+rawtarget_topoisomerase_ii_inhibitor,Topoisomerase II inhibitor,inhibitor,Topoisomerase II
+rawtarget_g_protein_coupled_receptor_52_agonist,G protein coupled receptor 52 agonist,agonist,G protein coupled receptor 52
+rawtarget_dopamine_receptor_antagonist,Dopamine receptor antagonist,receptor antagonist;antagonist;agonist,Dopamine
+rawtarget_5-ht_receptor_agonist,5-HT receptor agonist,receptor agonist;agonist,5-HT
+rawtarget_5-ht_1a_receptor_agonist,5-HT 1a receptor agonist,receptor agonist;agonist,5-HT 1a
+rawtarget_dopamine_transporter_stimulator,Dopamine transporter stimulator,stimulator,Dopamine transporter
+rawtarget_tnf_antagonist,TNF antagonist,antagonist;agonist,TNF
+rawtarget_nlr_family_member_x1_stimulator,NLR family member X1 stimulator,stimulator,NLR family member X1
+rawtarget_glucosylceramide_synthase_inhibitor,Glucosylceramide synthase inhibitor,inhibitor,Glucosylceramide synthase
+rawtarget_trace_amine_associated_receptor_1_agonist,Trace amine associated receptor 1 agonist,agonist,Trace amine associated receptor 1
+rawtarget_gm-csf_ligand_modulator,GM-CSF ligand modulator,ligand modulator;modulator,GM-CSF
+rawtarget_dyrk_protein_kinase_inhibitor,DYRK protein kinase inhibitor,protein kinase inhibitor;kinase inhibitor;inhibitor,DYRK
+rawtarget_dyrk-1_beta_protein_kinase_inhibitor,DYRK-1 beta protein kinase inhibitor,protein kinase inhibitor;kinase inhibitor;inhibitor,DYRK-1 beta
+rawtarget_dyrk-2_protein_kinase_inhibitor,DYRK-2 protein kinase inhibitor,protein kinase inhibitor;kinase inhibitor;inhibitor,DYRK-2
+rawtarget_dyrk-3_protein_kinase_inhibitor,DYRK-3 protein kinase inhibitor,protein kinase inhibitor;kinase inhibitor;inhibitor,DYRK-3
+rawtarget_casein_kinase-i_delta_modulator,Casein kinase-I delta modulator,modulator,Casein kinase-I delta
+rawtarget_abl_tyrosine_kinase_inhibitor,Abl tyrosine kinase inhibitor,kinase inhibitor;inhibitor,Abl tyrosine
+rawtarget_general_transcription_factor_ii-i_inhibitor,General transcription factor II-I inhibitor,inhibitor,General transcription factor II-I
+rawtarget_histone_deacetylase-3_inhibitor,Histone deacetylase-3 inhibitor,inhibitor,Histone deacetylase-3
+rawtarget_histone_deacetylase-6_inhibitor,Histone deacetylase-6 inhibitor,inhibitor,Histone deacetylase-6
+rawtarget_histone_deacetylase-1_inhibitor,Histone deacetylase-1 inhibitor,inhibitor,Histone deacetylase-1
+rawtarget_histone_deacetylase-2_inhibitor,Histone deacetylase-2 inhibitor,inhibitor,Histone deacetylase-2
+rawtarget_sterile_alpha_tir_motif_protein_1_inhibitor,Sterile alpha TIR motif protein 1 inhibitor,inhibitor,Sterile alpha TIR motif protein 1
+rawtarget_proline_rich_receptor_like_kinase_perk_inhibitor,Proline rich receptor like kinase PERK inhibitor,inhibitor,Proline rich receptor like kinase PERK
+rawtarget_crf-2_receptor_antagonist,CRF-2 receptor antagonist,receptor antagonist;antagonist;agonist,CRF-2
+rawtarget_tlr-2_antagonist,TLR-2 antagonist,antagonist;agonist,TLR-2
+rawtarget_hdac6_gene_stimulator,HDAC6 gene stimulator,stimulator,HDAC6 gene
+rawtarget_histone_deacetylase-6_stimulator,Histone deacetylase-6 stimulator,stimulator,Histone deacetylase-6
+rawtarget_tar_dna_binding_protein_43_inhibitor,TAR DNA binding protein 43 inhibitor,inhibitor,TAR DNA binding protein 43
+rawtarget_dcc_gene_inhibitor,DCC gene inhibitor,inhibitor,DCC gene
+rawtarget_mucin_stimulator,Mucin stimulator,stimulator,Mucin
+rawtarget_rtn4_gene_inhibitor,RTN4 gene inhibitor,inhibitor,RTN4 gene
+rawtarget_sema6a_gene_inhibitor,SEMA6A gene inhibitor,inhibitor,SEMA6A gene
+rawtarget_cxcr4_chemokine_modulator,CXCR4 chemokine modulator,modulator,CXCR4 chemokine
+rawtarget_btk_tyrosine_kinase_inhibitor,Btk tyrosine kinase inhibitor,kinase inhibitor;inhibitor,Btk tyrosine
+rawtarget_lim_homeobox_protein_lmx1a_modulator,LIM homeobox protein LMX1A modulator,modulator,LIM homeobox protein LMX1A
+rawtarget_tyrosine_hydroxylase_modulator,Tyrosine hydroxylase modulator,modulator,Tyrosine hydroxylase
+rawtarget_homeobox_engrailed_protein_1_modulator,Homeobox engrailed protein 1 modulator,modulator,Homeobox engrailed protein 1
+rawtarget_foxa2_transcription_factor_modulator,FOXA2 transcription factor modulator,modulator,FOXA2 transcription factor
+rawtarget_orphan_nuclear_receptor_nurr1_modulator,Orphan nuclear receptor NURR1 modulator,modulator,Orphan nuclear receptor NURR1
+rawtarget_ngf_receptor_agonist,NGF receptor agonist,receptor agonist;agonist,NGF
+rawtarget_gaba_a_receptor_agonist,GABA A receptor agonist,receptor agonist;agonist,GABA A
+rawtarget_amylin_receptor_antagonist,Amylin receptor antagonist,receptor antagonist;antagonist;agonist,Amylin
+rawtarget_nmda_glycine_antagonist,NMDA glycine antagonist,antagonist;agonist,NMDA glycine
+rawtarget_unspecified_gpcr_modulator,Unspecified GPCR modulator,modulator,Unspecified GPCR
+rawtarget_jun_n_terminal_kinase-2_inhibitor,Jun N terminal kinase-2 inhibitor,inhibitor,Jun N terminal kinase-2
+rawtarget_hexokinase_4_inhibitor,Hexokinase 4 inhibitor,inhibitor,Hexokinase 4
+rawtarget_p38_map_kinase_alpha_inhibitor,p38 MAP kinase alpha inhibitor,inhibitor,p38 MAP kinase alpha
+rawtarget_casein_kinase_i_inhibitor,Casein kinase I inhibitor,inhibitor,Casein kinase I
+rawtarget_arg_tyrosine_kinase_inhibitor,Arg tyrosine kinase inhibitor,kinase inhibitor;inhibitor,Arg tyrosine
+rawtarget_cak_tyrosine_kinase_receptor_inhibitor,Cak tyrosine kinase receptor inhibitor,inhibitor,Cak tyrosine kinase receptor
+rawtarget_ddr2_tyrosine_kinase_receptor_inhibitor,Ddr2 tyrosine kinase receptor inhibitor,inhibitor,Ddr2 tyrosine kinase receptor
+rawtarget_mekkk-4_protein_kinase_inhibitor,MEKKK-4 protein kinase inhibitor,protein kinase inhibitor;kinase inhibitor;inhibitor,MEKKK-4
+rawtarget_jun_n_terminal_kinase-1_inhibitor,Jun N terminal kinase-1 inhibitor,inhibitor,Jun N terminal kinase-1
+rawtarget_jun_n_terminal_kinase-3_inhibitor,Jun N terminal kinase-3 inhibitor,inhibitor,Jun N terminal kinase-3
+rawtarget_tnf_receptor_associated_factor_2_inhibitor,TNF receptor associated factor 2 inhibitor,inhibitor,TNF receptor associated factor 2
+rawtarget_map3k12_binding_inhibitory_protein_inhibitor,MAP3K12 binding inhibitory protein inhibitor,inhibitor,MAP3K12 binding inhibitory protein
+rawtarget_dual_leucine_zipper_kinase_inhibitor,Dual leucine zipper kinase inhibitor,kinase inhibitor;inhibitor,Dual leucine zipper
+rawtarget_protein_arginine_n-methyltransferase_1_stimulator,Protein arginine N-methyltransferase 1 stimulator,stimulator,Protein arginine N-methyltransferase 1
+rawtarget_superoxide_dismutase_mn_inhibitor,Superoxide dismutase Mn inhibitor,inhibitor,Superoxide dismutase Mn
+rawtarget_cxc10_chemokine_ligand_inhibitor,CXC10 chemokine ligand inhibitor,ligand inhibitor;inhibitor,CXC10 chemokine
+rawtarget_growth_regulated_protein_alpha_ligand_inhibitor,Growth regulated protein alpha ligand inhibitor,ligand inhibitor;inhibitor,Growth regulated protein alpha
+rawtarget_prmt1_gene_stimulator,PRMT1 gene stimulator,stimulator,PRMT1 gene
+rawtarget_superoxide_dismutase_cu-zn_inhibitor,Superoxide dismutase (Cu-Zn) inhibitor,inhibitor,Superoxide dismutase (Cu-Zn)
+rawtarget_monocyte_chemotactic_protein_1_ligand_inhibitor,Monocyte chemotactic protein 1 ligand inhibitor,ligand inhibitor;inhibitor,Monocyte chemotactic protein 1
+rawtarget_glutathione_peroxidase_1_inhibitor,Glutathione peroxidase 1 inhibitor,inhibitor,Glutathione peroxidase 1
+rawtarget_gaba_a_receptor_alpha-3_subunit_stimulator,GABA A receptor alpha-3 subunit stimulator,stimulator,GABA A receptor alpha-3 subunit
+rawtarget_gaba_a_receptor_alpha-2_subunit_stimulator,GABA A receptor alpha-2 subunit stimulator,stimulator,GABA A receptor alpha-2 subunit
+rawtarget_nad-dependent_deacetylase_sirtuin-1_stimulator,NAD-dependent deacetylase sirtuin-1 stimulator,stimulator,NAD-dependent deacetylase sirtuin-1
+rawtarget_protein_arginine_n-methyltransferase_8_inhibitor,Protein arginine N-methyltransferase 8 inhibitor,inhibitor,Protein arginine N-methyltransferase 8
+rawtarget_dopamine_d1_receptor_agonist,Dopamine D1 receptor agonist,receptor agonist;agonist,Dopamine D1
+rawtarget_mucolipin_1_stimulator,Mucolipin 1 stimulator,stimulator,Mucolipin 1
+rawtarget_amp_activated_protein_kinase_alpha_2_stimulator,AMP activated protein kinase alpha 2 stimulator,stimulator,AMP activated protein kinase alpha 2
+rawtarget_quinone_reductase-1_stimulator,Quinone reductase-1 stimulator,stimulator,Quinone reductase-1
+rawtarget_opioid_receptor_mu_agonist,Opioid receptor mu agonist,agonist,Opioid receptor mu
+rawtarget_enolase_1_modulator,Enolase 1 modulator,modulator,Enolase 1
+rawtarget_arid1b_gene_modulator,ARID1B gene modulator,gene modulator;modulator,ARID1B
+rawtarget_pten_gene_modulator,PTEN gene modulator,gene modulator;modulator,PTEN
+rawtarget_chd8_gene_modulator,CHD8 gene modulator,gene modulator;modulator,CHD8
+rawtarget_suv420h1_gene_modulator,SUV420H1 gene modulator,gene modulator;modulator,SUV420H1
+rawtarget_macrophage_migration_inhibitory_factor_inhibitor,Macrophage migration inhibitory factor inhibitor,inhibitor,Macrophage migration inhibitory factor
+rawtarget_nuclear_receptor_1d1_agonist,Nuclear receptor 1D1 agonist,agonist,Nuclear receptor 1D1
+rawtarget_nuclear_receptor_1d2_agonist,Nuclear receptor 1D2 agonist,agonist,Nuclear receptor 1D2
+rawtarget_aldehyde_dehydrogenase_2_stimulator,Aldehyde dehydrogenase 2 stimulator,stimulator,Aldehyde dehydrogenase 2
+rawtarget_chmp_gene_inhibitor,CHMP gene inhibitor,inhibitor,CHMP gene
+rawtarget_hemoglobin_scavenger_receptor_modulator,Hemoglobin scavenger receptor modulator,modulator,Hemoglobin scavenger receptor
+rawtarget_calcium_channel_inhibitor_t-type,Calcium channel inhibitor T-type,inhibitor,Calcium channel T-type
+rawtarget_indoleamine_pyrrole_2_3-dioxygenase_1_inhibitor,Indoleamine pyrrole 2 3-dioxygenase 1 inhibitor,inhibitor,Indoleamine pyrrole 2 3-dioxygenase 1
+rawtarget_opioid_receptor_delta_modulator,Opioid receptor delta modulator,modulator,Opioid receptor delta
+rawtarget_ryanodine_receptor_modulator,Ryanodine receptor modulator,modulator,Ryanodine receptor
+rawtarget_fk506_binding_protein-12_modulator,FK506 binding protein-12 modulator,modulator,FK506 binding protein-12
+rawtarget_scn5a_sodium_channel_subunit_inhibitor,SCN5A sodium channel subunit inhibitor,inhibitor,SCN5A sodium channel subunit
+rawtarget_scn11a_sodium_channel_subunit_inhibitor,SCN11A sodium channel subunit inhibitor,inhibitor,SCN11A sodium channel subunit
+rawtarget_scn8a_sodium_channel_subunit_inhibitor,SCN8A sodium channel subunit inhibitor,inhibitor,SCN8A sodium channel subunit
+rawtarget_scn1a_sodium_channel_subunit_inhibitor,SCN1A sodium channel subunit inhibitor,inhibitor,SCN1A sodium channel subunit
+rawtarget_scn2a_sodium_channel_subunit_inhibitor,SCN2A sodium channel subunit inhibitor,inhibitor,SCN2A sodium channel subunit
+rawtarget_scn3a_sodium_channel_subunit_inhibitor,SCN3A sodium channel subunit inhibitor,inhibitor,SCN3A sodium channel subunit
+rawtarget_scn10a_sodium_channel_subunit_inhibitor,SCN10A sodium channel subunit inhibitor,inhibitor,SCN10A sodium channel subunit
+rawtarget_scn9a_sodium_channel_subunit_inhibitor,SCN9A sodium channel subunit inhibitor,inhibitor,SCN9A sodium channel subunit
+rawtarget_scn4a_sodium_channel_subunit_inhibitor,SCN4A sodium channel subunit inhibitor,inhibitor,SCN4A sodium channel subunit
+rawtarget_o-glcnac_transferase_subunit_p110_inhibitor,O-GlcNAc transferase subunit p110 inhibitor,inhibitor,O-GlcNAc transferase subunit p110
+rawtarget_cyclin-dependent_kinase-7_inhibitor,Cyclin-dependent kinase-7 inhibitor,inhibitor,Cyclin-dependent kinase-7
+rawtarget_aurora_protein_kinase_2_inhibitor,Aurora protein kinase 2 inhibitor,inhibitor,Aurora protein kinase 2
+rawtarget_mekkk-1_protein_kinase_inhibitor,MEKKK-1 protein kinase inhibitor,protein kinase inhibitor;kinase inhibitor;inhibitor,MEKKK-1
+rawtarget_ubiquitin_modulator,Ubiquitin modulator,modulator,Ubiquitin
+rawtarget_cannabinoid_cb2_receptor_modulator,Cannabinoid CB2 receptor modulator,modulator,Cannabinoid CB2 receptor
+rawtarget_cannabinoid_cb1_receptor_modulator,Cannabinoid CB1 receptor modulator,modulator,Cannabinoid CB1 receptor
+rawtarget_beta_amyloid_synthesis_inhibitor,Beta amyloid synthesis inhibitor,inhibitor,Beta amyloid synthesis
+rawtarget_glycine_transporter-1_inhibitor,Glycine transporter-1 inhibitor,inhibitor,Glycine transporter-1
+rawtarget_app_gene_modulator,APP gene modulator,gene modulator;modulator,APP
+rawtarget_lrrk2_gene_modulator,LRRK2 gene modulator,gene modulator;modulator,LRRK2
+rawtarget_abca4_gene_modulator,ABCA4 gene modulator,gene modulator;modulator,ABCA4
+rawtarget_hexa_gene_modulator,HEXA gene modulator,gene modulator;modulator,HEXA
+rawtarget_serpina1_gene_modulator,SERPINA1 gene modulator,gene modulator;modulator,SERPINA1
+rawtarget_aimp_multisynthetase_complex_protein_2_modulator,AIMP multisynthetase complex protein 2 modulator,modulator,AIMP multisynthetase complex protein 2
+rawtarget_5-ht_3_receptor_agonist,5-HT 3 receptor agonist,receptor agonist;agonist,5-HT 3
+rawtarget_sphingosine-1-phosphate_receptor-5_agonist,Sphingosine-1-phosphate receptor-5 agonist,agonist,Sphingosine-1-phosphate receptor-5
+rawtarget_cytochrome_p450_46a1_inhibitor,Cytochrome P450 46A1 inhibitor,inhibitor,Cytochrome P450 46A1
+rawtarget_metalloproteinase_inhibitor-4_modulator,Metalloproteinase inhibitor-4 modulator,inhibitor;modulator,Metalloproteinase -4
+rawtarget_group_10_secretory_phospholipase_a2_modulator,Group 10 secretory phospholipase A2 modulator,modulator,Group 10 secretory phospholipase A2
+rawtarget_igf_binding_protein-1_modulator,IGF binding protein-1 modulator,modulator,IGF binding protein-1
+rawtarget_fgf-19_ligand_modulator,FGF-19 ligand modulator,ligand modulator;modulator,FGF-19
+rawtarget_enteropeptidase_modulator,Enteropeptidase modulator,modulator,Enteropeptidase
+rawtarget_neurofilament_light_polypeptide_modulator,Neurofilament light polypeptide modulator,modulator,Neurofilament light polypeptide
+rawtarget_carboxypeptidase_a2_modulator,Carboxypeptidase A2 modulator,modulator,Carboxypeptidase A2
+rawtarget_metabotropic_glutamate_receptor_3_antagonist,Metabotropic glutamate receptor 3 antagonist,antagonist;agonist,Metabotropic glutamate receptor 3
+rawtarget_metabotropic_glutamate_receptor_2_antagonist,Metabotropic glutamate receptor 2 antagonist,antagonist;agonist,Metabotropic glutamate receptor 2
+rawtarget_vasopressin_v2_receptor_antagonist,Vasopressin V2 receptor antagonist,receptor antagonist;antagonist;agonist,Vasopressin V2
+rawtarget_5-ht_3_receptor_antagonist,5-HT 3 receptor antagonist,receptor antagonist;antagonist;agonist,5-HT 3
+rawtarget_5-ht_3_receptor_partial_agonist,5-HT 3 receptor partial agonist,partial agonist;agonist,5-HT 3 receptor
+rawtarget_glycogen_synthase_kinase-3_alpha_inhibitor,Glycogen synthase kinase-3 alpha inhibitor,inhibitor,Glycogen synthase kinase-3 alpha
+rawtarget_granulin_1_ligand_modulator,Granulin 1 ligand modulator,ligand modulator;modulator,Granulin 1
+rawtarget_inositol_hexakisphosphate_kinase_inhibitor,Inositol hexakisphosphate kinase inhibitor,kinase inhibitor;inhibitor,Inositol hexakisphosphate
+rawtarget_orphan_nuclear_receptor_nr2e1_modulator,Orphan nuclear receptor NR2E1 modulator,modulator,Orphan nuclear receptor NR2E1
+rawtarget_sphingosine-1-phosphate_receptor-5_modulator,Sphingosine-1-phosphate receptor-5 modulator,modulator,Sphingosine-1-phosphate receptor-5
+rawtarget_ampa_receptor_modulator,AMPA receptor modulator,modulator,AMPA receptor
+rawtarget_homeobox_prospero-like_protein_prox1_modulator,Homeobox prospero-like protein PROX1 modulator,modulator,Homeobox prospero-like protein PROX1
+rawtarget_microtubule_associated_protein_2_modulator,Microtubule associated protein 2 modulator,modulator,Microtubule associated protein 2
+rawtarget_adenylate_cyclase_inhibitor,Adenylate cyclase inhibitor,inhibitor,Adenylate cyclase
+rawtarget_cyclic_gmp_phosphodiesterase_inhibitor,Cyclic GMP phosphodiesterase inhibitor,inhibitor,Cyclic GMP phosphodiesterase
+rawtarget_cannabinoid_cb2_receptor_antagonist,Cannabinoid CB2 receptor antagonist,receptor antagonist;antagonist;agonist,Cannabinoid CB2
+rawtarget_5-ht_2c_receptor_agonist,5-HT 2c receptor agonist,receptor agonist;agonist,5-HT 2c
+rawtarget_nad_kinase_modulator,NAD kinase modulator,modulator,NAD kinase
+rawtarget_eukaryotic_initiation_factor_2_beta_modulator,Eukaryotic initiation factor 2 beta modulator,modulator,Eukaryotic initiation factor 2 beta
+rawtarget_stimulator_of_interferon_genes_protein_inhibitor,Stimulator of interferon genes protein inhibitor,inhibitor;stimulator,of interferon genes protein
+rawtarget_mek_protein_kinase_inhibitor,MEK protein kinase inhibitor,protein kinase inhibitor;kinase inhibitor;inhibitor,MEK
+rawtarget_cgmp_dependent_protein_kinase_1_inhibitor,cGMP dependent protein kinase 1 inhibitor,inhibitor,cGMP dependent protein kinase 1
+rawtarget_fgf4_receptor_antagonist,FGF4 receptor antagonist,receptor antagonist;antagonist;agonist,FGF4
+rawtarget_coup_transcription_factor_1_inhibitor,COUP transcription factor 1 inhibitor,inhibitor,COUP transcription factor 1
+rawtarget_polo-like_kinase_3_inhibitor,Polo-like kinase 3 inhibitor,inhibitor,Polo-like kinase 3
+rawtarget_mekkk-6_protein_kinase_inhibitor,MEKKK-6 protein kinase inhibitor,protein kinase inhibitor;kinase inhibitor;inhibitor,MEKKK-6
+rawtarget_presenilin_1_modulator,Presenilin 1 modulator,modulator,Presenilin 1
+rawtarget_tnfrsf13b_gene_modulator,TNFRSF13B gene modulator,gene modulator;modulator,TNFRSF13B
+rawtarget_tumor_necrosis_factor_13b_receptor_antagonist,Tumor necrosis factor 13B receptor antagonist,receptor antagonist;antagonist;agonist,Tumor necrosis factor 13B
+rawtarget_gaba_a_receptor_antagonist,GABA A receptor antagonist,receptor antagonist;antagonist;agonist,GABA A
+rawtarget_nmda_glycine_modulator,NMDA glycine modulator,modulator,NMDA glycine
+rawtarget_casein_kinase-i_delta_inhibitor,Casein kinase-I delta inhibitor,inhibitor,Casein kinase-I delta
+rawtarget_casein_kinase-i_alpha_inhibitor,Casein kinase-I alpha inhibitor,inhibitor,Casein kinase-I alpha
+rawtarget_casein_kinase-i_epsilon_inhibitor,Casein kinase-I epsilon inhibitor,inhibitor,Casein kinase-I epsilon
+rawtarget_glycogen_synthase_kinase-3_inhibitor,Glycogen synthase kinase-3 inhibitor,inhibitor,Glycogen synthase kinase-3
+rawtarget_tau_kinase_inhibitor,Tau kinase inhibitor,kinase inhibitor;inhibitor,Tau
+rawtarget_gamma-secretase_modulator,Gamma-secretase modulator,modulator,Gamma-secretase
+rawtarget_orexin_2_receptor_antagonist,Orexin 2 receptor antagonist,receptor antagonist;antagonist;agonist,Orexin 2
+rawtarget_cox6c_gene_modulator,COX6C gene modulator,gene modulator;modulator,COX6C
+rawtarget_eukaryotic_initiation_factor_4a_inhibitor,Eukaryotic initiation factor 4A inhibitor,inhibitor,Eukaryotic initiation factor 4A
+rawtarget_histone_deacetylase-9_inhibitor,Histone deacetylase-9 inhibitor,inhibitor,Histone deacetylase-9
+rawtarget_5-ht_1a_receptor_partial_agonist,5-HT 1a receptor partial agonist,partial agonist;agonist,5-HT 1a receptor
+rawtarget_dopamine_d2_receptor_partial_agonist,Dopamine D2 receptor partial agonist,partial agonist;agonist,Dopamine D2 receptor
+rawtarget_stellate_protein_kinase_inhibitor,Stellate protein kinase inhibitor,protein kinase inhibitor;kinase inhibitor;inhibitor,Stellate
+rawtarget_tgf-beta_type_ii_receptor_antagonist,TGF-beta type II receptor antagonist,receptor antagonist;antagonist;agonist,TGF-beta type II
+rawtarget_pannexin_1_inhibitor,Pannexin 1 inhibitor,inhibitor,Pannexin 1
+rawtarget_stromal_interaction_molecule_modulator,Stromal interaction molecule modulator,modulator,Stromal interaction molecule
+rawtarget_phosphatidylinositol_4_kinase_alpha_inhibitor,Phosphatidylinositol 4 kinase alpha inhibitor,inhibitor,Phosphatidylinositol 4 kinase alpha
+rawtarget_5-ht_1f_receptor_agonist,5-HT 1f receptor agonist,receptor agonist;agonist,5-HT 1f
+rawtarget_histone_lysine_methyltransferase_2a_modulator,Histone lysine methyltransferase 2A modulator,modulator,Histone lysine methyltransferase 2A
+rawtarget_nestin_modulator,Nestin modulator,modulator,Nestin
+rawtarget_kmt2a_gene_modulator,KMT2A gene modulator,gene modulator;modulator,KMT2A
+rawtarget_myeloid_lymphoid_leukemia_protein_3_modulator,Myeloid lymphoid leukemia protein 3 modulator,modulator,Myeloid lymphoid leukemia protein 3
+rawtarget_glial_fibrillary_acidic_protein_modulator,Glial fibrillary acidic protein modulator,protein modulator;modulator,Glial fibrillary acidic
+rawtarget_mll3_gene_modulator,MLL3 gene modulator,gene modulator;modulator,MLL3
+rawtarget_stat-6_inhibitor,STAT-6 inhibitor,inhibitor,STAT-6
+rawtarget_cytokine_receptor_antagonist,Cytokine receptor antagonist,receptor antagonist;antagonist;agonist,Cytokine
+rawtarget_transcription_factor_p65_inhibitor,Transcription factor p65 inhibitor,inhibitor,Transcription factor p65
+rawtarget_stat-3_inhibitor,STAT-3 inhibitor,inhibitor,STAT-3
+rawtarget_il-4_receptor_antagonist,IL-4 receptor antagonist,receptor antagonist;antagonist;agonist,IL-4
+rawtarget_cd95_antagonist,CD95 antagonist,antagonist;agonist,CD95
+rawtarget_il-2_receptor_antagonist,IL-2 receptor antagonist,receptor antagonist;antagonist;agonist,IL-2
+rawtarget_lrig_gene_inhibitor,LRIG gene inhibitor,inhibitor,LRIG gene
+rawtarget_nicotinic_acetylcholine_receptor_modulator,Nicotinic acetylcholine receptor modulator,modulator,Nicotinic acetylcholine receptor
+rawtarget_nad_synthase_stimulator,NAD synthase stimulator,stimulator,NAD synthase
+rawtarget_ubiquitin_thioesterase-13_inhibitor,Ubiquitin thioesterase-13 inhibitor,inhibitor,Ubiquitin thioesterase-13
+rawtarget_dopamine_d4_receptor_antagonist,Dopamine D4 receptor antagonist,receptor antagonist;antagonist;agonist,Dopamine D4
+rawtarget_opioid_receptor_modulator,Opioid receptor modulator,modulator,Opioid receptor
+rawtarget_5-ht_7_receptor_agonist,5-HT 7 receptor agonist,receptor agonist;agonist,5-HT 7
+rawtarget_5-ht_2b_receptor_agonist,5-HT 2b receptor agonist,receptor agonist;agonist,5-HT 2b
+rawtarget_slc12a5_gene_modulator,SLC12A5 gene modulator,gene modulator;modulator,SLC12A5
+rawtarget_synaptophysin_modulator,Synaptophysin modulator,modulator,Synaptophysin
+rawtarget_orexin_1_receptor_antagonist,Orexin 1 receptor antagonist,receptor antagonist;antagonist;agonist,Orexin 1
+rawtarget_sarm1_gene_modulator,SARM1 gene modulator,gene modulator;modulator,SARM1
+rawtarget_cyclin-dependent_kinase-2_inhibitor,Cyclin-dependent kinase-2 inhibitor,inhibitor,Cyclin-dependent kinase-2
+rawtarget_nicotinamide_phosphoribosyltransferase_stimulator,Nicotinamide phosphoribosyltransferase stimulator,stimulator,Nicotinamide phosphoribosyltransferase
+rawtarget_smad-2_inhibitor,SMAD-2 inhibitor,inhibitor,SMAD-2
+rawtarget_smad-3_inhibitor,SMAD-3 inhibitor,inhibitor,SMAD-3
+rawtarget_p2x2_purinoceptor_antagonist,P2X2 purinoceptor antagonist,antagonist;agonist,P2X2 purinoceptor
+rawtarget_p2x3_purinoceptor_antagonist,P2X3 purinoceptor antagonist,antagonist;agonist,P2X3 purinoceptor
+rawtarget_dopamine_d2_receptor_agonist,Dopamine D2 receptor agonist,receptor agonist;agonist,Dopamine D2
+rawtarget_nad_kinase_stimulator,NAD kinase stimulator,stimulator,NAD kinase
+rawtarget_huntingtin_inhibitor,Huntingtin inhibitor,inhibitor,Huntingtin
+rawtarget_puromycin_sensitive_aminopeptidase_inhibitor,Puromycin sensitive aminopeptidase inhibitor,inhibitor,Puromycin sensitive aminopeptidase
+rawtarget_ataxin_3_inhibitor,Ataxin 3 inhibitor,inhibitor,Ataxin 3
+rawtarget_interleukin-1_beta_ligand_modulator,Interleukin-1 beta ligand modulator,ligand modulator;modulator,Interleukin-1 beta
+rawtarget_cxc10_chemokine_ligand_modulator,CXC10 chemokine ligand modulator,ligand modulator;modulator,CXC10 chemokine
+rawtarget_gm-csf_ligand,GM-CSF ligand,unspecified,GM-CSF ligand
+rawtarget_mip_1_alpha_ligand_modulator,MIP 1 alpha ligand modulator,ligand modulator;modulator,MIP 1 alpha
+rawtarget_interleukin_1_like_receptor_modulator,Interleukin 1 like receptor modulator,modulator,Interleukin 1 like receptor
+rawtarget_mip_1_beta_ligand_modulator,MIP 1 beta ligand modulator,ligand modulator;modulator,MIP 1 beta
+rawtarget_opioid_receptor_delta_agonist,Opioid receptor delta agonist,agonist,Opioid receptor delta
+rawtarget_opioid_receptor_kappa_agonist,Opioid receptor kappa agonist,agonist,Opioid receptor kappa
+rawtarget_heme_oxygenase_1_stimulator,Heme oxygenase 1 stimulator,stimulator,Heme oxygenase 1
+rawtarget_nuclear_erythroid_2-related_factor_2_stimulator,Nuclear erythroid 2-related factor 2 stimulator,stimulator,Nuclear erythroid 2-related factor 2
+rawtarget_adenosine_a2a_receptor_antagonist,Adenosine A2a receptor antagonist,receptor antagonist;antagonist;agonist,Adenosine A2a
+rawtarget_mtor_complex_1_inhibitor,mTOR complex 1 inhibitor,inhibitor,mTOR complex 1
+rawtarget_mtor_complex_2_inhibitor,mTOR complex 2 inhibitor,inhibitor,mTOR complex 2
+rawtarget_autophagy_protein_stimulator,Autophagy protein stimulator,stimulator,Autophagy protein
+rawtarget_fgf-2_ligand_modulator,FGF-2 ligand modulator,ligand modulator;modulator,FGF-2
+rawtarget_fgf1_receptor_modulator,FGF1 receptor modulator,modulator,FGF1 receptor
+rawtarget_serotonin_transporter_inhibitor,Serotonin transporter inhibitor,inhibitor,Serotonin transporter
+rawtarget_vimentin_modulator,Vimentin modulator,modulator,Vimentin
+rawtarget_g_protein_coupled_receptor_17_modulator,G protein coupled receptor 17 modulator,modulator,G protein coupled receptor 17
+rawtarget_tar_dna_binding_protein_43_stimulator,TAR DNA binding protein 43 stimulator,stimulator,TAR DNA binding protein 43
+rawtarget_ubiquitin_thioesterase-30_inhibitor,Ubiquitin thioesterase-30 inhibitor,inhibitor,Ubiquitin thioesterase-30
+rawtarget_factor_vii_modulator,Factor VII modulator,modulator,Factor VII
+rawtarget_fabp3_gene_modulator,FABP3 gene modulator,gene modulator;modulator,FABP3
+rawtarget_myelin_basic_protein_modulator,Myelin basic protein modulator,protein modulator;modulator,Myelin basic
+rawtarget_g-protein_coupled_receptor_120_agonist,G-protein coupled receptor 120 agonist,agonist,G-protein coupled receptor 120
+rawtarget_tar_dna_binding_protein_43_modulator,TAR DNA binding protein 43 modulator,modulator,TAR DNA binding protein 43
+rawtarget_nicotinic_ach_receptor_alpha_7_subunit_modulator,Nicotinic ACh receptor alpha 7 subunit modulator,modulator,Nicotinic ACh receptor alpha 7 subunit
+rawtarget_trp_cation_channel_m2_inhibitor,TRP cation channel M2 inhibitor,inhibitor,TRP cation channel M2
+rawtarget_akt3_protein_kinase_inhibitor,AKT3 protein kinase inhibitor,protein kinase inhibitor;kinase inhibitor;inhibitor,AKT3
+rawtarget_nlr_family_card_domain_protein_4_inhibitor,NLR family CARD domain protein 4 inhibitor,inhibitor,NLR family CARD domain protein 4
+rawtarget_interferon_gamma_receptor_antagonist,Interferon gamma receptor antagonist,receptor antagonist;antagonist;agonist,Interferon gamma
+rawtarget_ephb3_tyrosine_kinase_receptor_inhibitor,Ephb3 tyrosine kinase receptor inhibitor,inhibitor,Ephb3 tyrosine kinase receptor
+rawtarget_orexin_2_receptor_agonist,Orexin 2 receptor agonist,receptor agonist;agonist,Orexin 2
+rawtarget_orexin_receptor_agonist,Orexin receptor agonist,receptor agonist;agonist,Orexin
+rawtarget_plagl2_gene_modulator,PLAGL2 gene modulator,gene modulator;modulator,PLAGL2
+rawtarget_dyrk1a_gene_modulator,DYRK1A gene modulator,gene modulator;modulator,DYRK1A
+rawtarget_dna_replication_licensing_factor_mcm2_modulator,DNA replication licensing factor MCM2 modulator,modulator,DNA replication licensing factor MCM2
+rawtarget_vasopressin_v1b_receptor_antagonist,Vasopressin V1b receptor antagonist,receptor antagonist;antagonist;agonist,Vasopressin V1b
+rawtarget_snca_gene_modulator,SNCA gene modulator,gene modulator;modulator,SNCA
+rawtarget_uchl1_gene_modulator,UCHL1 gene modulator,gene modulator;modulator,UCHL1
+rawtarget_vascular_cell_adhesion_protein_1_antagonist,Vascular cell adhesion protein 1 antagonist,antagonist;agonist,Vascular cell adhesion protein 1
+rawtarget_ccl5_gene_inhibitor,CCL5 gene inhibitor,inhibitor,CCL5 gene
+rawtarget_ccl20_gene_inhibitor,CCL20 gene inhibitor,inhibitor,CCL20 gene
+rawtarget_nadh_cytochrome_b5_reductase_3_stimulator,NADH cytochrome b5 reductase 3 stimulator,stimulator,NADH cytochrome b5 reductase 3
+rawtarget_icam-1_inhibitor,ICAM-1 inhibitor,inhibitor,ICAM-1
+rawtarget_cxcl10_gene_inhibitor,CXCL10 gene inhibitor,inhibitor,CXCL10 gene
+rawtarget_nmda_receptor_epsilon_2_subunit_inhibitor,NMDA receptor epsilon 2 subunit inhibitor,inhibitor,NMDA receptor epsilon 2 subunit
+rawtarget_apolipoprotein_b_modulator,Apolipoprotein B modulator,modulator,Apolipoprotein B
+rawtarget_mitofusin_stimulator,Mitofusin stimulator,stimulator,Mitofusin
+rawtarget_synaptic_vesicular_amine_transporter_inhibitor,Synaptic vesicular amine transporter inhibitor,inhibitor,Synaptic vesicular amine transporter
+rawtarget_c4b_binding_protein_alpha_chain_modulator,C4b binding protein alpha chain modulator,modulator,C4b binding protein alpha chain
+rawtarget_fibronectin_modulator,Fibronectin modulator,modulator,Fibronectin
+rawtarget_anxa3_gene_modulator,ANXA3 gene modulator,gene modulator;modulator,ANXA3
+rawtarget_a2m_gene_modulator,A2M gene modulator,gene modulator;modulator,A2M
+rawtarget_apoa1_gene_modulator,APOA1 gene modulator,gene modulator;modulator,APOA1
+rawtarget_anxa1_gene_modulator,ANXA1 gene modulator,gene modulator;modulator,ANXA1
+rawtarget_c4bpa_gene_modulator,C4BPA gene modulator,gene modulator;modulator,C4BPA
+rawtarget_alpha_2_macroglobulin_modulator,Alpha 2 macroglobulin modulator,modulator,Alpha 2 macroglobulin
+rawtarget_blvrb_gene_modulator,BLVRB gene modulator,gene modulator;modulator,BLVRB
+rawtarget_annexin_a1_modulator,Annexin A1 modulator,modulator,Annexin A1
+rawtarget_apolipoprotein_a1_modulator,Apolipoprotein A1 modulator,modulator,Apolipoprotein A1
+rawtarget_fn1_gene_modulator,FN1 gene modulator,gene modulator;modulator,FN1
+rawtarget_c4b_binding_protein_beta_chain_modulator,C4b binding protein beta chain modulator,modulator,C4b binding protein beta chain
+rawtarget_c4bpb_gene_modulator,C4BPB gene modulator,gene modulator;modulator,C4BPB
+rawtarget_annexin_a3_modulator,Annexin A3 modulator,modulator,Annexin A3
+rawtarget_biliverdin_reductase_b_modulator,Biliverdin reductase B modulator,modulator,Biliverdin reductase B
+rawtarget_bpgm_gene_modulator,BPGM gene modulator,gene modulator;modulator,BPGM
+rawtarget_cndp1_gene_modulator,CNDP1 gene modulator,gene modulator;modulator,CNDP1
+rawtarget_np_gene_modulator,NP gene modulator,gene modulator;modulator,NP
+rawtarget_carnosine_dipeptidase_1_modulator,Carnosine dipeptidase 1 modulator,modulator,Carnosine dipeptidase 1
+rawtarget_purine_nucleoside_phosphorylase_modulator,Purine nucleoside phosphorylase modulator,modulator,Purine nucleoside phosphorylase
+rawtarget_ccdc39_gene_modulator,CCDC39 gene modulator,gene modulator;modulator,CCDC39
+rawtarget_coiled_coil_domain_protein_39_modulator,Coiled coil domain protein 39 modulator,modulator,Coiled coil domain protein 39
+rawtarget_laminin_beta-1_subunit_modulator,Laminin beta-1 subunit modulator,modulator,Laminin beta-1 subunit
+rawtarget_desmin_modulator,Desmin modulator,modulator,Desmin
+rawtarget_aminopeptidase_n_modulator,Aminopeptidase N modulator,modulator,Aminopeptidase N
+rawtarget_stromal_cell-derived_factor_1_ligand_modulator,Stromal cell-derived factor 1 ligand modulator,ligand modulator;modulator,Stromal cell-derived factor 1
+rawtarget_cadherin-5_modulator,Cadherin-5 modulator,modulator,Cadherin-5
+rawtarget_collagen_iv_modulator,Collagen IV modulator,modulator,Collagen IV
+rawtarget_aortic_smooth_muscle_actin_modulator,Aortic smooth muscle actin modulator,modulator,Aortic smooth muscle actin
+rawtarget_cadherin-2_modulator,Cadherin-2 modulator,modulator,Cadherin-2
+rawtarget_muscle_specific_kinase_receptor_modulator,Muscle specific kinase receptor modulator,modulator,Muscle specific kinase receptor
+rawtarget_immunoglobulin_modulator,Immunoglobulin modulator,modulator,Immunoglobulin
+rawtarget_alk-6_protein_kinase_modulator,Alk-6 protein kinase modulator,modulator,Alk-6 protein kinase
+rawtarget_immunoglobulin_g2_modulator,Immunoglobulin G2 modulator,modulator,Immunoglobulin G2
+rawtarget_bone_morphogenetic_protein_receptor_modulator,Bone morphogenetic protein receptor modulator,modulator,Bone morphogenetic protein receptor
+rawtarget_metabotropic_glutamate_receptor_2_modulator,Metabotropic glutamate receptor 2 modulator,modulator,Metabotropic glutamate receptor 2
+rawtarget_atp_binding_cassette_transporter_a1_stimulator,ATP binding cassette transporter A1 stimulator,stimulator,ATP binding cassette transporter A1
+rawtarget_jak1_tyrosine_kinase_inhibitor,Jak1 tyrosine kinase inhibitor,kinase inhibitor;inhibitor,Jak1 tyrosine
+rawtarget_il-10_receptor_antagonist,IL-10 receptor antagonist,receptor antagonist;antagonist;agonist,IL-10
+rawtarget_il-13_receptor_antagonist,IL-13 receptor antagonist,receptor antagonist;antagonist;agonist,IL-13
+rawtarget_tyk2_tyrosine_kinase_inhibitor,Tyk2 tyrosine kinase inhibitor,kinase inhibitor;inhibitor,Tyk2 tyrosine
+rawtarget_jak3_tyrosine_kinase_inhibitor,Jak3 tyrosine kinase inhibitor,kinase inhibitor;inhibitor,Jak3 tyrosine
+rawtarget_jak2_tyrosine_kinase_inhibitor,Jak2 tyrosine kinase inhibitor,kinase inhibitor;inhibitor,Jak2 tyrosine
+rawtarget_tissue_transglutaminase_inhibitor,Tissue transglutaminase inhibitor,inhibitor,Tissue transglutaminase
+rawtarget_2_3_cyclic_nucleotide_phosphodiesterase_modulator,"2,3 cyclic nucleotide phosphodiesterase modulator",modulator,"2,3 cyclic nucleotide phosphodiesterase"
+rawtarget_oligodendrocyte_transcription_factor_2_modulator,Oligodendrocyte transcription factor 2 modulator,modulator,Oligodendrocyte transcription factor 2
+rawtarget_lingo1_gene_modulator,LINGO1 gene modulator,gene modulator;modulator,LINGO1
+rawtarget_olig1_gene_modulator,OLIG1 gene modulator,gene modulator;modulator,OLIG1
+rawtarget_olig2_gene_modulator,OLIG2 gene modulator,gene modulator;modulator,OLIG2
+rawtarget_oligodendrocyte_transcription_factor_1_modulator,Oligodendrocyte transcription factor 1 modulator,modulator,Oligodendrocyte transcription factor 1
+rawtarget_mapt_gene_modulator,MAPT gene modulator,gene modulator;modulator,MAPT
+rawtarget_leucine_rich_repeat_neuronal_protein_6a_modulator,Leucine rich repeat neuronal protein 6A modulator,modulator,Leucine rich repeat neuronal protein 6A
+rawtarget_cnp_gene_modulator,CNP gene modulator,gene modulator;modulator,CNP
+rawtarget_opioid_receptor_sigma_modulator_1,Opioid receptor sigma modulator 1,modulator,Opioid receptor sigma 1
+rawtarget_huntingtin_stimulator,Huntingtin stimulator,stimulator,Huntingtin
+rawtarget_n-formyl_peptide_receptor_modulator,N-formyl peptide receptor modulator,modulator,N-formyl peptide receptor
+rawtarget_histamine_n_methyltransferase_inhibitor,Histamine N methyltransferase inhibitor,inhibitor,Histamine N methyltransferase
+rawtarget_factor_xiia_antagonist,Factor XIIa antagonist,antagonist;agonist,Factor XIIa
+rawtarget_atf_transcription_factor_4_inhibitor,ATF transcription factor 4 inhibitor,inhibitor,ATF transcription factor 4
+rawtarget_12-lipoxygenase_modulator,12-Lipoxygenase modulator,modulator,12-Lipoxygenase
+rawtarget_mmp2_gene_modulator,MMP2 gene modulator,gene modulator;modulator,MMP2
+rawtarget_il27_gene_modulator,IL27 gene modulator,gene modulator;modulator,IL27
+rawtarget_programmed_cell_death_protein_1_modulator,Programmed cell death protein 1 modulator,modulator,Programmed cell death protein 1
+rawtarget_cd33_agonist,CD33 agonist,agonist,CD33
+rawtarget_cxcl10_gene_modulator,CXCL10 gene modulator,gene modulator;modulator,CXCL10
+rawtarget_myelin_associated_glycoprotein_modulator,Myelin associated glycoprotein modulator,protein modulator;modulator,Myelin associated glycoprotein
+rawtarget_carnitine_palmitoyltransferase-i_inhibitor,Carnitine palmitoyltransferase-I inhibitor,inhibitor,Carnitine palmitoyltransferase-I
+rawtarget_cpt1_gene_inhibitor,CPT1 gene inhibitor,inhibitor,CPT1 gene
+rawtarget_lysophospholipase_2_inhibitor,Lysophospholipase 2 inhibitor,inhibitor,Lysophospholipase 2
+rawtarget_lysophospholipase_1_inhibitor,Lysophospholipase 1 inhibitor,inhibitor,Lysophospholipase 1
+rawtarget_stat-3_modulator,STAT-3 modulator,modulator,STAT-3
+rawtarget_pip5p_4_kinase_type_ii_beta_inhibitor,PIP5P 4 kinase type II beta inhibitor,inhibitor,PIP5P 4 kinase type II beta
+rawtarget_pip5k2_protein_inhibitor,PIP5K2 protein inhibitor,inhibitor,PIP5K2 protein
+rawtarget_pip5p_4_kinase_type_ii_gamma_inhibitor,PIP5P 4 kinase type II gamma inhibitor,inhibitor,PIP5P 4 kinase type II gamma
+rawtarget_liver_x_receptor_modulator,Liver X receptor modulator,modulator,Liver X receptor
+rawtarget_nad_synthase_inhibitor,NAD synthase inhibitor,inhibitor,NAD synthase
+rawtarget_nicotinamide_phosphoribosyltransferase_inhibitor,Nicotinamide phosphoribosyltransferase inhibitor,inhibitor,Nicotinamide phosphoribosyltransferase
+rawtarget_il-12_receptor_modulator,IL-12 receptor modulator,modulator,IL-12 receptor
+rawtarget_interferon_alpha_1_ligand_modulator,Interferon alpha 1 ligand modulator,ligand modulator;modulator,Interferon alpha 1
+rawtarget_interferon_alpha_ligand_modulator,Interferon alpha ligand modulator,ligand modulator;modulator,Interferon alpha
+rawtarget_interferon_alpha_1_ligand_inhibitor,Interferon alpha 1 ligand inhibitor,ligand inhibitor;inhibitor,Interferon alpha 1
+rawtarget_lysyl_oxidase_inhibitor,Lysyl oxidase inhibitor,inhibitor,Lysyl oxidase
+rawtarget_transcriptional_enhancer_factor_tef-1_inhibitor,Transcriptional enhancer factor TEF-1 inhibitor,inhibitor,Transcriptional enhancer factor TEF-1
+rawtarget_65_kda_yes-associated_protein_inhibitor,65 kDa Yes-associated protein inhibitor,inhibitor,65 kDa Yes-associated protein
+rawtarget_pde_4_inhibitor,PDE 4 inhibitor,inhibitor,PDE 4
+rawtarget_vegf-3_receptor_antagonist,VEGF-3 receptor antagonist,receptor antagonist;antagonist;agonist,VEGF-3
+rawtarget_ret_tyrosine_kinase_receptor_family_inhibitor,RET tyrosine kinase receptor family inhibitor,inhibitor,RET tyrosine kinase receptor family
+rawtarget_mer_tyrosine_kinase_receptor_inhibitor,Mer tyrosine kinase receptor inhibitor,inhibitor,Mer tyrosine kinase receptor
+rawtarget_erbb2_tyrosine_kinase_receptor_inhibitor,Erbb2 tyrosine kinase receptor inhibitor,inhibitor,Erbb2 tyrosine kinase receptor
+rawtarget_vegf_receptor_antagonist,VEGF receptor antagonist,receptor antagonist;antagonist;agonist,VEGF
+rawtarget_tyro3_tyrosine_kinase_receptor_inhibitor,Tyro3 tyrosine kinase receptor inhibitor,inhibitor,Tyro3 tyrosine kinase receptor
+rawtarget_epidermal_growth_factor_receptor_antagonist,Epidermal growth factor receptor antagonist,receptor antagonist;antagonist;agonist,Epidermal growth factor
+rawtarget_met_tyrosine_kinase_receptor_family_inhibitor,MET tyrosine kinase receptor family inhibitor,inhibitor,MET tyrosine kinase receptor family
+rawtarget_kcna_voltage-gated_potassium_channel-3_inhibitor,KCNA voltage-gated potassium channel-3 inhibitor,inhibitor,KCNA voltage-gated potassium channel-3
+rawtarget_p2y1_purinoceptor_antagonist,P2Y1 purinoceptor antagonist,antagonist;agonist,P2Y1 purinoceptor
+rawtarget_dopamine_d1_receptor_antagonist,Dopamine D1 receptor antagonist,receptor antagonist;antagonist;agonist,Dopamine D1
+rawtarget_nuclear_factor_kappa_b_inhibitor,Nuclear factor kappa B inhibitor,inhibitor,Nuclear factor kappa B
+rawtarget_cofilin_1_inhibitor,Cofilin 1 inhibitor,inhibitor,Cofilin 1
+rawtarget_line_1_transposase_domain_protein_1_inhibitor,LINE 1 transposase domain protein 1 inhibitor,inhibitor,LINE 1 transposase domain protein 1
+rawtarget_reverse_transcriptase_inhibitor,Reverse transcriptase inhibitor,inhibitor,Reverse transcriptase
+rawtarget_itln1_gene_modulator,ITLN1 gene modulator,gene modulator;modulator,ITLN1
+rawtarget_mucin_2_modulator,Mucin 2 modulator,modulator,Mucin 2
+rawtarget_muc2_gene_modulator,MUC2 gene modulator,gene modulator;modulator,MUC2
+rawtarget_cadherin-1_modulator,Cadherin-1 modulator,modulator,Cadherin-1
+rawtarget_intelectin_1_modulator,Intelectin 1 modulator,modulator,Intelectin 1
+rawtarget_regenerating_islet-derived_protein_3g_modulator,Regenerating islet-derived protein 3g modulator,modulator,Regenerating islet-derived protein 3g
+rawtarget_reg3g_gene_modulator,REG3G gene modulator,gene modulator;modulator,REG3G
+rawtarget_programmed_cell_death_ligand_1_inhibitor,Programmed cell death ligand 1 inhibitor,inhibitor,Programmed cell death ligand 1
+rawtarget_programmed_cell_death_protein_1_inhibitor,Programmed cell death protein 1 inhibitor,inhibitor,Programmed cell death protein 1
+rawtarget_pou_domain_5_transcription_factor_1_stimulator,POU domain 5 transcription factor 1 stimulator,stimulator,POU domain 5 transcription factor 1
+rawtarget_mnk2_protein_kinase_inhibitor,MNK2 protein kinase inhibitor,protein kinase inhibitor;kinase inhibitor;inhibitor,MNK2
+rawtarget_mnk1_protein_kinase_inhibitor,MNK1 protein kinase inhibitor,protein kinase inhibitor;kinase inhibitor;inhibitor,MNK1
+rawtarget_nacht_lrr_pyd_domain_protein_3_modulator,NACHT LRR PYD domain protein 3 modulator,modulator,NACHT LRR PYD domain protein 3
+rawtarget_macrophage_mannose_receptor_1_modulator,Macrophage mannose receptor 1 modulator,modulator,Macrophage mannose receptor 1
+rawtarget_sra_gene_modulator,SRA gene modulator,gene modulator;modulator,SRA
+rawtarget_arginase-i_modulator,Arginase-I modulator,modulator,Arginase-I
+rawtarget_resistin-like_alpha_ligand_modulator,Resistin-like alpha ligand modulator,ligand modulator;modulator,Resistin-like alpha
+rawtarget_chil3_gene_modulator,Chil3 gene modulator,gene modulator;modulator,Chil3
+rawtarget_retnla_gene_modulator,RETNLA gene modulator,gene modulator;modulator,RETNLA
+rawtarget_chitinase_3_like_protein_3_modulator,Chitinase 3 like protein 3 modulator,modulator,Chitinase 3 like protein 3
+rawtarget_arg1_gene_modulator,ARG1 gene modulator,gene modulator;modulator,ARG1
+rawtarget_adam-10_modulator,ADAM-10 modulator,modulator,ADAM-10
+rawtarget_il10_gene_modulator,IL10 gene modulator,gene modulator;modulator,IL10
+rawtarget_mrc1_gene_modulator,MRC1 gene modulator,gene modulator;modulator,MRC1
+rawtarget_scavenger_receptor_modulator,Scavenger receptor modulator,modulator,Scavenger receptor
+rawtarget_nuclear_factor_kappa_b_modulator,Nuclear factor kappa B modulator,modulator,Nuclear factor kappa B
+rawtarget_afp_gene_modulator,AFP gene modulator,gene modulator;modulator,AFP
+rawtarget_cd66e_modulator,CD66e modulator,modulator,CD66e
+rawtarget_psen2_gene_modulator,PSEN2 gene modulator,gene modulator;modulator,PSEN2
+rawtarget_brca2_gene_modulator,BRCA2 gene modulator,gene modulator;modulator,BRCA2
+rawtarget_egfr_gene_modulator,EGFR gene modulator,gene modulator;modulator,EGFR
+rawtarget_brca1_gene_modulator,BRCA1 gene modulator,gene modulator;modulator,BRCA1
+rawtarget_gba_gene_modulator,GBA gene modulator,gene modulator;modulator,GBA
+rawtarget_caspase-2_inhibitor,Caspase-2 inhibitor,inhibitor,Caspase-2
+rawtarget_ccl2_gene_modulator,CCL2 gene modulator,gene modulator;modulator,CCL2
+rawtarget_monocyte_chemotactic_protein_1_ligand_modulator,Monocyte chemotactic protein 1 ligand modulator,ligand modulator;modulator,Monocyte chemotactic protein 1
+rawtarget_transglutaminase_inhibitor,Transglutaminase inhibitor,inhibitor,Transglutaminase
+rawtarget_superoxide_dismutase_cu-zn_modulator,Superoxide dismutase (Cu-Zn) modulator,modulator,Superoxide dismutase (Cu-Zn)
+rawtarget_5-ht_2a_receptor_inverse_agonist,5-HT 2a receptor inverse agonist,inverse agonist;agonist,5-HT 2a receptor
+rawtarget_6-phosphofructokinase_1_stimulator,6-Phosphofructokinase 1 stimulator,stimulator,6-Phosphofructokinase 1
+rawtarget_insulin-like_growth_factor_1_receptor_modulator,Insulin-like growth factor 1 receptor modulator,modulator,Insulin-like growth factor 1 receptor
+rawtarget_glucocorticoid_receptor_agonist,Glucocorticoid receptor agonist,receptor agonist;agonist,Glucocorticoid
+rawtarget_muscarinic_receptor_modulator,Muscarinic receptor modulator,modulator,Muscarinic receptor
+rawtarget_htt_gene_inhibitor,HTT gene inhibitor,inhibitor,HTT gene
+rawtarget_occludin_modulator,Occludin modulator,modulator,Occludin
+rawtarget_adducin_gamma_inhibitor,Adducin gamma inhibitor,inhibitor,Adducin gamma
+rawtarget_tnf_alpha_ligand_modulator,TNF alpha ligand modulator,ligand modulator;modulator,TNF alpha
+rawtarget_orl1_receptor_agonist,ORL1 receptor agonist,receptor agonist;agonist,ORL1
+rawtarget_mitofusin_2_stimulator,Mitofusin 2 stimulator,stimulator,Mitofusin 2
+rawtarget_mitofusin_1_stimulator,Mitofusin 1 stimulator,stimulator,Mitofusin 1
+rawtarget_gaba_a_receptor_gamma-1_subunit_stimulator,GABA A receptor gamma-1 subunit stimulator,stimulator,GABA A receptor gamma-1 subunit
+rawtarget_5-ht_2b_receptor_modulator,5-HT 2b receptor modulator,modulator,5-HT 2b receptor
+rawtarget_nmda_receptor_epsilon_1_subunit_modulator,NMDA receptor epsilon 1 subunit modulator,modulator,NMDA receptor epsilon 1 subunit
+rawtarget_grin2a_gene_modulator,GRIN2A gene modulator,gene modulator;modulator,GRIN2A
+rawtarget_mao_inhibitor,MAO inhibitor,inhibitor,MAO
+rawtarget_15-lipoxygenase_inhibitor,15-Lipoxygenase inhibitor,inhibitor,15-Lipoxygenase
+rawtarget_12-lipoxygenase_inhibitor,12-Lipoxygenase inhibitor,inhibitor,12-Lipoxygenase
+rawtarget_interleukin-6_ligand_inhibitor,Interleukin-6 ligand inhibitor,ligand inhibitor;inhibitor,Interleukin-6
+rawtarget_gaba_a_receptor_beta-1_subunit_inhibitor,GABA A receptor beta-1 subunit inhibitor,inhibitor,GABA A receptor beta-1 subunit
+rawtarget_serine_threonine_protein_kinase_pink1_stimulator,Serine threonine protein kinase PINK1 stimulator,stimulator,Serine threonine protein kinase PINK1
+rawtarget_jun_n_kinase_interacting_protein_3_inhibitor,Jun N kinase interacting protein 3 inhibitor,inhibitor,Jun N kinase interacting protein 3
+rawtarget_tkt_gene_modulator,TKT gene modulator,gene modulator;modulator,TKT
+rawtarget_superoxide_dismutase_mn_modulator,Superoxide dismutase Mn modulator,modulator,Superoxide dismutase Mn
+rawtarget_proteasome_activator_complex_subunit_3_modulator,Proteasome activator complex subunit 3 modulator,modulator;activator,Proteasome complex subunit 3
+rawtarget_cytoplasmic_tyrosyl_trna_synthetase_modulator,Cytoplasmic tyrosyl tRNA synthetase modulator,modulator,Cytoplasmic tyrosyl tRNA synthetase
+rawtarget_ubiquitin_ligase_e3a_modulator,Ubiquitin ligase E3A modulator,modulator,Ubiquitin ligase E3A
+rawtarget_mitochondrial_tryptophan_trna_ligase_modulator,Mitochondrial tryptophan tRNA ligase modulator,modulator,Mitochondrial tryptophan tRNA ligase
+rawtarget_5-ht_1a_receptor_antagonist,5-HT 1a receptor antagonist,receptor antagonist;antagonist;agonist,5-HT 1a
+rawtarget_uncharacterized_protein_c9orf72_inhibitor,Uncharacterized protein C9orf72 inhibitor,inhibitor,Uncharacterized protein C9orf72
+rawtarget_lethal_3_tumor_like_protein_1_inhibitor,Lethal 3 tumor like protein 1 inhibitor,inhibitor,Lethal 3 tumor like protein 1
+rawtarget_tau_protein_inhibitor,Tau protein inhibitor,inhibitor,Tau protein
+rawtarget_ets-related_transcription_factor_elf-4_inhibitor,ETS-related transcription factor Elf-4 inhibitor,inhibitor,ETS-related transcription factor Elf-4
+rawtarget_synuclein_inhibitor,Synuclein inhibitor,inhibitor,Synuclein
+rawtarget_vasohibin-2_inhibitor,Vasohibin-2 inhibitor,inhibitor,Vasohibin-2
+rawtarget_vasohibin_1_inhibitor,Vasohibin 1 inhibitor,inhibitor,Vasohibin 1
+rawtarget_angiotensin_ii_at-1_receptor_antagonist,Angiotensin II AT-1 receptor antagonist,receptor antagonist;antagonist;agonist,Angiotensin II AT-1
+rawtarget_endothelin_et-a_receptor_antagonist,Endothelin ET-A receptor antagonist,receptor antagonist;antagonist;agonist,Endothelin ET-A
+rawtarget_kcnq_voltage-gated_potassium_channel-3_stimulator,KCNQ voltage-gated potassium channel-3 stimulator,stimulator,KCNQ voltage-gated potassium channel-3
+rawtarget_pgf2_alpha_agonist,PGF2 alpha agonist,agonist,PGF2 alpha
+rawtarget_cftr_inhibitor,CFTR inhibitor,inhibitor,CFTR
+rawtarget_splicing_factor_modulator,Splicing factor modulator,modulator,Splicing factor
+rawtarget_pre_mrna_splicing_factor_38_modulator,Pre mRNA splicing factor 38 modulator,modulator,Pre mRNA splicing factor 38
+rawtarget_alpha_1a_adrenoceptor_antagonist,Alpha 1A adrenoceptor antagonist,antagonist;agonist,Alpha 1A adrenoceptor
+rawtarget_5-ht_receptor_antagonist,5-HT receptor antagonist,receptor antagonist;antagonist;agonist,5-HT
+rawtarget_histamine_h1_receptor_antagonist,Histamine H1 receptor antagonist,receptor antagonist;antagonist;agonist,Histamine H1
+rawtarget_5-ht_6_receptor_agonist,5-HT 6 receptor agonist,receptor agonist;agonist,5-HT 6
+rawtarget_adrenergic_receptor_antagonist,Adrenergic receptor antagonist,receptor antagonist;antagonist;agonist,Adrenergic
+rawtarget_pyruvate_dehydrogenase_kinase-2_inhibitor,Pyruvate dehydrogenase kinase-2 inhibitor,inhibitor,Pyruvate dehydrogenase kinase-2
+rawtarget_p2x7_purinoceptor_antagonist,P2X7 purinoceptor antagonist,antagonist;agonist,P2X7 purinoceptor
+rawtarget_sortilin_receptor_modulator,Sortilin receptor modulator,modulator,Sortilin receptor
+rawtarget_alcohol_dehydrogenase_inhibitor,Alcohol dehydrogenase inhibitor,inhibitor,Alcohol dehydrogenase
+rawtarget_srebf2_gene_modulator,SREBF2 gene modulator,gene modulator;modulator,SREBF2
+rawtarget_trem_receptor_2_modulator,TREM receptor 2 modulator,modulator,TREM receptor 2
+rawtarget_sst_gene_modulator,SST gene modulator,gene modulator;modulator,SST
+rawtarget_comt_gene_modulator,COMT gene modulator,gene modulator;modulator,COMT
+rawtarget_complement_c3_modulator,Complement C3 modulator,modulator,Complement C3
+rawtarget_immunoglobulin_m_modulator,Immunoglobulin M modulator,modulator,Immunoglobulin M
+rawtarget_gaba_a_receptor_alpha-5_subunit_stimulator,GABA A receptor alpha-5 subunit stimulator,stimulator,GABA A receptor alpha-5 subunit
+rawtarget_agmatinase_inhibitor,Agmatinase inhibitor,inhibitor,Agmatinase
+rawtarget_shank3_gene_modulator,SHANK3 gene modulator,gene modulator;modulator,SHANK3
+rawtarget_ubiquitin_carboxyl_hydrolase_cyld_modulator,Ubiquitin carboxyl hydrolase CYLD modulator,modulator,Ubiquitin carboxyl hydrolase CYLD
+rawtarget_cyld_gene_modulator,CYLD gene modulator,gene modulator;modulator,CYLD
+rawtarget_unspecified_gpcr_agonist,Unspecified GPCR agonist,agonist,Unspecified GPCR
+rawtarget_dopamine_receptor_interacting_protein_2_agonist,Dopamine receptor interacting protein 2 agonist,agonist,Dopamine receptor interacting protein 2
+rawtarget_androgen_receptor_antagonist,Androgen receptor antagonist,receptor antagonist;antagonist;agonist,Androgen
+rawtarget_creb_binding_protein_inhibitor,CREB binding protein inhibitor,inhibitor,CREB binding protein
+rawtarget_beta-catenin_inhibitor,Beta-catenin inhibitor,inhibitor,Beta-catenin
+rawtarget_g-protein_coupled_receptor_83_agonist,G-protein coupled receptor 83 agonist,agonist,G-protein coupled receptor 83
+rawtarget_5_ht_2c_receptor_inverse_agonist,5 HT 2c receptor inverse agonist,inverse agonist;agonist,5 HT 2c receptor
+rawtarget_gaba_a_receptor_gamma-1_subunit_modulator,GABA A receptor gamma-1 subunit modulator,modulator,GABA A receptor gamma-1 subunit
+rawtarget_ectonucleotide_pyrophosphatase-pde-2_inhibitor,Ectonucleotide pyrophosphatase-PDE-2 inhibitor,inhibitor,Ectonucleotide pyrophosphatase-PDE-2
+rawtarget_solute_carrier_family_40a1_inhibitor,Solute carrier family 40A1 inhibitor,inhibitor,Solute carrier family 40A1
+rawtarget_scn1a_gene_modulator,SCN1A gene modulator,gene modulator;modulator,SCN1A
+rawtarget_scn3a_sodium_channel_subunit_modulator,SCN3A sodium channel subunit modulator,modulator,SCN3A sodium channel subunit
+rawtarget_scn3a_gene_modulator,SCN3A gene modulator,gene modulator;modulator,SCN3A
+rawtarget_scn1b_gene_modulator,SCN1B gene modulator,gene modulator;modulator,SCN1B
+rawtarget_scn2a_sodium_channel_subunit_modulator,SCN2A sodium channel subunit modulator,modulator,SCN2A sodium channel subunit
+rawtarget_scn1a_sodium_channel_subunit_modulator,SCN1A sodium channel subunit modulator,modulator,SCN1A sodium channel subunit
+rawtarget_innate_immunity_activator_protein_modulator,Innate immunity activator protein modulator,protein modulator;modulator;activator,Innate immunity
+rawtarget_scn1b_sodium_channel_subunit_modulator,SCN1B sodium channel subunit modulator,modulator,SCN1B sodium channel subunit
+rawtarget_fatty_acid_amide_hydrolase_inhibitor,Fatty acid amide hydrolase inhibitor,inhibitor,Fatty acid amide hydrolase
+rawtarget_ap2-associated_protein_kinase_1_inhibitor,AP2-associated protein kinase 1 inhibitor,inhibitor,AP2-associated protein kinase 1
+rawtarget_nicotinic_ach_receptor_alpha_9_subunit_modulator,Nicotinic ACh receptor alpha 9 subunit modulator,modulator,Nicotinic ACh receptor alpha 9 subunit
+rawtarget_apoe_gene_modulator,APOE gene modulator,gene modulator;modulator,APOE
+rawtarget_psen1_gene_modulator,PSEN1 gene modulator,gene modulator;modulator,PSEN1
+rawtarget_pax6_gene_modulator,PAX6 gene modulator,gene modulator;modulator,PAX6
+rawtarget_phospholipase_c_stimulator,Phospholipase C stimulator,stimulator,Phospholipase C
+rawtarget_copper_transporting_atpase_inhibitor,Copper transporting ATPase inhibitor,inhibitor,Copper transporting ATPase
+rawtarget_atp7b_gene_inhibitor,ATP7B gene inhibitor,inhibitor,ATP7B gene
+rawtarget_lysyl_oxidase_homolog_4_inhibitor,Lysyl oxidase homolog 4 inhibitor,inhibitor,Lysyl oxidase homolog 4
+rawtarget_atp7a_gene_inhibitor,ATP7A gene inhibitor,inhibitor,ATP7A gene
+rawtarget_muscarinic_m4_receptor_agonist,Muscarinic M4 receptor agonist,receptor agonist;agonist,Muscarinic M4
+rawtarget_ketohexokinase_inhibitor,Ketohexokinase inhibitor,kinase inhibitor;inhibitor,Ketohexokinase
+rawtarget_proteasome_beta-8_subunit_inhibitor,Proteasome beta-8 subunit inhibitor,inhibitor,Proteasome beta-8 subunit
+rawtarget_ras_gtpase_activating_binding_protein_2_inhibitor,Ras GTPase activating binding protein 2 inhibitor,inhibitor,Ras GTPase activating binding protein 2
+rawtarget_ras_gtpase_activating_binding_protein_1_inhibitor,Ras GTPase activating binding protein 1 inhibitor,inhibitor,Ras GTPase activating binding protein 1
+rawtarget_plasma_cell_induced_resident_er_protein_inhibitor,Plasma cell induced resident ER protein inhibitor,inhibitor,Plasma cell induced resident ER protein
+rawtarget_cannabinoid_cb2_receptor_agonist,Cannabinoid CB2 receptor agonist,receptor agonist;agonist,Cannabinoid CB2
+rawtarget_taf1_gene_modulator,TAF1 gene modulator,gene modulator;modulator,TAF1
+rawtarget_cpeb4_gene_modulator,CPEB4 gene modulator,gene modulator;modulator,CPEB4
+rawtarget_gaba_a_receptor_alpha-5_subunit_modulator,GABA A receptor alpha-5 subunit modulator,modulator,GABA A receptor alpha-5 subunit
+rawtarget_alpha_1_adrenoceptor_antagonist,Alpha 1 adrenoceptor antagonist,antagonist;agonist,Alpha 1 adrenoceptor
+rawtarget_alpha_2c_adrenoceptor_antagonist,Alpha 2C adrenoceptor antagonist,antagonist;agonist,Alpha 2C adrenoceptor
+rawtarget_alpha_1b_adrenoceptor_antagonist,Alpha 1B adrenoceptor antagonist,antagonist;agonist,Alpha 1B adrenoceptor
+rawtarget_dopamine_d3_receptor_partial_agonist,Dopamine D3 receptor partial agonist,partial agonist;agonist,Dopamine D3 receptor
+rawtarget_muscarinic_receptor_agonist,Muscarinic receptor agonist,receptor agonist;agonist,Muscarinic
+rawtarget_glucosylceramidase_modulator,Glucosylceramidase modulator,modulator,Glucosylceramidase
+rawtarget_hypoxia_inducible_factor-2_alpha_inhibitor,Hypoxia inducible factor-2 alpha inhibitor,inhibitor,Hypoxia inducible factor-2 alpha
+rawtarget_advanced_glycosylation_product_receptor_antagonist,Advanced glycosylation product receptor antagonist,receptor antagonist;antagonist;agonist,Advanced glycosylation product
+rawtarget_tnf_alpha_induced_protein_inhibitor,TNF alpha induced protein inhibitor,inhibitor,TNF alpha induced protein
+rawtarget_cyclooxygenase_2_inhibitor,Cyclooxygenase 2 inhibitor,inhibitor,Cyclooxygenase 2
+rawtarget_factor_inhibiting_hif_1_alpha_inhibitor,Factor inhibiting HIF 1 alpha inhibitor,inhibitor,Factor inhibiting HIF 1 alpha
+rawtarget_hif_prolyl_hydroxylase-2_inhibitor,HIF prolyl hydroxylase-2 inhibitor,inhibitor,HIF prolyl hydroxylase-2
+rawtarget_brain_derived_neurotrophic_factor_ligand,Brain derived neurotrophic factor ligand,unspecified,Brain derived neurotrophic factor ligand
+rawtarget_g_protein_coupled_receptor_17_agonist,G protein coupled receptor 17 agonist,agonist,G protein coupled receptor 17
+rawtarget_tropomyosin_modulator,Tropomyosin modulator,modulator,Tropomyosin
+rawtarget_voltage_independent_potassium_channel_modulator,Voltage independent potassium channel modulator,modulator,Voltage independent potassium channel
+rawtarget_rna_binding_protein_multiple_splicing_modulator,RNA binding protein multiple splicing modulator,modulator,RNA binding protein multiple splicing
+rawtarget_rna_binding_protein_modulator,RNA binding protein modulator,protein modulator;modulator,RNA binding
+rawtarget_dna_mismatch_repair_protein_pms1_inhibitor,DNA mismatch repair protein PMS1 inhibitor,inhibitor,DNA mismatch repair protein PMS1
+rawtarget_glycogen_synthase_kinase-3_beta_modulator,Glycogen synthase kinase-3 beta modulator,modulator,Glycogen synthase kinase-3 beta
+rawtarget_glycogen_synthase_kinase-3_alpha_modulator,Glycogen synthase kinase-3 alpha modulator,modulator,Glycogen synthase kinase-3 alpha
+rawtarget_next_to_brca1_gene_protein_1_modulator,Next to BRCA1 gene protein 1 modulator,modulator,Next to BRCA1 gene protein 1
+rawtarget_autophagy_protein_7_modulator,Autophagy protein 7 modulator,modulator,Autophagy protein 7
+rawtarget_autophagy_protein_5_modulator,Autophagy protein 5 modulator,modulator,Autophagy protein 5
+rawtarget_bcr_protein_inhibitor,Bcr protein inhibitor,inhibitor,Bcr protein
+rawtarget_trem_receptor_2_agonist,TREM receptor 2 agonist,agonist,TREM receptor 2
+rawtarget_apoptosis_inducing_factor_2_inhibitor,Apoptosis inducing factor 2 inhibitor,inhibitor,Apoptosis inducing factor 2
+rawtarget_adp_ribosyl_cyclase-1_inhibitor,ADP ribosyl cyclase-1 inhibitor,inhibitor,ADP ribosyl cyclase-1
+rawtarget_uteroglobin_inhibitor,Uteroglobin inhibitor,inhibitor,Uteroglobin
+rawtarget_foxp3_transcription_factor_stimulator,FOXP3 transcription factor stimulator,stimulator,FOXP3 transcription factor
+rawtarget_il-17_antagonist,IL-17 antagonist,antagonist;agonist,IL-17
+rawtarget_sphingosine-1-phosphate_receptor-4_antagonist,Sphingosine-1-phosphate receptor-4 antagonist,antagonist;agonist,Sphingosine-1-phosphate receptor-4
+rawtarget_neuronal_growth_regulator_stimulator,Neuronal growth regulator stimulator,stimulator,Neuronal growth regulator
+rawtarget_endothelin_et-b_receptor_antagonist,Endothelin ET-B receptor antagonist,receptor antagonist;antagonist;agonist,Endothelin ET-B
+rawtarget_5-ht_2a_receptor_partial_agonist,5-HT 2a receptor partial agonist,partial agonist;agonist,5-HT 2a receptor
+rawtarget_prostaglandin_e_synthase-1_inhibitor,Prostaglandin E synthase-1 inhibitor,inhibitor,Prostaglandin E synthase-1
+rawtarget_kcnq_voltage-gated_potassium_channel_modulator,KCNQ voltage-gated potassium channel modulator,modulator,KCNQ voltage-gated potassium channel
+rawtarget_kcna_voltage-gated_potassium_channel-2_stimulator,KCNA voltage-gated potassium channel-2 stimulator,stimulator,KCNA voltage-gated potassium channel-2
+rawtarget_kcna_voltage-gated_potassium_channel-3_stimulator,KCNA voltage-gated potassium channel-3 stimulator,stimulator,KCNA voltage-gated potassium channel-3
+rawtarget_p38_map_kinase_inhibitor,p38 MAP kinase inhibitor,kinase inhibitor;inhibitor,p38 MAP
+rawtarget_mapkapk2_inhibitor,MAPKAPK2 inhibitor,inhibitor,MAPKAPK2
+rawtarget_metabotropic_glutamate_receptor_3_modulator,Metabotropic glutamate receptor 3 modulator,modulator,Metabotropic glutamate receptor 3
+rawtarget_metabotropic_glutamate_receptor_2_agonist,Metabotropic glutamate receptor 2 agonist,agonist,Metabotropic glutamate receptor 2
+rawtarget_metabotropic_glutamate_receptor_3_agonist,Metabotropic glutamate receptor 3 agonist,agonist,Metabotropic glutamate receptor 3
+rawtarget_neutral_amino_acid_b0_transporter_inhibitor,Neutral amino acid B0 transporter inhibitor,inhibitor,Neutral amino acid B0 transporter
+rawtarget_galectin-9_inhibitor,Galectin-9 inhibitor,inhibitor,Galectin-9
+rawtarget_galectin-3_inhibitor,Galectin-3 inhibitor,inhibitor,Galectin-3
+rawtarget_histone_deacetylase_inhibitor,Histone deacetylase inhibitor,inhibitor,Histone deacetylase
+rawtarget_calmodulin_modulator,Calmodulin modulator,modulator,Calmodulin
+rawtarget_opioid_receptor_mu_antagonist,Opioid receptor mu antagonist,antagonist;agonist,Opioid receptor mu
+rawtarget_opioid_receptor_delta_antagonist,Opioid receptor delta antagonist,antagonist;agonist,Opioid receptor delta
+rawtarget_opioid_receptor_kappa_antagonist,Opioid receptor kappa antagonist,antagonist;agonist,Opioid receptor kappa
+rawtarget_muscarinic_m4_receptor_modulator,Muscarinic M4 receptor modulator,modulator,Muscarinic M4 receptor
+rawtarget_complement_c1s_subcomponent_inhibitor,Complement C1s subcomponent inhibitor,inhibitor,Complement C1s subcomponent
+rawtarget_complement_c3_inhibitor,Complement C3 inhibitor,inhibitor,Complement C3
+rawtarget_complement_receptor_1_antagonist,Complement receptor 1 antagonist,antagonist;agonist,Complement receptor 1
+rawtarget_complement_c1q_subcomponent_inhibitor,Complement C1q subcomponent inhibitor,inhibitor,Complement C1q subcomponent
+rawtarget_complement_component_c1q_receptor_antagonist,Complement component C1q receptor antagonist,receptor antagonist;antagonist;agonist,Complement component C1q
+rawtarget_complement_factor_inhibitor,Complement Factor inhibitor,inhibitor,Complement Factor
+rawtarget_complement_c1q_related_factor_inhibitor,Complement C1q related factor inhibitor,inhibitor,Complement C1q related factor
+rawtarget_5-ht_7_receptor_antagonist,5-HT 7 receptor antagonist,receptor antagonist;antagonist;agonist,5-HT 7
+rawtarget_beta-galactosidase_inhibitor,Beta-galactosidase inhibitor,inhibitor,Beta-galactosidase
+rawtarget_cathepsin_b_inhibitor,Cathepsin B inhibitor,inhibitor,Cathepsin B
+rawtarget_nk1_receptor_antagonist,NK1 receptor antagonist,receptor antagonist;antagonist;agonist,NK1
+rawtarget_tubulin_polymerization_protein_inhibitor,Tubulin polymerization protein inhibitor,inhibitor,Tubulin polymerization protein
+rawtarget_mekkk-3_protein_kinase_inhibitor,MEKKK-3 protein kinase inhibitor,protein kinase inhibitor;kinase inhibitor;inhibitor,MEKKK-3
+rawtarget_ppar_gamma_agonist,PPAR gamma agonist,agonist,PPAR gamma
+rawtarget_interleukin-1_ligand_inhibitor,Interleukin-1 ligand inhibitor,ligand inhibitor;inhibitor,Interleukin-1
+rawtarget_cyclooxygenase_inhibitor,Cyclooxygenase inhibitor,inhibitor,Cyclooxygenase
+rawtarget_trp_cation_channel_v1_stimulator,TRP cation channel V1 stimulator,stimulator,TRP cation channel V1
+rawtarget_tnf_alpha_ligand,TNF alpha ligand,unspecified,TNF alpha ligand
+rawtarget_cyclic_gmp_amp_synthase_inhibitor,cyclic GMP AMP synthase inhibitor,inhibitor,cyclic GMP AMP synthase
+rawtarget_voltage_gated_sodium_channel_inhibitor,Voltage gated sodium channel inhibitor,inhibitor,Voltage gated sodium channel
+rawtarget_cannabinoid_cb1_receptor_antagonist,Cannabinoid CB1 receptor antagonist,receptor antagonist;antagonist;agonist,Cannabinoid CB1
+rawtarget_5-ht_4_receptor_agonist,5-HT 4 receptor agonist,receptor agonist;agonist,5-HT 4
+rawtarget_alpha_2_adrenoceptor_antagonist,Alpha 2 adrenoceptor antagonist,antagonist;agonist,Alpha 2 adrenoceptor
+rawtarget_adenosine_receptor_agonist,Adenosine receptor agonist,receptor agonist;agonist,Adenosine
+rawtarget_nadph_oxidase_inhibitor,NADPH oxidase inhibitor,inhibitor,NADPH oxidase
+rawtarget_tyrosine_hydroxylase_stimulator,Tyrosine hydroxylase stimulator,stimulator,Tyrosine hydroxylase
+rawtarget_inducible_nitric_oxide_synthase_inhibitor,Inducible nitric oxide synthase inhibitor,inhibitor,Inducible nitric oxide synthase
+rawtarget_protein_cereblon_modulator,Protein cereblon modulator,modulator,Protein cereblon
+rawtarget_il-8_receptor_antagonist,IL-8 receptor antagonist,receptor antagonist;antagonist;agonist,IL-8
+rawtarget_eukaryotic_initiation_factor_2_alpha_inhibitor,Eukaryotic initiation factor 2 alpha inhibitor,inhibitor,Eukaryotic initiation factor 2 alpha
+rawtarget_elkl_motif_kinase_inhibitor,ELKL motif kinase inhibitor,kinase inhibitor;inhibitor,ELKL motif
+rawtarget_histone_deacetylase-8_inhibitor,Histone deacetylase-8 inhibitor,inhibitor,Histone deacetylase-8
+rawtarget_lysine_specific_demethylase_inhibitor,Lysine specific demethylase inhibitor,inhibitor,Lysine specific demethylase
+rawtarget_synuclein_beta_inhibitor,Synuclein beta inhibitor,inhibitor,Synuclein beta
+rawtarget_kelch_like_ech_associated_protein_1_inhibitor,Kelch like ECH associated protein 1 inhibitor,inhibitor,Kelch like ECH associated protein 1
+rawtarget_polyglutamine_binding_protein_inhibitor,Polyglutamine binding protein inhibitor,inhibitor,Polyglutamine binding protein
+rawtarget_legumain_inhibitor,Legumain inhibitor,inhibitor,Legumain
+rawtarget_proprotein_convertase_pc9_inhibitor,Proprotein convertase PC9 inhibitor,inhibitor,Proprotein convertase PC9
+rawtarget_microtubule_associated_protein_1lc_3a_inhibitor,Microtubule associated protein 1LC 3A inhibitor,inhibitor,Microtubule associated protein 1LC 3A
+rawtarget_5-ht_1d_receptor_agonist,5-HT 1d receptor agonist,receptor agonist;agonist,5-HT 1d
+rawtarget_metabotropic_glutamate_receptor_5_antagonist,Metabotropic glutamate receptor 5 antagonist,antagonist;agonist,Metabotropic glutamate receptor 5
+rawtarget_alpha_1a_adrenoceptor_agonist,Alpha 1A adrenoceptor agonist,agonist,Alpha 1A adrenoceptor
+rawtarget_cytosine_dna_methyltransferase_inhibitor,Cytosine DNA methyltransferase inhibitor,inhibitor,Cytosine DNA methyltransferase
+rawtarget_line_1_retrotransposable_element_orf1_inhibitor,LINE 1 retrotransposable element ORF1 inhibitor,inhibitor,LINE 1 retrotransposable element ORF1
+rawtarget_calcium_calmodulin_kinase_2_inhibitor_1_inhibitor,Calcium calmodulin kinase 2 inhibitor 1 inhibitor,inhibitor,Calcium calmodulin kinase 2 1
+rawtarget_dopamine_receptor_agonist,Dopamine receptor agonist,receptor agonist;agonist,Dopamine
+rawtarget_oxidosqualene_cyclase_inhibitor,Oxidosqualene cyclase inhibitor,inhibitor,Oxidosqualene cyclase
+rawtarget_histone_deacetylase-4_inhibitor,Histone deacetylase-4 inhibitor,inhibitor,Histone deacetylase-4
+rawtarget_eukaryotic_initiation_2_alpha_kinase_3_inhibitor,Eukaryotic initiation 2 alpha kinase 3 inhibitor,inhibitor,Eukaryotic initiation 2 alpha kinase 3
+rawtarget_5-ht_1d_receptor_antagonist,5-HT 1d receptor antagonist,receptor antagonist;antagonist;agonist,5-HT 1d
+rawtarget_5-ht_1b_receptor_partial_agonist,5-HT 1b receptor partial agonist,partial agonist;agonist,5-HT 1b receptor
+rawtarget_somatostatin_4_receptor_agonist,Somatostatin 4 receptor agonist,receptor agonist;agonist,Somatostatin 4
+rawtarget_cysteine_glutamate_transporter_inhibitor,Cysteine glutamate transporter inhibitor,inhibitor,Cysteine glutamate transporter
+rawtarget_dopamine_d3_receptor_agonist,Dopamine D3 receptor agonist,receptor agonist;agonist,Dopamine D3
+rawtarget_kcnh_voltage-gated_potassium_channel-2_inhibitor,KCNH voltage-gated potassium channel-2 inhibitor,inhibitor,KCNH voltage-gated potassium channel-2
+rawtarget_phosphoinositide_3-kinase_inhibitor,Phosphoinositide 3-kinase inhibitor,kinase inhibitor;inhibitor,Phosphoinositide 3
+rawtarget_parp_inhibitor,PARP inhibitor,inhibitor,PARP
+rawtarget_extracellular_signal_related_kinase_inhibitor,Extracellular signal related kinase inhibitor,kinase inhibitor;inhibitor,Extracellular signal related
+rawtarget_jak_tyrosine_kinase_inhibitor,JAK tyrosine kinase inhibitor,kinase inhibitor;inhibitor,JAK tyrosine
+rawtarget_ros1_tyrosine_kinase_receptor_inhibitor,Ros1 tyrosine kinase receptor inhibitor,inhibitor,Ros1 tyrosine kinase receptor
+rawtarget_anaplastic_lymphoma_kinase_receptor_inhibitor,Anaplastic lymphoma kinase receptor inhibitor,inhibitor,Anaplastic lymphoma kinase receptor
+rawtarget_stat_inhibitor,STAT inhibitor,inhibitor,STAT
+rawtarget_tubulin_modulator,Tubulin modulator,modulator,Tubulin
+rawtarget_lactate_dehydrogenase_inhibitor,Lactate dehydrogenase inhibitor,inhibitor,Lactate dehydrogenase
+rawtarget_caspase-3_inhibitor,Caspase-3 inhibitor,inhibitor,Caspase-3
+rawtarget_liver_x_receptor_beta_agonist,Liver X receptor beta agonist,agonist,Liver X receptor beta
+rawtarget_caspase-7_inhibitor,Caspase-7 inhibitor,inhibitor,Caspase-7
+rawtarget_transcription_factor_eb_stimulator,Transcription factor EB stimulator,stimulator,Transcription factor EB
+rawtarget_bromodomain_containing_protein_4_inhibitor,Bromodomain containing protein 4 inhibitor,inhibitor,Bromodomain containing protein 4
+rawtarget_urokinase_plasminogen_receptor_antagonist,Urokinase plasminogen receptor antagonist,receptor antagonist;antagonist;agonist,Urokinase plasminogen
+rawtarget_urokinase_plasminogen_activator_inhibitor,Urokinase plasminogen activator inhibitor,inhibitor;activator,Urokinase plasminogen
+rawtarget_trp_cation_channel_m4_inhibitor,TRP cation channel M4 inhibitor,inhibitor,TRP cation channel M4
+rawtarget_kcnt_potassium_channel_1_inhibitor,KCNT potassium channel 1 inhibitor,inhibitor,KCNT potassium channel 1
+rawtarget_kcnt1_gene_inhibitor,KCNT1 gene inhibitor,inhibitor,KCNT1 gene
+rawtarget_g_protein_coupled_receptor_55_agonist,G protein coupled receptor 55 agonist,agonist,G protein coupled receptor 55
+rawtarget_opioid_receptor_sigma_agonist_1,Opioid receptor sigma agonist 1,agonist,Opioid receptor sigma 1
+rawtarget_15-lipoxygenase_stimulator,15-Lipoxygenase stimulator,stimulator,15-Lipoxygenase
+rawtarget_mao_modulator,MAO modulator,modulator,MAO
+rawtarget_muscarinic_m2_receptor_modulator,Muscarinic M2 receptor modulator,modulator,Muscarinic M2 receptor
+rawtarget_trace_amine_associated_receptor_1_antagonist,Trace amine associated receptor 1 antagonist,antagonist;agonist,Trace amine associated receptor 1
+rawtarget_nk3_receptor_modulator,NK3 receptor modulator,modulator,NK3 receptor
+rawtarget_muscarinic_m1_receptor_modulator,Muscarinic M1 receptor modulator,modulator,Muscarinic M1 receptor
+rawtarget_nk2_receptor_modulator,NK2 receptor modulator,modulator,NK2 receptor
+rawtarget_muscarinic_m3_receptor_modulator,Muscarinic M3 receptor modulator,modulator,Muscarinic M3 receptor
+rawtarget_opioid_receptor_sigma_modulator_2,Opioid receptor sigma modulator 2,modulator,Opioid receptor sigma 2
+rawtarget_transmembrane_protein_97_modulator,Transmembrane protein 97 modulator,modulator,Transmembrane protein 97
+rawtarget_nad_synthase_modulator,NAD synthase modulator,modulator,NAD synthase
+rawtarget_5-ht_2_receptor_antagonist,5-HT 2 receptor antagonist,receptor antagonist;antagonist;agonist,5-HT 2
+rawtarget_gaba_a_receptor_alpha-2_subunit_modulator,GABA A receptor alpha-2 subunit modulator,modulator,GABA A receptor alpha-2 subunit
+rawtarget_gaba_a_receptor_alpha-1_subunit_modulator,GABA A receptor alpha-1 subunit modulator,modulator,GABA A receptor alpha-1 subunit
+rawtarget_pex5_related_protein_inhibitor,PEX5 related protein inhibitor,inhibitor,PEX5 related protein
+rawtarget_hcn_potassium-sodium_channel_1_inhibitor,HCN potassium-sodium channel 1 inhibitor,inhibitor,HCN potassium-sodium channel 1
+rawtarget_sarm1_gene_inhibitor,SARM1 gene inhibitor,inhibitor,SARM1 gene
+rawtarget_mucolipin_1_modulator,Mucolipin 1 modulator,modulator,Mucolipin 1
+rawtarget_cytochrome_p450_3a4_inhibitor,Cytochrome P450 3A4 inhibitor,inhibitor,Cytochrome P450 3A4
+rawtarget_cyp2c9_inhibitor,CYP2C9 inhibitor,inhibitor,CYP2C9
+rawtarget_cytochrome_p450_2d6_inhibitor,Cytochrome P450 2D6 inhibitor,inhibitor,Cytochrome P450 2D6
+rawtarget_cytochrome_p450_2c19_inhibitor,Cytochrome P450 2C19 inhibitor,inhibitor,Cytochrome P450 2C19
+rawtarget_cytochrome_p450_1a2_inhibitor,Cytochrome P450 1A2 inhibitor,inhibitor,Cytochrome P450 1A2
+rawtarget_protein_arginine_deiminase_iv_inhibitor,Protein arginine deiminase IV inhibitor,inhibitor,Protein arginine deiminase IV
+rawtarget_rna_binding_protein_fus_inhibitor,RNA binding protein FUS inhibitor,inhibitor,RNA binding protein FUS
+rawtarget_cftr_modulator,CFTR modulator,modulator,CFTR
+rawtarget_peptidyl-prolyl_cis-trans_isomerase_d_inhibitor,Peptidyl-prolyl cis-trans isomerase D inhibitor,inhibitor,Peptidyl-prolyl cis-trans isomerase D
+rawtarget_peptidyl-prolyl_cis-trans_isomerase_e_inhibitor,Peptidyl-prolyl cis-trans isomerase E inhibitor,inhibitor,Peptidyl-prolyl cis-trans isomerase E
+rawtarget_cd33_modulator,CD33 modulator,modulator,CD33
+rawtarget_aquaporin_4_inhibitor,Aquaporin 4 inhibitor,inhibitor,Aquaporin 4
+rawtarget_rho_associated_protein_kinase_1_inhibitor,Rho associated protein kinase 1 inhibitor,inhibitor,Rho associated protein kinase 1
+rawtarget_rho_associated_protein_kinase_2_inhibitor,Rho associated protein kinase 2 inhibitor,inhibitor,Rho associated protein kinase 2
+rawtarget_transcription_factor_modulator,Transcription factor modulator,modulator,Transcription factor
+rawtarget_cathelicidin_antimicrobial_peptide_stimulator,Cathelicidin antimicrobial peptide stimulator,stimulator,Cathelicidin antimicrobial peptide
+rawtarget_camp_gene_stimulator,CAMP gene stimulator,stimulator,CAMP gene
+rawtarget_pde_4b_inhibitor,PDE 4b inhibitor,inhibitor,PDE 4b
+rawtarget_clk3_protein_kinase_inhibitor,CLK3 protein kinase inhibitor,protein kinase inhibitor;kinase inhibitor;inhibitor,CLK3
+rawtarget_cmgc_protein_kinase_group_inhibitor,CMGC protein kinase group inhibitor,inhibitor,CMGC protein kinase group
+rawtarget_clk2_protein_kinase_inhibitor,CLK2 protein kinase inhibitor,protein kinase inhibitor;kinase inhibitor;inhibitor,CLK2
+rawtarget_dynamin_like_protein_1_inhibitor,Dynamin like protein 1 inhibitor,inhibitor,Dynamin like protein 1
+rawtarget_ifn_induced_transmembrane_protein_3_inhibitor,IFN induced transmembrane protein 3 inhibitor,inhibitor,IFN induced transmembrane protein 3
+rawtarget_peptidyl-prolyl_cis-trans_isomerase_a_inhibitor,Peptidyl-prolyl cis-trans isomerase A inhibitor,inhibitor,Peptidyl-prolyl cis-trans isomerase A
+rawtarget_mekk-5_protein_kinase_inhibitor,MEKK-5 protein kinase inhibitor,protein kinase inhibitor;kinase inhibitor;inhibitor,MEKK-5
+rawtarget_factor_xiiia_antagonist,Factor XIIIa antagonist,antagonist;agonist,Factor XIIIa
+rawtarget_phospholipase_d_inhibitor,Phospholipase D inhibitor,inhibitor,Phospholipase D
+rawtarget_cst7_gene_stimulator,CST7 gene stimulator,stimulator,CST7 gene
+rawtarget_transmembrane_protein_119_stimulator,Transmembrane protein 119 stimulator,stimulator,Transmembrane protein 119
+rawtarget_ccl2_gene_stimulator,CCL2 gene stimulator,stimulator,CCL2 gene
+rawtarget_tmem_gene_stimulator,TMEM gene stimulator,stimulator,TMEM gene
+rawtarget_cxcl10_gene_stimulator,CXCL10 gene stimulator,stimulator,CXCL10 gene
+rawtarget_glutamate_receptor_modulator,Glutamate receptor modulator,modulator,Glutamate receptor
+rawtarget_na+_k+_atpase_modulator,Na+ K+ ATPase modulator,modulator,Na+ K+ ATPase
+rawtarget_melanocortin_mc4_receptor_antagonist,Melanocortin MC4 receptor antagonist,receptor antagonist;antagonist;agonist,Melanocortin MC4
+rawtarget_extracellular_signal_related_kinase-5_inhibitor,Extracellular signal related kinase-5 inhibitor,inhibitor,Extracellular signal related kinase-5
+rawtarget_protein_tyrosine_phosphatase-1b_inhibitor,Protein tyrosine phosphatase-1B inhibitor,inhibitor,Protein tyrosine phosphatase-1B
+rawtarget_cytochrome_p450_reductase_inhibitor,Cytochrome P450 reductase inhibitor,inhibitor,Cytochrome P450 reductase
+rawtarget_nadph_oxidase_2_inhibitor,NADPH oxidase 2 inhibitor,inhibitor,NADPH oxidase 2
+rawtarget_inositol_polyphosphate-5-phosphatase_inhibitor,Inositol polyphosphate-5-phosphatase inhibitor,inhibitor,Inositol polyphosphate-5-phosphatase
+rawtarget_g_protein_coupled_receptor_17_antagonist,G protein coupled receptor 17 antagonist,antagonist;agonist,G protein coupled receptor 17
+rawtarget_3_hydroxyacyl_coa_dehydrogenase_type_2_inhibitor,3 hydroxyacyl CoA dehydrogenase type 2 inhibitor,inhibitor,3 hydroxyacyl CoA dehydrogenase type 2
+rawtarget_protein_fto_inhibitor,Protein FTO inhibitor,inhibitor,Protein FTO
+rawtarget_pde_11_inhibitor,PDE 11 inhibitor,inhibitor,PDE 11
+rawtarget_estrogen_receptor_modulator,Estrogen receptor modulator,modulator,Estrogen receptor
+rawtarget_kallikrein_inhibitor,Kallikrein inhibitor,inhibitor,Kallikrein
+rawtarget_stimulator_of_interferon_genes_protein_stimulator,Stimulator of interferon genes protein stimulator,stimulator,of interferon genes protein
+rawtarget_catechol_o-methyltransferase_inhibitor,Catechol O-methyltransferase inhibitor,inhibitor,Catechol O-methyltransferase
+rawtarget_acetyl_coa_carboxylase-2_inhibitor,Acetyl CoA carboxylase-2 inhibitor,inhibitor,Acetyl CoA carboxylase-2
+rawtarget_acetyl_coa_carboxylase-1_inhibitor,Acetyl CoA carboxylase-1 inhibitor,inhibitor,Acetyl CoA carboxylase-1
+rawtarget_sgk-1_protein_kinase_inhibitor,SGK-1 protein kinase inhibitor,protein kinase inhibitor;kinase inhibitor;inhibitor,SGK-1
+rawtarget_monoglyceride_lipase_modulator,Monoglyceride lipase modulator,modulator,Monoglyceride lipase
+rawtarget_interferon_agonist,Interferon agonist,agonist,Interferon
+rawtarget_negative_elongation_factor_c-d_stimulator,Negative elongation factor C-D stimulator,stimulator,Negative elongation factor C-D
+rawtarget_immunoglobulin_g1_antagonist,Immunoglobulin G1 antagonist,antagonist;agonist,Immunoglobulin G1
+rawtarget_il-4_receptor_agonist,IL-4 receptor agonist,receptor agonist;agonist,IL-4
+rawtarget_immunoglobulin_g_antagonist,Immunoglobulin G antagonist,antagonist;agonist,Immunoglobulin G
+rawtarget_il-17_agonist,IL-17 agonist,agonist,IL-17
+rawtarget_cd4_agonist,CD4 agonist,agonist,CD4
+rawtarget_non_receptor_tyrosine_kinase_tyk2_inhibitor,Non receptor tyrosine kinase TYK2 inhibitor,inhibitor,Non receptor tyrosine kinase TYK2
+rawtarget_dopamine_d3_receptor_modulator,Dopamine D3 receptor modulator,modulator,Dopamine D3 receptor
+rawtarget_tropomyosin_inhibitor,Tropomyosin inhibitor,inhibitor,Tropomyosin
+rawtarget_g-protein_coupled_receptor_84_antagonist,G-protein coupled receptor 84 antagonist,antagonist;agonist,G-protein coupled receptor 84
+rawtarget_trp_cation_channel_c5_inhibitor,TRP cation channel C5 inhibitor,inhibitor,TRP cation channel C5
+rawtarget_covid19_3c-like_proteinase_nsp5_inhibitor,COVID19 3C-like proteinase NSP5 inhibitor,inhibitor,COVID19 3C-like proteinase NSP5
+rawtarget_melanocortin_mc4_receptor_agonist,Melanocortin MC4 receptor agonist,receptor agonist;agonist,Melanocortin MC4
+rawtarget_rna_polymerase_ii_stimulator,RNA polymerase II stimulator,stimulator,RNA polymerase II
+rawtarget_protein_phosphatase_2a_modulator,Protein phosphatase 2A modulator,modulator,Protein phosphatase 2A
+rawtarget_myc_proto-oncogene_protein_inhibitor,Myc proto-oncogene protein inhibitor,inhibitor,Myc proto-oncogene protein
+rawtarget_tau_tubulin_kinase_inhibitor,Tau tubulin kinase inhibitor,kinase inhibitor;inhibitor,Tau tubulin
+rawtarget_poly_adp_ribose_polymerase_1_inhibitor,Poly ADP ribose polymerase 1 inhibitor,inhibitor,Poly ADP ribose polymerase 1
+rawtarget_gaba_b_receptor_agonist,GABA B receptor agonist,receptor agonist;agonist,GABA B
+rawtarget_5-ht_receptor_modulator,5-HT receptor modulator,modulator,5-HT receptor
+rawtarget_adrenergic_receptor_agonist,Adrenergic receptor agonist,receptor agonist;agonist,Adrenergic
+rawtarget_protein_phosphatase_2a_stimulator,Protein phosphatase 2A stimulator,stimulator,Protein phosphatase 2A
+rawtarget_trka_receptor_antagonist,TrkA receptor antagonist,receptor antagonist;antagonist;agonist,TrkA
+rawtarget_glycine_receptor_antagonist,Glycine receptor antagonist,receptor antagonist;antagonist;agonist,Glycine
+rawtarget_phenylalanine_hydroxylase_inhibitor,Phenylalanine hydroxylase inhibitor,inhibitor,Phenylalanine hydroxylase
+rawtarget_protein_tyrosine_kinase_inhibitor,Protein tyrosine kinase inhibitor,kinase inhibitor;inhibitor,Protein tyrosine
+rawtarget_nek-7_protein_kinase_inhibitor,Nek-7 protein kinase inhibitor,protein kinase inhibitor;kinase inhibitor;inhibitor,Nek-7
+rawtarget_apoptosis_speck_like_card_domain_inhibitor,Apoptosis speck like CARD domain inhibitor,inhibitor,Apoptosis speck like CARD domain
+rawtarget_retinoic_acid_receptor_beta_agonist,Retinoic acid receptor beta agonist,agonist,Retinoic acid receptor beta
+rawtarget_retinoic_acid_receptor_alpha_agonist,Retinoic acid receptor alpha agonist,agonist,Retinoic acid receptor alpha
+rawtarget_dopamine_beta_hydroxylase_inhibitor,Dopamine beta hydroxylase inhibitor,inhibitor,Dopamine beta hydroxylase
+rawtarget_cacna1g_calcium_channel_subunit_stimulator,CACNA1G calcium channel subunit stimulator,stimulator,CACNA1G calcium channel subunit
+rawtarget_cacna1h_calcium_channel_subunit_stimulator,CACNA1H calcium channel subunit stimulator,stimulator,CACNA1H calcium channel subunit
+rawtarget_cacna1i_calcium_channel_subunit_stimulator,CACNA1I calcium channel subunit stimulator,stimulator,CACNA1I calcium channel subunit
+rawtarget_nitric_oxide_synthase_inhibitor,Nitric oxide synthase inhibitor,inhibitor,Nitric oxide synthase
+rawtarget_bcl-xl_bcl-2_associated_death_promotor_inhibitor,Bcl-xL Bcl-2 associated death promotor inhibitor,inhibitor,Bcl-xL Bcl-2 associated death promotor
+rawtarget_interferon_type_i_receptor_agonist,Interferon type I receptor agonist,receptor agonist;agonist,Interferon type I
+rawtarget_protein_spinster_homolog_2_inhibitor,Protein spinster homolog 2 inhibitor,inhibitor,Protein spinster homolog 2
+rawtarget_cholestenol_delta-isomerase_inhibitor,Cholestenol delta-isomerase inhibitor,inhibitor,Cholestenol delta-isomerase
+rawtarget_7_dehydrocholesterol_reductase_inhibitor,7 dehydrocholesterol reductase inhibitor,inhibitor,7 dehydrocholesterol reductase
+rawtarget_nuclear_erythroid_2-related_factor_2_modulator,Nuclear erythroid 2-related factor 2 modulator,modulator,Nuclear erythroid 2-related factor 2
+rawtarget_nuclear_erythroid_2-related_factor_2_inhibitor,Nuclear erythroid 2-related factor 2 inhibitor,inhibitor,Nuclear erythroid 2-related factor 2
+rawtarget_kelch_like_ech_associated_protein_1_stimulator,Kelch like ECH associated protein 1 stimulator,stimulator,Kelch like ECH associated protein 1
+rawtarget_abhydrolase_domain_protein_6_inhibitor,Abhydrolase domain protein 6 inhibitor,inhibitor,Abhydrolase domain protein 6
+rawtarget_5-ht_1_receptor_agonist,5-HT 1 receptor agonist,receptor agonist;agonist,5-HT 1
+rawtarget_opioid_receptor_sigma_antagonist_2,Opioid receptor sigma antagonist 2,antagonist;agonist,Opioid receptor sigma 2
+rawtarget_guanylyl_cyclase_activating_protein_modulator,Guanylyl cyclase activating protein modulator,protein modulator;modulator,Guanylyl cyclase activating
+rawtarget_natriuretic_peptide_receptor_a_antagonist,Natriuretic peptide receptor A antagonist,antagonist;agonist,Natriuretic peptide receptor A
+rawtarget_microtubule_affinity_regulated_kinase_4_inhibitor,Microtubule affinity regulated kinase 4 inhibitor,inhibitor,Microtubule affinity regulated kinase 4
+rawtarget_guanylate_cyclase_stimulator,Guanylate cyclase stimulator,stimulator,Guanylate cyclase
+rawtarget_nitric_oxide_synthase_stimulator,Nitric oxide synthase stimulator,stimulator,Nitric oxide synthase
+rawtarget_cgmp_agonist,cGMP agonist,agonist,cGMP
+rawtarget_kcnj_potassium_channel-9_modulator,KCNJ potassium channel-9 modulator,modulator,KCNJ potassium channel-9
+rawtarget_kcnj_potassium_channel-6_modulator,KCNJ potassium channel-6 modulator,modulator,KCNJ potassium channel-6
+rawtarget_kcnj_potassium_channel-3_modulator,KCNJ potassium channel-3 modulator,modulator,KCNJ potassium channel-3
+rawtarget_t-cell_transcription_factor_nfat1_inhibitor,T-cell transcription factor NFAT1 inhibitor,inhibitor,T-cell transcription factor NFAT1
+rawtarget_calcineurin_inhibitor,Calcineurin inhibitor,inhibitor,Calcineurin
+rawtarget_non_canonical_rna_polymerase_papd5_inhibitor,Non canonical RNA polymerase PAPD5 inhibitor,inhibitor,Non canonical RNA polymerase PAPD5
+rawtarget_solute_carrier_family_12a2_inhibitor,Solute carrier family 12A2 inhibitor,inhibitor,Solute carrier family 12A2
+rawtarget_mekkk-5_protein_kinase_inhibitor,MEKKK-5 protein kinase inhibitor,protein kinase inhibitor;kinase inhibitor;inhibitor,MEKKK-5
+rawtarget_mas-related_g-protein_receptor_d_antagonist,Mas-related G-protein receptor D antagonist,antagonist;agonist,Mas-related G-protein receptor D
+rawtarget_sh2_domain_inositol_phosphatase_1_inhibitor,SH2 domain inositol phosphatase 1 inhibitor,inhibitor,SH2 domain inositol phosphatase 1
+rawtarget_aryl_hydrocarbon_receptor_agonist,Aryl hydrocarbon receptor agonist,receptor agonist;agonist,Aryl hydrocarbon
+rawtarget_g_protein_coupled_receptor_52_modulator,G protein coupled receptor 52 modulator,modulator,G protein coupled receptor 52
+rawtarget_dynamin_1_inhibitor,Dynamin 1 inhibitor,inhibitor,Dynamin 1
+rawtarget_somatostatin_2_receptor_agonist,Somatostatin 2 receptor agonist,receptor agonist;agonist,Somatostatin 2
+rawtarget_metabotropic_glutamate_receptor_4_antagonist,Metabotropic glutamate receptor 4 antagonist,antagonist;agonist,Metabotropic glutamate receptor 4
+rawtarget_serotonin_transporter_modulator,Serotonin transporter modulator,modulator,Serotonin transporter
+rawtarget_reactive_oxygen_species_modulator_1_inhibitor,Reactive oxygen species modulator 1 inhibitor,inhibitor;modulator,Reactive oxygen species 1
+rawtarget_proliferating_cell_nuclear_antigen_stimulator,Proliferating cell nuclear antigen stimulator,stimulator,Proliferating cell nuclear antigen
+rawtarget_il-12_receptor_antagonist,IL-12 receptor antagonist,receptor antagonist;antagonist;agonist,IL-12
+rawtarget_il-23_antagonist,IL-23 antagonist,antagonist;agonist,IL-23
+rawtarget_interferon_alpha_ligand_inhibitor,Interferon alpha ligand inhibitor,ligand inhibitor;inhibitor,Interferon alpha
+rawtarget_sigma_opioid_receptor_antagonist,Sigma opioid receptor antagonist,receptor antagonist;antagonist;agonist,Sigma opioid
+rawtarget_sigma_opioid_receptor_agonist,Sigma opioid receptor agonist,receptor agonist;agonist,Sigma opioid
+rawtarget_interferon_beta_ligand_inhibitor,Interferon beta ligand inhibitor,ligand inhibitor;inhibitor,Interferon beta
+rawtarget_mtor_complex_1_stimulator,mTOR complex 1 stimulator,stimulator,mTOR complex 1
+rawtarget_kcnk_potassium_channel-13_inhibitor,KCNK potassium channel-13 inhibitor,inhibitor,KCNK potassium channel-13
+rawtarget_beta_2_adrenoceptor_antagonist,Beta 2 adrenoceptor antagonist,antagonist;agonist,Beta 2 adrenoceptor
+rawtarget_transmembrane_protein_175_inhibitor,Transmembrane protein 175 inhibitor,inhibitor,Transmembrane protein 175
+rawtarget_transmembrane_protein_175_modulator,Transmembrane protein 175 modulator,modulator,Transmembrane protein 175
+rawtarget_metabotropic_glutamate_receptor_7_antagonist,Metabotropic glutamate receptor 7 antagonist,antagonist;agonist,Metabotropic glutamate receptor 7
+rawtarget_translocator_protein_stimulator,Translocator protein stimulator,stimulator,Translocator protein
+rawtarget_casein_kinase_ii_alpha_prime_inhibitor,Casein kinase II alpha prime inhibitor,inhibitor,Casein kinase II alpha prime
+rawtarget_casein_kinase_ii_alpha_inhibitor,Casein kinase II alpha inhibitor,inhibitor,Casein kinase II alpha
+rawtarget_metalloprotease-9_inhibitor,Metalloprotease-9 inhibitor,inhibitor,Metalloprotease-9
+rawtarget_pdgf_receptor_beta_antagonist,PDGF receptor beta antagonist,antagonist;agonist,PDGF receptor beta
+rawtarget_x_box_binding_protein_1_stimulator,X box binding protein 1 stimulator,stimulator,X box binding protein 1
+rawtarget_ire1_protein_kinase_stimulator,IRE1 protein kinase stimulator,stimulator,IRE1 protein kinase
+rawtarget_dna_mismatch_protein_msh2_inhibitor,DNA mismatch protein Msh2 inhibitor,inhibitor,DNA mismatch protein Msh2
+rawtarget_dna_mismatch_protein_msh3_inhibitor,DNA mismatch protein Msh3 inhibitor,inhibitor,DNA mismatch protein Msh3
+rawtarget_focal_adhesion_kinase_stimulator,Focal adhesion kinase stimulator,stimulator,Focal adhesion kinase
+rawtarget_syndecan_2_stimulator,Syndecan 2 stimulator,stimulator,Syndecan 2
+rawtarget_syndecan_4_stimulator,Syndecan 4 stimulator,stimulator,Syndecan 4
+rawtarget_hjurp_gene_stimulator,HJURP gene stimulator,stimulator,HJURP gene
+rawtarget_programmed_cell_death_ligand_1,Programmed cell death ligand 1,unspecified,Programmed cell death ligand 1
+rawtarget_talin_stimulator,Talin stimulator,stimulator,Talin
+rawtarget_lyn_tyrosine_kinase_inhibitor,Lyn tyrosine kinase inhibitor,kinase inhibitor;inhibitor,Lyn tyrosine
+rawtarget_kcnc_potassium_channel_3_modulator,KCNC potassium channel 3 modulator,modulator,KCNC potassium channel 3
+rawtarget_kcnc_potassium_channel_2_modulator,KCNC potassium channel 2 modulator,modulator,KCNC potassium channel 2
+rawtarget_kcnc_potassium_channel_1_modulator,KCNC potassium channel 1 modulator,modulator,KCNC potassium channel 1
+rawtarget_interleukin_17a_ligand_inhibitor,Interleukin 17A ligand inhibitor,ligand inhibitor;inhibitor,Interleukin 17A
+rawtarget_transmembrane_protein_tmem_inhibitor,Transmembrane protein TMEM inhibitor,inhibitor,Transmembrane protein TMEM
+rawtarget_caspase-6_inhibitor,Caspase-6 inhibitor,inhibitor,Caspase-6
+rawtarget_caspase_inhibitor,Caspase inhibitor,inhibitor,Caspase
+rawtarget_trp_cation_channel_v3_inhibitor,TRP cation channel V3 inhibitor,inhibitor,TRP cation channel V3
+rawtarget_nicotinamide_phosphoribosyltransferase_modulator,Nicotinamide phosphoribosyltransferase modulator,modulator,Nicotinamide phosphoribosyltransferase
+rawtarget_glial_fibrillary_acidic_protein_inhibitor,Glial fibrillary acidic protein inhibitor,inhibitor,Glial fibrillary acidic protein
+rawtarget_eukaryotic_initiation_2_alpha_kinase_2_inhibitor,Eukaryotic initiation 2 alpha kinase 2 inhibitor,inhibitor,Eukaryotic initiation 2 alpha kinase 2
+rawtarget_p2x4_purinoceptor_antagonist,P2X4 purinoceptor antagonist,antagonist;agonist,P2X4 purinoceptor
+rawtarget_complement_factor_d_inhibitor,Complement factor D inhibitor,inhibitor,Complement factor D
+rawtarget_noradrenaline_transporter_inhibitor,Noradrenaline transporter inhibitor,inhibitor,Noradrenaline transporter
+rawtarget_mnk_protein_kinase_inhibitor,MNK protein kinase inhibitor,protein kinase inhibitor;kinase inhibitor;inhibitor,MNK
+rawtarget_autophagy_protein_inhibitor,Autophagy protein inhibitor,inhibitor,Autophagy protein
+rawtarget_dopamine_d4_receptor_partial_agonist,Dopamine D4 receptor partial agonist,partial agonist;agonist,Dopamine D4 receptor
+rawtarget_5-ht_6_receptor_antagonist,5-HT 6 receptor antagonist,receptor antagonist;antagonist;agonist,5-HT 6
+rawtarget_glucagon-like_peptide_1_receptor_antagonist,Glucagon-like peptide 1 receptor antagonist,receptor antagonist;antagonist;agonist,Glucagon-like peptide 1
+rawtarget_dopamine_d2_receptor_modulator,Dopamine D2 receptor modulator,modulator,Dopamine D2 receptor
+rawtarget_transthyretin_inhibitor,Transthyretin inhibitor,inhibitor,Transthyretin
+rawtarget_transcriptional_enhancer_factor_tef_inhibitor,Transcriptional enhancer factor TEF inhibitor,inhibitor,Transcriptional enhancer factor TEF
+rawtarget_il-1_receptor_antagonist,IL-1 receptor antagonist,receptor antagonist;antagonist;agonist,IL-1
+rawtarget_superoxide_dismutase_inhibitor,Superoxide dismutase inhibitor,inhibitor,Superoxide dismutase
+rawtarget_mitochondrial_atpase_inhibitor_inhibitor,Mitochondrial ATPase inhibitor inhibitor,inhibitor,Mitochondrial ATPase
+rawtarget_opioid_receptor_mu_partial_agonist,Opioid receptor mu partial agonist,partial agonist;agonist,Opioid receptor mu
+rawtarget_dopamine_transporter_modulator,Dopamine transporter modulator,modulator,Dopamine transporter
+rawtarget_noradrenaline_transporter_modulator,Noradrenaline transporter modulator,modulator,Noradrenaline transporter
+rawtarget_pre_mrna_splicing_factor_38_inhibitor,Pre mRNA splicing factor 38 inhibitor,inhibitor,Pre mRNA splicing factor 38
+rawtarget_nucleotide_binding_protein_modulator,Nucleotide binding protein modulator,protein modulator;modulator,Nucleotide binding
+rawtarget_serine_threonine_phosphatase_pp2a_stimulator,Serine threonine phosphatase PP2A stimulator,stimulator,Serine threonine phosphatase PP2A
+rawtarget_ubiquitin_thioesterase-5_inhibitor,Ubiquitin thioesterase-5 inhibitor,inhibitor,Ubiquitin thioesterase-5
+rawtarget_cxxc_type_zinc_finger_protein_5_inhibitor,CXXC type zinc finger protein 5 inhibitor,inhibitor,CXXC type zinc finger protein 5
+rawtarget_dishevelled_ligand,Dishevelled ligand,unspecified,Dishevelled ligand
+rawtarget_autophagy_protein_modulator,Autophagy protein modulator,protein modulator;modulator,Autophagy
+rawtarget_mitochondrial_fission_regulator_modulator,Mitochondrial fission regulator modulator,modulator,Mitochondrial fission regulator
+rawtarget_gaba_a_receptor_delta_subunit_stimulator,GABA A receptor delta subunit stimulator,stimulator,GABA A receptor delta subunit
+rawtarget_nmda_receptor_epsilon_2_subunit_modulator,NMDA receptor epsilon 2 subunit modulator,modulator,NMDA receptor epsilon 2 subunit
+rawtarget_histone_deacetylase-6_modulator,Histone deacetylase-6 modulator,modulator,Histone deacetylase-6
+rawtarget_metabotropic_glutamate_receptor_5_modulator,Metabotropic glutamate receptor 5 modulator,modulator,Metabotropic glutamate receptor 5
+rawtarget_heat_shock_protein_hsp90_alpha_inhibitor,Heat shock protein HSP90 alpha inhibitor,inhibitor,Heat shock protein HSP90 alpha
+rawtarget_heat_shock_protein_hsp90_beta_inhibitor,Heat shock protein HSP90 beta inhibitor,inhibitor,Heat shock protein HSP90 beta
+rawtarget_acid_sensing_ion_channel_1a_inhibitor,Acid sensing ion channel 1A inhibitor,inhibitor,Acid sensing ion channel 1A
+rawtarget_bile_salt_export_pump_stimulator,Bile salt export pump stimulator,stimulator,Bile salt export pump
+rawtarget_gastric_inhibitory_polypeptide_receptor_antagonist,Gastric inhibitory polypeptide receptor antagonist,receptor antagonist;antagonist;agonist;inhibitor,Gastric inhibitory polypeptide
+rawtarget_atp_citrate_lyase_inhibitor,ATP citrate lyase inhibitor,inhibitor,ATP citrate lyase
+rawtarget_c-reactive_protein_modulator,C-reactive protein modulator,protein modulator;modulator,C-reactive
+rawtarget_bombesin_bb2_receptor_modulator,Bombesin BB2 receptor modulator,modulator,Bombesin BB2 receptor
+rawtarget_solute_carrier_family_12a5_stimulator,Solute carrier family 12A5 stimulator,stimulator,Solute carrier family 12A5
+rawtarget_slc12a5_gene_stimulator,SLC12A5 gene stimulator,stimulator,SLC12A5 gene
+rawtarget_trp_cation_channel_c1_modulator,TRP cation channel C1 modulator,modulator,TRP cation channel C1
+rawtarget_trp_cation_channel_c2_modulator,TRP cation channel C2 modulator,modulator,TRP cation channel C2
+rawtarget_trp_cation_channel_c3_modulator,TRP cation channel C3 modulator,modulator,TRP cation channel C3
+rawtarget_ebv_induce_g_protein_coupled_receptor_2_antagonist,EBV induce G protein coupled receptor 2 antagonist,antagonist;agonist,EBV induce G protein coupled receptor 2
+rawtarget_interleukin_receptor_17a_antagonist,Interleukin receptor 17A antagonist,antagonist;agonist,Interleukin receptor 17A
+rawtarget_kcnh_voltage-gated_potassium_channel_inhibitor,KCNH voltage-gated potassium channel inhibitor,inhibitor,KCNH voltage-gated potassium channel
+rawtarget_oxidative_stress_growth_inhibitor_inhibitor,Oxidative stress growth inhibitor inhibitor,inhibitor,Oxidative stress growth
+rawtarget_protein_kinase_c_inhibitor,Protein kinase C inhibitor,inhibitor,Protein kinase C
+rawtarget_n-glycosylase_dna_lyase_modulator,N-glycosylase DNA lyase modulator,modulator,N-glycosylase DNA lyase
+rawtarget_hepatocyte_growth_factor_ligand,Hepatocyte growth factor ligand,unspecified,Hepatocyte growth factor ligand
+rawtarget_hepatocyte_growth_factor_receptor_agonist,Hepatocyte growth factor receptor agonist,receptor agonist;agonist,Hepatocyte growth factor
+rawtarget_islet_amyloid_polypeptide_inhibitor,Islet amyloid polypeptide inhibitor,inhibitor,Islet amyloid polypeptide
+rawtarget_glucosylceramidase_stimulator,Glucosylceramidase stimulator,stimulator,Glucosylceramidase
+rawtarget_tfeb_gene_modulator,TFEB gene modulator,gene modulator;modulator,TFEB
+rawtarget_tyrosine_protein_kinase_abl1_modulator,Tyrosine protein kinase ABL1 modulator,modulator,Tyrosine protein kinase ABL1
+rawtarget_leucine_rich_serine_threonine_kinase_2_modulator,Leucine rich serine threonine kinase 2 modulator,modulator,Leucine rich serine threonine kinase 2
+rawtarget_mas-related_g-protein_receptor_x2_antagonist,Mas-related G-protein receptor X2 antagonist,antagonist;agonist,Mas-related G-protein receptor X2
+rawtarget_mucolipin_1_inhibitor,Mucolipin 1 inhibitor,inhibitor,Mucolipin 1
+rawtarget_akt_protein_kinase_stimulator,AKT protein kinase stimulator,stimulator,AKT protein kinase
+rawtarget_aminopeptidase_n_stimulator,Aminopeptidase N stimulator,stimulator,Aminopeptidase N
+rawtarget_cgrp_receptor_antagonist,CGRP receptor antagonist,receptor antagonist;antagonist;agonist,CGRP
+rawtarget_gnrh_receptor_antagonist,GNRH receptor antagonist,receptor antagonist;antagonist;agonist,GNRH
+rawtarget_neurolysin_stimulator,Neurolysin stimulator,stimulator,Neurolysin
+rawtarget_neuroplastin_modulator,Neuroplastin modulator,modulator,Neuroplastin
+rawtarget_trp_cation_channel_v1_antagonist,TRP cation channel V1 antagonist,antagonist;agonist,TRP cation channel V1
+rawtarget_glutathione_peroxidase_4_inhibitor,Glutathione peroxidase 4 inhibitor,inhibitor,Glutathione peroxidase 4
+rawtarget_i-kappa_b_kinase_gamma_inhibitor,I-kappa B kinase gamma inhibitor,inhibitor,I-kappa B kinase gamma
+rawtarget_card_gene_modulator,CARD gene modulator,gene modulator;modulator,CARD
+rawtarget_nacht_lrr_pyd_domain_protein_3_stimulator,NACHT LRR PYD domain protein 3 stimulator,stimulator,NACHT LRR PYD domain protein 3
+rawtarget_ascc_gene_modulator,ASCC gene modulator,gene modulator;modulator,ASCC
+rawtarget_apelin_ligand_13,Apelin ligand 13,unspecified,Apelin ligand 13
+rawtarget_apelin_receptor_agonist,Apelin receptor agonist,receptor agonist;agonist,Apelin
+rawtarget_alk-2_protein_kinase_inhibitor,Alk-2 protein kinase inhibitor,protein kinase inhibitor;kinase inhibitor;inhibitor,Alk-2
+rawtarget_ret_tyrosine_kinase_receptor_inhibitor,Ret tyrosine kinase receptor inhibitor,inhibitor,Ret tyrosine kinase receptor
+rawtarget_vegf-2_receptor_antagonist,VEGF-2 receptor antagonist,receptor antagonist;antagonist;agonist,VEGF-2
+rawtarget_cdk2_associated_protein_inhibitor,CDK2 associated protein inhibitor,inhibitor,CDK2 associated protein
+rawtarget_alk-1_protein_kinase_inhibitor,Alk-1 protein kinase inhibitor,protein kinase inhibitor;kinase inhibitor;inhibitor,Alk-1
+rawtarget_dna_methyltransferase_inhibitor,DNA methyltransferase inhibitor,inhibitor,DNA methyltransferase
+rawtarget_phenylethanolamine_n-methyltransferase_inhibitor,Phenylethanolamine N-methyltransferase inhibitor,inhibitor,Phenylethanolamine N-methyltransferase
+rawtarget_cathelicidin_antimicrobial_peptide_inhibitor,Cathelicidin antimicrobial peptide inhibitor,inhibitor,Cathelicidin antimicrobial peptide
+rawtarget_stearoyl_coa_desaturase-1_inhibitor,Stearoyl CoA desaturase-1 inhibitor,inhibitor,Stearoyl CoA desaturase-1
+rawtarget_retinal_pigment_epithelium_protein_inhibitor,Retinal pigment epithelium protein inhibitor,inhibitor,Retinal pigment epithelium protein
+rawtarget_histone_lysine_methyltransferase_ehmt2_inhibitor,Histone lysine methyltransferase EHMT2 inhibitor,inhibitor,Histone lysine methyltransferase EHMT2
+rawtarget_stathmin-2_modulator,Stathmin-2 modulator,modulator,Stathmin-2
+rawtarget_kcnk_potassium_channel-10_inhibitor,KCNK potassium channel-10 inhibitor,inhibitor,KCNK potassium channel-10
+rawtarget_kcnk_potassium_channel-2_inhibitor,KCNK potassium channel-2 inhibitor,inhibitor,KCNK potassium channel-2
+rawtarget_angiotensin_ii_at-2_receptor_antagonist,Angiotensin II AT-2 receptor antagonist,receptor antagonist;antagonist;agonist,Angiotensin II AT-2
+rawtarget_extracellular_calcium_sensing_receptor_modulator,Extracellular calcium sensing receptor modulator,modulator,Extracellular calcium sensing receptor
+rawtarget_huntingtin_interacting_protein_gene_modulator,Huntingtin interacting protein gene modulator,gene modulator;modulator,Huntingtin interacting protein
+rawtarget_serine_protease_htra1_inhibitor,Serine protease HTRA1 inhibitor,inhibitor,Serine protease HTRA1
+rawtarget_transmembrane_protein_175_stimulator,Transmembrane protein 175 stimulator,stimulator,Transmembrane protein 175
+rawtarget_phosphoinositide-3_kinase_gamma_inhibitor,Phosphoinositide-3 kinase gamma inhibitor,inhibitor,Phosphoinositide-3 kinase gamma
+rawtarget_transcription_initiation_factor_tfiid1l_inhibitor,Transcription initiation factor TFIID1L inhibitor,inhibitor,Transcription initiation factor TFIID1L
+rawtarget_cyclin_dependent_kinase_like_4_inhibitor,Cyclin dependent kinase like 4 inhibitor,inhibitor,Cyclin dependent kinase like 4
+rawtarget_pim_protein_kinase_inhibitor,PIM protein kinase inhibitor,protein kinase inhibitor;kinase inhibitor;inhibitor,PIM
+rawtarget_haspin_serine_threonine_protein_kinase_inhibitor,Haspin serine threonine protein kinase inhibitor,protein kinase inhibitor;kinase inhibitor;inhibitor,Haspin serine threonine
+rawtarget_cyclin_dependent_kinase_like_3_inhibitor,Cyclin dependent kinase like 3 inhibitor,inhibitor,Cyclin dependent kinase like 3
+rawtarget_granulin_ligand_modulator,Granulin ligand modulator,ligand modulator;modulator,Granulin
+rawtarget_gpr183_gene_inhibitor,GPR183 gene inhibitor,inhibitor,GPR183 gene
+rawtarget_dnaj_homolog_protein_inhibitor,DnaJ homolog protein inhibitor,inhibitor,DnaJ homolog protein
+rawtarget_camp_antagonist,cAMP antagonist,antagonist;agonist,cAMP
+rawtarget_protein_kinase_a_inhibitor,Protein kinase A inhibitor,inhibitor,Protein kinase A
+rawtarget_wart2_protein_kinase_inhibitor,WART2 protein kinase inhibitor,protein kinase inhibitor;kinase inhibitor;inhibitor,WART2
+rawtarget_wart1_protein_kinase_inhibitor,WART1 protein kinase inhibitor,protein kinase inhibitor;kinase inhibitor;inhibitor,WART1
+rawtarget_sphingomyelin_synthase-2_inhibitor,Sphingomyelin synthase-2 inhibitor,inhibitor,Sphingomyelin synthase-2
+rawtarget_transitional_endoplasmic_atpase_inhibitor,Transitional endoplasmic ATPase inhibitor,inhibitor,Transitional endoplasmic ATPase
+rawtarget_dna_damage_inducible_transcript_3_stimulator,DNA damage inducible transcript 3 stimulator,stimulator,DNA damage inducible transcript 3
+rawtarget_sphingomyelin_phosphodiesterase_3_inhibitor,Sphingomyelin phosphodiesterase 3 inhibitor,inhibitor,Sphingomyelin phosphodiesterase 3
+rawtarget_androgen_receptor_modulator,Androgen receptor modulator,modulator,Androgen receptor
+rawtarget_atp-dependent_clp_protease_inhibitor,ATP-dependent Clp protease inhibitor,inhibitor,ATP-dependent Clp protease
+rawtarget_mek_protein_kinase_stimulator,MEK protein kinase stimulator,stimulator,MEK protein kinase
+rawtarget_histone_acetyltransferase_modulator,Histone acetyltransferase modulator,modulator,Histone acetyltransferase
+rawtarget_slc25a30_gene_inhibitor,SLC25A30 gene inhibitor,inhibitor,SLC25A30 gene
+rawtarget_52_kda_ro_protein_inhibitor,52 kDa Ro protein inhibitor,inhibitor,52 kDa Ro protein
+rawtarget_cot_protein_kinase_inhibitor,COT protein kinase inhibitor,protein kinase inhibitor;kinase inhibitor;inhibitor,COT
+rawtarget_adp_ribosylation_factor_1_inhibitor,ADP ribosylation factor 1 inhibitor,inhibitor,ADP ribosylation factor 1
+rawtarget_g_protein_coupled_receptor_52_antagonist,G protein coupled receptor 52 antagonist,antagonist;agonist,G protein coupled receptor 52
+rawtarget_5-ht_1e_receptor_agonist,5-HT 1e receptor agonist,receptor agonist;agonist,5-HT 1e
+rawtarget_opioid_receptor_antagonist,Opioid receptor antagonist,receptor antagonist;antagonist;agonist,Opioid
+rawtarget_poly_adp_ribose_polymerase_2_inhibitor,Poly ADP ribose polymerase 2 inhibitor,inhibitor,Poly ADP ribose polymerase 2
+rawtarget_methyl_cpg_binding_protein_2_modulator,Methyl CpG binding protein 2 modulator,modulator,Methyl CpG binding protein 2
+rawtarget_igf_binding_protein-2_modulator,IGF binding protein-2 modulator,modulator,IGF binding protein-2
+rawtarget_insulin-like_growth_factor_2_receptor_modulator,Insulin-like growth factor 2 receptor modulator,modulator,Insulin-like growth factor 2 receptor
+rawtarget_lanosterol-14_demethylase_inhibitor,Lanosterol-14 demethylase inhibitor,inhibitor,Lanosterol-14 demethylase
+rawtarget_ectonucleotide_pyrophosphatase-pde-1_inhibitor,Ectonucleotide pyrophosphatase-PDE-1 inhibitor,inhibitor,Ectonucleotide pyrophosphatase-PDE-1
+rawtarget_pde_inhibitor,PDE inhibitor,inhibitor,PDE
+rawtarget_soat1_gene_inhibitor,SOAT1 gene inhibitor,inhibitor,SOAT1 gene
+rawtarget_acat-1_inhibitor,ACAT-1 inhibitor,inhibitor,ACAT-1
+rawtarget_leukotriene_blt_receptor_antagonist,Leukotriene BLT receptor antagonist,receptor antagonist;antagonist;agonist,Leukotriene BLT
+rawtarget_angiotensin_ii_at-2_receptor_agonist,Angiotensin II AT-2 receptor agonist,receptor agonist;agonist,Angiotensin II AT-2
+rawtarget_clusterin_stimulator,Clusterin stimulator,stimulator,Clusterin
+rawtarget_lysophosphatidate-1_receptor_antagonist,Lysophosphatidate-1 receptor antagonist,receptor antagonist;antagonist;agonist,Lysophosphatidate-1
+rawtarget_estrogen_receptor_alpha_antagonist,Estrogen receptor alpha antagonist,antagonist;agonist,Estrogen receptor alpha
+rawtarget_g_protein_coupled_receptor_55_modulator,G protein coupled receptor 55 modulator,modulator,G protein coupled receptor 55
+rawtarget_beta-arrestin_2_stimulator,Beta-arrestin 2 stimulator,stimulator,Beta-arrestin 2
+rawtarget_pde_7a_inhibitor,PDE 7A inhibitor,inhibitor,PDE 7A
+rawtarget_pde_7b_inhibitor,PDE 7B inhibitor,inhibitor,PDE 7B
+rawtarget_reactive_oxygen_species_modulator_inhibitor,Reactive oxygen species modulator inhibitor,inhibitor;modulator,Reactive oxygen species
+rawtarget_lamin_a-c_modulator,Lamin A-C modulator,modulator,Lamin A-C
+rawtarget_cd107a_modulator,CD107a modulator,modulator,CD107a
+rawtarget_atp_dependent_rna_helicase_ddx3x_modulator,ATP dependent RNA helicase DDX3X modulator,modulator,ATP dependent RNA helicase DDX3X
+rawtarget_eukaryotic_initiation_factor_4a_modulator,Eukaryotic initiation factor 4A modulator,modulator,Eukaryotic initiation factor 4A
+rawtarget_lysine_specific_histone_demethylase_1_inhibitor,Lysine specific histone demethylase 1 inhibitor,inhibitor,Lysine specific histone demethylase 1
+rawtarget_hcn_potassium-sodium_channel_2_inhibitor,HCN potassium-sodium channel 2 inhibitor,inhibitor,HCN potassium-sodium channel 2
+rawtarget_interleukin_33_ligand,Interleukin 33 ligand,unspecified,Interleukin 33 ligand
+rawtarget_osteopontin_ligand_inhibitor,Osteopontin ligand inhibitor,ligand inhibitor;inhibitor,Osteopontin
+rawtarget_triosephosphate_dehydrogenase_inhibitor,Triosephosphate dehydrogenase inhibitor,inhibitor,Triosephosphate dehydrogenase
+rawtarget_glutamate_receptor_2_antagonist,Glutamate receptor 2 antagonist,antagonist;agonist,Glutamate receptor 2
+rawtarget_ampa_receptor_antagonist,AMPA receptor antagonist,receptor antagonist;antagonist;agonist,AMPA
+rawtarget_neuroendocrine_convertase-1_inhibitor,Neuroendocrine convertase-1 inhibitor,inhibitor,Neuroendocrine convertase-1
+rawtarget_proprotein_convertase_pc4_modulator,Proprotein convertase PC4 modulator,modulator,Proprotein convertase PC4
+rawtarget_proprotein_convertase_pc5_modulator,Proprotein convertase PC5 modulator,modulator,Proprotein convertase PC5
+rawtarget_proprotein_convertase_pc7_modulator,Proprotein convertase PC7 modulator,modulator,Proprotein convertase PC7
+rawtarget_furin_inhibitor,Furin inhibitor,inhibitor,Furin
+rawtarget_neuroendocrine_convertase-2_inhibitor,Neuroendocrine convertase-2 inhibitor,inhibitor,Neuroendocrine convertase-2
+rawtarget_kcnq_voltage-gated_potassium_channel_stimulator,KCNQ voltage-gated potassium channel stimulator,stimulator,KCNQ voltage-gated potassium channel
+rawtarget_glutaminyl_cyclotransferase_like_protein_inhibitor,Glutaminyl cyclotransferase like protein inhibitor,inhibitor,Glutaminyl cyclotransferase like protein
+rawtarget_kruppel-like_factor_2_stimulator,Kruppel-like factor 2 stimulator,stimulator,Kruppel-like factor 2
+rawtarget_nucleolysin_tia-1_inhibitor,Nucleolysin TIA-1 inhibitor,inhibitor,Nucleolysin TIA-1
+rawtarget_leukotriene_blt_receptor_2_agonist,Leukotriene BLT receptor 2 agonist,agonist,Leukotriene BLT receptor 2
+rawtarget_phosphoinositide-3_kinase_alpha_inhibitor,Phosphoinositide-3 kinase alpha inhibitor,inhibitor,Phosphoinositide-3 kinase alpha
+rawtarget_ras-related_protein_rab_10_inhibitor,Ras-related protein Rab 10 inhibitor,inhibitor,Ras-related protein Rab 10
+rawtarget_ras-related_protein_rab_8a_inhibitor,Ras-related protein Rab 8A inhibitor,inhibitor,Ras-related protein Rab 8A
+rawtarget_histone_acetyltransferase_p300_inhibitor,Histone acetyltransferase p300 inhibitor,inhibitor,Histone acetyltransferase p300
+rawtarget_son_of_sevenless_homolog_1_inhibitor,Son of sevenless homolog 1 inhibitor,inhibitor,Son of sevenless homolog 1
+rawtarget_mst-1_protein_kinase_inhibitor,MST-1 protein kinase inhibitor,protein kinase inhibitor;kinase inhibitor;inhibitor,MST-1
+rawtarget_g_protein_coupled_receptor_88_agonist,G protein coupled receptor 88 agonist,agonist,G protein coupled receptor 88
+rawtarget_serine_threonine_protein_kinase_33_inhibitor,Serine threonine protein kinase 33 inhibitor,inhibitor,Serine threonine protein kinase 33
+rawtarget_interleukin_17_ligand_modulator,Interleukin 17 ligand modulator,ligand modulator;modulator,Interleukin 17
+rawtarget_androgen_receptor_agonist,Androgen receptor agonist,receptor agonist;agonist,Androgen
+rawtarget_nicotinic_ach_receptor_beta_4_subunit_stimulator,Nicotinic ACh receptor beta 4 subunit stimulator,stimulator,Nicotinic ACh receptor beta 4 subunit
+rawtarget_nicotinic_ach_receptor_alpha_3_subunit_stimulator,Nicotinic ACh receptor alpha 3 subunit stimulator,stimulator,Nicotinic ACh receptor alpha 3 subunit
+rawtarget_alpha_protein_kinase_1_stimulator,Alpha protein kinase 1 stimulator,stimulator,Alpha protein kinase 1
+rawtarget_5-ht_1a_receptor_modulator,5-HT 1a receptor modulator,modulator,5-HT 1a receptor
+rawtarget_rna_binding_protein_multiple_splicing_inhibitor,RNA binding protein multiple splicing inhibitor,inhibitor,RNA binding protein multiple splicing
+rawtarget_trp_cation_channel_m3_inhibitor,TRP cation channel M3 inhibitor,inhibitor,TRP cation channel M3
+rawtarget_cdc2-related_protein_kinase_7_inhibitor,CDC2-related protein kinase 7 inhibitor,inhibitor,CDC2-related protein kinase 7
+rawtarget_cyclin_k_inhibitor,Cyclin K inhibitor,inhibitor,Cyclin K
+rawtarget_cyclin_dependent_kinase_13_inhibitor,Cyclin dependent kinase 13 inhibitor,inhibitor,Cyclin dependent kinase 13
+rawtarget_htt_gene_modulator,HTT gene modulator,gene modulator;modulator,HTT
+rawtarget_translocator_protein_modulator,Translocator protein modulator,protein modulator;modulator,Translocator
+rawtarget_bcl_2_like_protein_10_inhibitor,Bcl 2 like protein 10 inhibitor,inhibitor,Bcl 2 like protein 10
+rawtarget_mcl-1_differentiation_protein_inhibitor,Mcl-1 differentiation protein inhibitor,inhibitor,Mcl-1 differentiation protein
+rawtarget_bcl_2_related_protein_a1_inhibitor,Bcl 2 related protein A1 inhibitor,inhibitor,Bcl 2 related protein A1
+rawtarget_kcna_voltage-gated_potassium_channel_inhibitor,KCNA voltage-gated potassium channel inhibitor,inhibitor,KCNA voltage-gated potassium channel
+rawtarget_tak1_binding_protein_inhibitor,TAK1 binding protein inhibitor,inhibitor,TAK1 binding protein
+rawtarget_cyclin-dependent_kinase-2_modulator,Cyclin-dependent kinase-2 modulator,modulator,Cyclin-dependent kinase-2
+rawtarget_dna_mismatch_repair_protein_mlh3_inhibitor,DNA mismatch repair protein Mlh3 inhibitor,inhibitor,DNA mismatch repair protein Mlh3
+rawtarget_taste_receptor_type_1_member_3_modulator,Taste receptor type 1 member 3 modulator,modulator,Taste receptor type 1 member 3
+rawtarget_gasdermin_d_inhibitor,Gasdermin D inhibitor,inhibitor,Gasdermin D
+rawtarget_apoptosis_inducing_factor_inhibitor,Apoptosis inducing factor inhibitor,inhibitor,Apoptosis inducing factor
+rawtarget_polymerase_delta_interacting_protein_3_modulator,Polymerase delta interacting protein 3 modulator,modulator,Polymerase delta interacting protein 3
+rawtarget_nociceptin_receptor_agonist,Nociceptin receptor agonist,receptor agonist;agonist,Nociceptin
+rawtarget_free_fatty_acid_receptor_1_agonist,Free fatty acid receptor 1 agonist,agonist,Free fatty acid receptor 1
+rawtarget_caprin_1_modulator,Caprin 1 modulator,modulator,Caprin 1
+rawtarget_lysophospholipase_3_inhibitor,Lysophospholipase 3 inhibitor,inhibitor,Lysophospholipase 3
+rawtarget_hcn_potassium-sodium_channel_inhibitor,HCN potassium-sodium channel inhibitor,inhibitor,HCN potassium-sodium channel
+rawtarget_g_protein_coupled_receptor_6_inverse_agonist,G protein coupled receptor 6 inverse agonist,inverse agonist;agonist,G protein coupled receptor 6
+rawtarget_tyro_tyrosine_kinase_binding_protein_modulator,TYRO tyrosine kinase binding protein modulator,protein modulator;modulator,TYRO tyrosine kinase binding
+rawtarget_amyloid_beta_a4_binding_protein_inhibitor,Amyloid beta A4 binding protein inhibitor,inhibitor,Amyloid beta A4 binding protein
+rawtarget_c3a_receptor_antagonist,C3a receptor antagonist,receptor antagonist;antagonist;agonist,C3a
+rawtarget_orphan_nuclear_receptor_nurr1_agonist,Orphan nuclear receptor NURR1 agonist,agonist,Orphan nuclear receptor NURR1
+rawtarget_melanocortin_mc5_receptor_modulator,Melanocortin MC5 receptor modulator,modulator,Melanocortin MC5 receptor
+rawtarget_melanocortin_mc3_receptor_antagonist,Melanocortin MC3 receptor antagonist,receptor antagonist;antagonist;agonist,Melanocortin MC3
+rawtarget_melanocortin_receptor_modulator,Melanocortin receptor modulator,modulator,Melanocortin receptor
+rawtarget_melanocortin_mc4_receptor_modulator,Melanocortin MC4 receptor modulator,modulator,Melanocortin MC4 receptor
+rawtarget_melanocortin_mc3_receptor_modulator,Melanocortin MC3 receptor modulator,modulator,Melanocortin MC3 receptor
+rawtarget_melanocortin_receptor_antagonist,Melanocortin receptor antagonist,receptor antagonist;antagonist;agonist,Melanocortin
+rawtarget_melanocortin_mc1_receptor_agonist,Melanocortin MC1 receptor agonist,receptor agonist;agonist,Melanocortin MC1
+rawtarget_calcitonin_receptor_agonist,Calcitonin receptor agonist,receptor agonist;agonist,Calcitonin
+rawtarget_amylin_receptor_agonist,Amylin receptor agonist,receptor agonist;agonist,Amylin
+rawtarget_k-ras_gtpase_inhibitor,K-Ras GTPase inhibitor,inhibitor,K-Ras GTPase
+rawtarget_dyrk-2_protein_kinase_modulator,DYRK-2 protein kinase modulator,modulator,DYRK-2 protein kinase
+rawtarget_g_protein_coupled_receptor_55_antagonist,G protein coupled receptor 55 antagonist,antagonist;agonist,G protein coupled receptor 55
+rawtarget_beta-arrestin_2_inhibitor,Beta-arrestin 2 inhibitor,inhibitor,Beta-arrestin 2
+rawtarget_myc_gene_modulator,MYC gene modulator,gene modulator;modulator,MYC
+rawtarget_angiotensin_ii_receptor_antagonist,Angiotensin II receptor antagonist,receptor antagonist;antagonist;agonist,Angiotensin II
+rawtarget_sphingosine-1-phosphate_receptor-3_antagonist,Sphingosine-1-phosphate receptor-3 antagonist,antagonist;agonist,Sphingosine-1-phosphate receptor-3
+rawtarget_uncoupling_protein-1_stimulator,Uncoupling protein-1 stimulator,stimulator,Uncoupling protein-1
+rawtarget_slc25a_gene_stimulator,SLC25A gene stimulator,stimulator,SLC25A gene
+rawtarget_adenine_nucleotide_translocator_stimulator,Adenine nucleotide translocator stimulator,stimulator,Adenine nucleotide translocator
+rawtarget_mucolipin_2_stimulator,Mucolipin 2 stimulator,stimulator,Mucolipin 2
+rawtarget_mucolipin_3_stimulator,Mucolipin 3 stimulator,stimulator,Mucolipin 3
+rawtarget_phospholipase_c_gamma_2_inhibitor,Phospholipase C gamma 2 inhibitor,inhibitor,Phospholipase C gamma 2
+rawtarget_arginase-i_inhibitor,Arginase-I inhibitor,inhibitor,Arginase-I
+rawtarget_ubiquitin_ligase_modulator,Ubiquitin ligase modulator,modulator,Ubiquitin ligase
+rawtarget_mtor_inhibitor,mTOR inhibitor,inhibitor,mTOR
+rawtarget_phosphoinositide-3_kinase_beta_inhibitor,Phosphoinositide-3 kinase beta inhibitor,inhibitor,Phosphoinositide-3 kinase beta
+rawtarget_neuroprotectant,Neuroprotectant,unspecified,Neuroprotectant
+rawtarget_glucagon_receptor_agonist,Glucagon receptor agonist,receptor agonist;agonist,Glucagon
+rawtarget_aortic_smooth_muscle_actin_inhibitor,Aortic smooth muscle actin inhibitor,inhibitor,Aortic smooth muscle actin
+rawtarget_collagen_antagonist,Collagen antagonist,antagonist;agonist,Collagen
+rawtarget_pyruvate_dehydrogenase_kinase-1_inhibitor,Pyruvate dehydrogenase kinase-1 inhibitor,inhibitor,Pyruvate dehydrogenase kinase-1
+rawtarget_glucosylceramidase_inhibitor,Glucosylceramidase inhibitor,inhibitor,Glucosylceramidase
+rawtarget_sodium_channel_inhibitor,Sodium channel inhibitor,inhibitor,Sodium channel
+rawtarget_cpt1a_gene_modulator,CPT1A gene modulator,gene modulator;modulator,CPT1A
+rawtarget_acox1_gene_modulator,ACOX1 gene modulator,gene modulator;modulator,ACOX1
+rawtarget_ppar_delta_agonist,PPAR delta agonist,agonist,PPAR delta
+rawtarget_pdk4_gene_stimulator,PDK4 gene stimulator,stimulator,PDK4 gene
+rawtarget_il6_gene_modulator,IL6 gene modulator,gene modulator;modulator,IL6
+rawtarget_ppar_alpha_agonist,PPAR alpha agonist,agonist,PPAR alpha
+rawtarget_ccl5_gene_modulator,CCL5 gene modulator,gene modulator;modulator,CCL5
+rawtarget_transient_receptor_channel_trp_agonist,Transient receptor channel (TRP) agonist,agonist,Transient receptor channel (TRP)
+rawtarget_gastric_inhibitory_polypeptide_receptor_agonist,Gastric inhibitory polypeptide receptor agonist,receptor agonist;agonist;inhibitor,Gastric inhibitory polypeptide
+rawtarget_parathyroid_hormone_receptor_1_agonist,Parathyroid hormone receptor 1 agonist,agonist,Parathyroid hormone receptor 1
+rawtarget_monoamine_transmitter_reuptake_inhibitor,Monoamine transmitter reuptake inhibitor,uptake inhibitor;inhibitor,Monoamine transmitter reuptake
+rawtarget_dopamine_inhibitor,Dopamine inhibitor,inhibitor,Dopamine
+rawtarget_norepinephrine_inhibitor,Norepinephrine inhibitor,inhibitor,Norepinephrine
+rawtarget_serotonin_inhibitor,Serotonin inhibitor,inhibitor,Serotonin
+rawtarget_sigma-1_receptor_agonist_inhibitor,Sigma-1 receptor agonist/inhibitor,receptor agonist;agonist;inhibitor,Sigma-1
+rawtarget_serotonin_5-ht_inhibitor,Serotonin 5-HT inhibitor,inhibitor,Serotonin 5-HT
+rawtarget_kcnn_potassium_channel-4_inhibitor,KCNN potassium channel-4 inhibitor,inhibitor,KCNN potassium channel-4
+rawtarget_pyruvate_kinase_muscle_isozyme_inhibitor,Pyruvate kinase muscle isozyme inhibitor,inhibitor,Pyruvate kinase muscle isozyme
+rawtarget_protein_alex_inhibitor,Protein ALEX inhibitor,inhibitor,Protein ALEX
+rawtarget_glutathione_s-transferase_p1_inhibitor,Glutathione S-transferase P1 inhibitor,inhibitor,Glutathione S-transferase P1
+rawtarget_abhydrolase_domain_protein_10_inhibitor,Abhydrolase domain protein 10 inhibitor,inhibitor,Abhydrolase domain protein 10
+rawtarget_acat-2_inhibitor,ACAT-2 inhibitor,inhibitor,ACAT-2
+rawtarget_pde_4d_inhibitor,PDE 4d inhibitor,inhibitor,PDE 4d
+rawtarget_cathelicidin_antimicrobial_peptide_modulator,Cathelicidin antimicrobial peptide modulator,modulator,Cathelicidin antimicrobial peptide
+rawtarget_n-glycosylase_dna_lyase_inhibitor,N-glycosylase DNA lyase inhibitor,inhibitor,N-glycosylase DNA lyase
+rawtarget_igf_binding_protein-1_stimulator,IGF binding protein-1 stimulator,stimulator,IGF binding protein-1
+rawtarget_synaptotagmin_7_inhibitor,Synaptotagmin 7 inhibitor,inhibitor,Synaptotagmin 7
+rawtarget_tryptophan_2_3_dioxygenase_inhibitor,"Tryptophan 2,3 dioxygenase inhibitor",inhibitor,"Tryptophan 2,3 dioxygenase"
+rawtarget_pim-3_protein_kinase_inhibitor,PIM-3 protein kinase inhibitor,protein kinase inhibitor;kinase inhibitor;inhibitor,PIM-3
+rawtarget_pim-1_protein_kinase_inhibitor,PIM-1 protein kinase inhibitor,protein kinase inhibitor;kinase inhibitor;inhibitor,PIM-1
+rawtarget_pim-2_protein_kinase_inhibitor,PIM-2 protein kinase inhibitor,protein kinase inhibitor;kinase inhibitor;inhibitor,PIM-2
+rawtarget_melanocortin_mc3_receptor_partial_agonist,Melanocortin MC3 receptor partial agonist,partial agonist;agonist,Melanocortin MC3 receptor
+rawtarget_melanocortin_mc3_receptor_agonist,Melanocortin MC3 receptor agonist,receptor agonist;agonist,Melanocortin MC3
+rawtarget_melanocortin_receptor_agonist,Melanocortin receptor agonist,receptor agonist;agonist,Melanocortin
+rawtarget_aurora_protein_kinase_1_inhibitor,Aurora protein kinase 1 inhibitor,inhibitor,Aurora protein kinase 1
+rawtarget_claudin_5_inhibitor,Claudin 5 inhibitor,inhibitor,Claudin 5
+rawtarget_cacna1i_calcium_channel_subunit_inhibitor,CACNA1I calcium channel subunit inhibitor,inhibitor,CACNA1I calcium channel subunit
+rawtarget_cacna1b_calcium_channel_subunit_inhibitor,CACNA1B calcium channel subunit inhibitor,inhibitor,CACNA1B calcium channel subunit
+rawtarget_cacna1g_calcium_channel_subunit_inhibitor,CACNA1G calcium channel subunit inhibitor,inhibitor,CACNA1G calcium channel subunit
+rawtarget_type_i_tnf_receptor_antagonist,Type I TNF receptor antagonist,receptor antagonist;antagonist;agonist,Type I TNF
+rawtarget_pde_3a_inhibitor,PDE 3A inhibitor,inhibitor,PDE 3A
+rawtarget_calpastatin_modulator,Calpastatin modulator,modulator,Calpastatin
+rawtarget_camp_agonist,cAMP agonist,agonist,cAMP
+rawtarget_carbonic_anhydrase-i_inhibitor,Carbonic anhydrase-I inhibitor,inhibitor,Carbonic anhydrase-I
+rawtarget_voltage_gated_calcium_channel_cacng_inhibitor,Voltage gated calcium channel CACNG inhibitor,inhibitor,Voltage gated calcium channel CACNG
+rawtarget_histamine_h4_receptor_antagonist,Histamine H4 receptor antagonist,receptor antagonist;antagonist;agonist,Histamine H4
+rawtarget_interleukin_1_zeta_ligand_modulator,Interleukin 1 zeta ligand modulator,ligand modulator;modulator,Interleukin 1 zeta
+rawtarget_interleukin_33_ligand_modulator,Interleukin 33 ligand modulator,ligand modulator;modulator,Interleukin 33
+rawtarget_interleukin-1_alpha_ligand_modulator,Interleukin-1 alpha ligand modulator,ligand modulator;modulator,Interleukin-1 alpha
+rawtarget_cannabinoid_cb1_receptor_agonist,Cannabinoid CB1 receptor agonist,receptor agonist;agonist,Cannabinoid CB1
+rawtarget_protein_kinase_g_inhibitor,Protein kinase G inhibitor,inhibitor,Protein kinase G
+rawtarget_dyrk-4_protein_kinase_inhibitor,DYRK-4 protein kinase inhibitor,protein kinase inhibitor;kinase inhibitor;inhibitor,DYRK-4
+rawtarget_erg11_gene_inhibitor,ERG11 gene inhibitor,inhibitor,ERG11 gene
+rawtarget_voltage_gated_potassium_channel_inhibitor,Voltage gated potassium channel inhibitor,inhibitor,Voltage gated potassium channel
+rawtarget_alpha_protein_kinase_1_inhibitor,Alpha protein kinase 1 inhibitor,inhibitor,Alpha protein kinase 1
+rawtarget_trkb_receptor_antagonist,TrkB receptor antagonist,receptor antagonist;antagonist;agonist,TrkB
+rawtarget_cholecystokinin_cck2_receptor_antagonist,Cholecystokinin CCK2 receptor antagonist,receptor antagonist;antagonist;agonist,Cholecystokinin CCK2
+rawtarget_norepinephrine_ne_reuptake_inhibitor,Norepinephrine (NE) reuptake inhibitor.,uptake inhibitor;inhibitor,Norepinephrine (NE) reuptake .
+rawtarget_eukaryotic_initiation_2_alpha_kinase_1_inhibitor,Eukaryotic initiation 2 alpha kinase 1 inhibitor,inhibitor,Eukaryotic initiation 2 alpha kinase 1
+rawtarget_phosphatase_1_regulatory_subunit_15a_inhibitor,Phosphatase 1 regulatory subunit 15A inhibitor,inhibitor,Phosphatase 1 regulatory subunit 15A
+rawtarget_dna_damage_inducible_transcript_3_inhibitor,DNA damage inducible transcript 3 inhibitor,inhibitor,DNA damage inducible transcript 3
+rawtarget_prostaglandin_15-dehydrogenase_inhibitor,Prostaglandin 15-dehydrogenase inhibitor,inhibitor,Prostaglandin 15-dehydrogenase
+rawtarget_f1f0_atp_synthase_inhibitor,F1F0 ATP synthase inhibitor,inhibitor,F1F0 ATP synthase
+rawtarget_serine_threonine_protein_kinase_tao2_inhibitor,Serine threonine protein kinase TAO2 inhibitor,inhibitor,Serine threonine protein kinase TAO2
+rawtarget_tau_kinase_modulator,Tau kinase modulator,modulator,Tau kinase
+rawtarget_sphingomyelin_phosphodiesterase_inhibitor,Sphingomyelin phosphodiesterase inhibitor,inhibitor,Sphingomyelin phosphodiesterase
+rawtarget_opioid_receptor_mu_modulator,Opioid receptor mu modulator,modulator,Opioid receptor mu
+rawtarget_cyclin_e1_inhibitor,Cyclin E1 inhibitor,inhibitor,Cyclin E1
+rawtarget_vegf-a_inhibitor,VEGF-A inhibitor,inhibitor,VEGF-A
+rawtarget_rantes_ligand_inhibitor,RANTES ligand inhibitor,ligand inhibitor;inhibitor,RANTES
+rawtarget_nmda_receptor_epsilon_4_subunit_modulator,NMDA receptor epsilon 4 subunit modulator,modulator,NMDA receptor epsilon 4 subunit
+rawtarget_nmda_receptor_epsilon_3_subunit_modulator,NMDA receptor epsilon 3 subunit modulator,modulator,NMDA receptor epsilon 3 subunit
+rawtarget_neurotensin_receptor_antagonist,Neurotensin receptor antagonist,receptor antagonist;antagonist;agonist,Neurotensin
+rawtarget_sortilin_receptor_antagonist,Sortilin receptor antagonist,receptor antagonist;antagonist;agonist,Sortilin
+rawtarget_brain_derived_neurotrophic_factor_ligand_inhibitor,Brain derived neurotrophic factor ligand inhibitor,ligand inhibitor;inhibitor,Brain derived neurotrophic factor
+rawtarget_nerve_growth_factor_ligand_inhibitor,Nerve growth factor ligand inhibitor,ligand inhibitor;inhibitor,Nerve growth factor
+rawtarget_peptidylprolyl_isomerase_inhibitor,Peptidylprolyl isomerase inhibitor,inhibitor,Peptidylprolyl isomerase
+rawtarget_gaba_a_receptor_alpha-5_subunit_inverse_agonist,GABA A receptor alpha-5 subunit inverse agonist,inverse agonist;agonist,GABA A receptor alpha-5 subunit
+rawtarget_ferroptosis_inhibitor,Ferroptosis inhibitor,inhibitor,Ferroptosis
+rawtarget_complement_factor_b_inhibitor,Complement Factor B inhibitor,inhibitor,Complement Factor B
+rawtarget_interleukin-1_alpha_ligand_inhibitor,Interleukin-1 alpha ligand inhibitor,ligand inhibitor;inhibitor,Interleukin-1 alpha
+rawtarget_proto-oncogene_mas_agonist,Proto-oncogene Mas agonist,agonist,Proto-oncogene Mas
+rawtarget_il-16_ligand_inhibitor,IL-16 ligand inhibitor,ligand inhibitor;inhibitor,IL-16
+rawtarget_pde_1a_inhibitor,PDE 1A inhibitor,inhibitor,PDE 1A
+rawtarget_pde_3b_inhibitor,PDE 3B inhibitor,inhibitor,PDE 3B
+rawtarget_pde_5a_inhibitor,PDE 5A inhibitor,inhibitor,PDE 5A
+rawtarget_pde_1c_inhibitor,PDE 1C inhibitor,inhibitor,PDE 1C
+rawtarget_pde_1b_inhibitor,PDE 1B inhibitor,inhibitor,PDE 1B
+rawtarget_pde_2a_inhibitor,PDE 2A inhibitor,inhibitor,PDE 2A
+rawtarget_5-ht_4_receptor_antagonist,5-HT 4 receptor antagonist,receptor antagonist;antagonist;agonist,5-HT 4
+rawtarget_g_protein_coupled_receptor_88_modulator,G protein coupled receptor 88 modulator,modulator,G protein coupled receptor 88
+rawtarget_g_protein_coupled_receptor_4_antagonist,G protein coupled receptor 4 antagonist,antagonist;agonist,G protein coupled receptor 4
+rawtarget_uncoupling_protein-2_stimulator,Uncoupling protein-2 stimulator,stimulator,Uncoupling protein-2
+rawtarget_adenine_nucleotide_translocator-1_stimulator,Adenine nucleotide translocator-1 stimulator,stimulator,Adenine nucleotide translocator-1
+rawtarget_h+_k+_atpase_modulator,H+ K+ ATPase modulator,modulator,H+ K+ ATPase
+rawtarget_solute_carrier_family_25a23_stimulator,Solute carrier family 25A23 stimulator,stimulator,Solute carrier family 25A23
+rawtarget_uncoupling_protein-3_stimulator,Uncoupling protein-3 stimulator,stimulator,Uncoupling protein-3
+rawtarget_calcium_mitochondrial_carrier_aralar_2_stimulator,Calcium mitochondrial carrier Aralar 2 stimulator,stimulator,Calcium mitochondrial carrier Aralar 2
+rawtarget_adenine_nucleotide_translocator-2_stimulator,Adenine nucleotide translocator-2 stimulator,stimulator,Adenine nucleotide translocator-2
+rawtarget_adenine_nucleotide_translocator-3_stimulator,Adenine nucleotide translocator-3 stimulator,stimulator,Adenine nucleotide translocator-3
+rawtarget_adp_atp_translocase_4_stimulator,ADP ATP translocase 4 stimulator,stimulator,ADP ATP translocase 4
+rawtarget_calcium_mitochondrial_carrier_aralar_1_stimulator,Calcium mitochondrial carrier Aralar 1 stimulator,stimulator,Calcium mitochondrial carrier Aralar 1
+rawtarget_rip-1_kinase_modulator,RIP-1 kinase modulator,modulator,RIP-1 kinase
+rawtarget_t_cell_receptor_antagonist,T cell receptor antagonist,receptor antagonist;antagonist;agonist,T cell
+rawtarget_hcn_potassium-sodium_channel_4_inhibitor,HCN potassium-sodium channel 4 inhibitor,inhibitor,HCN potassium-sodium channel 4
+rawtarget_synaptogyrin_3_inhibitor,Synaptogyrin 3 inhibitor,inhibitor,Synaptogyrin 3
+rawtarget_cd223_agonist,CD223 agonist,agonist,CD223
+rawtarget_telomerase_stimulator,Telomerase stimulator,stimulator,Telomerase
+rawtarget_metalloprotease-2_inhibitor,Metalloprotease-2 inhibitor,inhibitor,Metalloprotease-2
+rawtarget_gelatinase_inhibitor,Gelatinase inhibitor,inhibitor,Gelatinase
+rawtarget_adenosine_a3_receptor_antagonist,Adenosine A3 receptor antagonist,receptor antagonist;antagonist;agonist,Adenosine A3
+rawtarget_cannabinoid_cb1_receptor_inverse_agonist,Cannabinoid CB1 receptor inverse agonist,inverse agonist;agonist,Cannabinoid CB1 receptor
+rawtarget_gaba_b_receptor_modulator,GABA B receptor modulator,modulator,GABA B receptor
+rawtarget_splicing_factor_inhibitor,Splicing factor inhibitor,inhibitor,Splicing factor
+rawtarget_opioid_receptor_kappa_modulator,Opioid receptor kappa modulator,modulator,Opioid receptor kappa
+rawtarget_dna_primase_inhibitor,DNA primase inhibitor,inhibitor,DNA primase
+rawtarget_chemokine_receptor-like_2_modulator,Chemokine receptor-like 2 modulator,modulator,Chemokine receptor-like 2
+rawtarget_hedgehog_protein_stimulator,Hedgehog protein stimulator,stimulator,Hedgehog protein
+rawtarget_ptch_gene_stimulator,PTCH gene stimulator,stimulator,PTCH gene
+rawtarget_gli1_transcription_factor_stimulator,GLI1 transcription factor stimulator,stimulator,GLI1 transcription factor
+rawtarget_gaba_a_receptor_alpha-1_subunit_stimulator,GABA A receptor alpha-1 subunit stimulator,stimulator,GABA A receptor alpha-1 subunit
+rawtarget_cathepsin_b_modulator,Cathepsin B modulator,modulator,Cathepsin B
+rawtarget_scn1a_sodium_channel_subunit_stimulator,SCN1A sodium channel subunit stimulator,stimulator,SCN1A sodium channel subunit
+rawtarget_g-protein_coupled_receptor-119_antagonist,G-protein coupled receptor-119 antagonist,antagonist;agonist,G-protein coupled receptor-119
+rawtarget_glycine_transporter-2_inhibitor,Glycine transporter-2 inhibitor,inhibitor,Glycine transporter-2
+rawtarget_ldl_receptor_antagonist,LDL receptor antagonist,receptor antagonist;antagonist;agonist,LDL
+rawtarget_calcitonin_receptor_modulator,Calcitonin receptor modulator,modulator,Calcitonin receptor
+rawtarget_amylin_receptor_modulator,Amylin receptor modulator,modulator,Amylin receptor

@@ -1,0 +1,913 @@
+﻿disease_id,name,ontology_id,therapeutic_area
+disease_alzheimer_s_disease,Alzheimer's disease,MONDO:0004975,neurology/neurodegeneration
+disease_diabetes_mellitus,Diabetes mellitus,,metabolic
+disease_down_syndrome,Down syndrome,,other/unspecified
+disease_huntington_s_disease,Huntington's disease,MONDO:0007739,neurology/neurodegeneration
+disease_motor_neuron_disease,Motor neuron disease,MONDO:0005027,neurology/neurodegeneration
+disease_neurodegenerative_disease,Neurodegenerative disease,,neurology/neurodegeneration
+disease_parkinson_s_disease,Parkinson's disease,MONDO:0005180,neurology/neurodegeneration
+disease_prion_infection,Prion infection,,neurology/neurodegeneration
+disease_acute_leukemia,Acute leukemia,,oncology
+disease_bladder_cancer,Bladder cancer,MONDO:0004987,oncology
+disease_breast_cancer,Breast cancer,MONDO:0007254,oncology
+disease_cancer,Cancer,MONDO:0004992,oncology
+disease_glioblastoma,Glioblastoma,MONDO:0018177,oncology
+disease_liver_fibrosis,Liver fibrosis,,other/unspecified
+disease_lymphoma,Lymphoma,,oncology
+disease_multiple_sclerosis,Multiple sclerosis,MONDO:0005301,neurology/neurodegeneration
+disease_attention_deficit_hyperactivity_disorder,Attention deficit hyperactivity disorder,,other/unspecified
+disease_brain_disease,Brain disease,,other/unspecified
+disease_cognitive_disorder,Cognitive disorder,,other/unspecified
+disease_dystonia,Dystonia,,other/unspecified
+disease_movement_disorder,Movement disorder,,other/unspecified
+disease_schizophrenia,Schizophrenia,MONDO:0005090,psychiatry/CNS
+disease_tourette_syndrome,Tourette syndrome,,other/unspecified
+disease_brain_tumor,Brain tumor,,oncology
+disease_colon_tumor,Colon tumor,,oncology
+disease_multiple_myeloma,Multiple myeloma,,oncology
+disease_pancreas_tumor,Pancreas tumor,,oncology
+disease_rectal_tumor,Rectal tumor,,oncology
+disease_skin_cancer,Skin cancer,,oncology
+disease_stomach_tumor,Stomach tumor,,oncology
+disease_dementia,Dementia,MONDO:0001627,neurology/neurodegeneration
+disease_psychiatric_disorder,Psychiatric disorder,,psychiatry/CNS
+disease_psychotic_disorder,Psychotic disorder,,psychiatry/CNS
+disease_crohn_s_disease,Crohn's disease,MONDO:0005011,inflammation/autoimmune
+disease_hyperglycemia,Hyperglycemia,,metabolic
+disease_hypertension,Hypertension,,other/unspecified
+disease_type_1_diabetes_mellitus,Type 1 diabetes mellitus,MONDO:0005147,metabolic
+disease_type_2_diabetes_mellitus,Type 2 diabetes mellitus,MONDO:0005148,metabolic
+disease_obesity,Obesity,MONDO:0011122,metabolic
+disease_polycystic_ovary_syndrome,Polycystic ovary syndrome,,other/unspecified
+disease_stroke,Stroke,MONDO:0005265,neurology/neurodegeneration
+disease_traumatic_brain_injury,Traumatic brain injury,MONDO:0010579,neurology/neurodegeneration
+disease_cytomegalovirus_infection,Cytomegalovirus infection,,other/unspecified
+disease_influenza_virus_a_infection,Influenza virus A infection,,other/unspecified
+disease_osteoarthritis,Osteoarthritis,,inflammation/autoimmune
+disease_viral_infection,Viral infection,,other/unspecified
+disease_atherosclerosis,Atherosclerosis,,other/unspecified
+disease_bone_tumor,Bone tumor,,oncology
+disease_hodgkins_disease,Hodgkins disease,,other/unspecified
+disease_lupus_nephritis,Lupus nephritis,,inflammation/autoimmune
+disease_sjoegrens_syndrome,Sjoegrens syndrome,,other/unspecified
+disease_systemic_lupus_erythematosus,Systemic lupus erythematosus,MONDO:0007915,inflammation/autoimmune
+disease_adrenoleukodystrophy,Adrenoleukodystrophy,,other/unspecified
+disease_alexander_disease,Alexander disease,,other/unspecified
+disease_canavan_disease,Canavan disease,,other/unspecified
+disease_globoid_cell_leukodystrophy,Globoid cell leukodystrophy,,other/unspecified
+disease_leukodystrophy,Leukodystrophy,,other/unspecified
+disease_nerve_injury,Nerve injury,,other/unspecified
+disease_spinal_cord_injury,Spinal cord injury,,other/unspecified
+disease_autoimmune_disease,Autoimmune disease,,inflammation/autoimmune
+disease_autoimmune_encephalomyelitis,Autoimmune encephalomyelitis,,inflammation/autoimmune
+disease_inflammatory_bowel_disease,Inflammatory bowel disease,MONDO:0005265,inflammation/autoimmune
+disease_injury,Injury,,other/unspecified
+disease_ischemia,Ischemia,,other/unspecified
+disease_mitochondrial_optic_neuropathy,Mitochondrial optic neuropathy,,other/unspecified
+disease_neurological_disease,Neurological disease,,other/unspecified
+disease_anxiety_disorder,Anxiety disorder,MONDO:0005618,psychiatry/CNS
+disease_autism,Autism,,psychiatry/CNS
+disease_bipolar_disorder,Bipolar disorder,,psychiatry/CNS
+disease_central_nervous_system_disease,Central nervous system disease,,other/unspecified
+disease_depression,Depression,MONDO:0002050,psychiatry/CNS
+disease_fibromyalgia,Fibromyalgia,,other/unspecified
+disease_pain,Pain,,other/unspecified
+disease_sleep_disorder,Sleep disorder,,other/unspecified
+disease_gaucher_disease,Gaucher disease,,other/unspecified
+disease_hepatocellular_carcinoma,Hepatocellular carcinoma,,oncology
+disease_liver_disease,Liver disease,,other/unspecified
+disease_lysosome_storage_disease,Lysosome storage disease,,other/unspecified
+disease_non-alcoholic_steatohepatitis,Non-alcoholic steatohepatitis,,metabolic
+disease_asthma,Asthma,,inflammation/autoimmune
+disease_mycobacterium_tuberculosis_infection,Mycobacterium tuberculosis infection,,other/unspecified
+disease_myocardial_infarction,Myocardial infarction,,other/unspecified
+disease_psoriasis,Psoriasis,,inflammation/autoimmune
+disease_sepsis,Sepsis,,inflammation/autoimmune
+disease_inflammatory_disease,Inflammatory disease,,inflammation/autoimmune
+disease_neuropathic_pain,Neuropathic pain,,other/unspecified
+disease_primary_lateral_sclerosis,Primary lateral sclerosis,,other/unspecified
+disease_progressive_supranuclear_palsy,Progressive supranuclear palsy,,other/unspecified
+disease_sarcopenia,Sarcopenia,,other/unspecified
+disease_frontotemporal_dementia,Frontotemporal dementia,MONDO:0000930,neurology/neurodegeneration
+disease_rheumatoid_arthritis,Rheumatoid arthritis,MONDO:0008383,inflammation/autoimmune
+disease_drug_dependence,Drug dependence,,other/unspecified
+disease_headache,Headache,,other/unspecified
+disease_mood_disorder,Mood disorder,,psychiatry/CNS
+disease_neuritis,Neuritis,,other/unspecified
+disease_cushings_syndrome,Cushings syndrome,,other/unspecified
+disease_glaucoma,Glaucoma,,other/unspecified
+disease_constipation,Constipation,,other/unspecified
+disease_fragile_x_syndrome,Fragile X syndrome,,other/unspecified
+disease_fragile_x-associated_tremor_ataxia_syndrome,Fragile X-associated tremor ataxia syndrome,,other/unspecified
+disease_respiratory_failure,Respiratory failure,,other/unspecified
+disease_subcortical_vascular_dementia,Subcortical vascular dementia,,neurology/neurodegeneration
+disease_kaposis_sarcoma,Kaposis sarcoma,,other/unspecified
+disease_multiple_system_atrophy,Multiple system atrophy,,other/unspecified
+disease_restenosis,Restenosis,,other/unspecified
+disease_influenza_virus_infection,Influenza virus infection,,other/unspecified
+disease_mycobacterium_infection,Mycobacterium infection,,other/unspecified
+disease_allergy,Allergy,,other/unspecified
+disease_gastrointestinal_infection,Gastrointestinal infection,,other/unspecified
+disease_atrophy,Atrophy,,other/unspecified
+disease_cerebral_palsy,Cerebral palsy,,other/unspecified
+disease_guillain_barre_syndrome,Guillain Barre syndrome,,other/unspecified
+disease_lebers_hereditary_optic_atrophy,Lebers hereditary optic atrophy,,other/unspecified
+disease_pelizaeus_merzbacher_disease,Pelizaeus Merzbacher disease,,other/unspecified
+disease_olivopontocerebellar_atrophy,Olivopontocerebellar atrophy,,other/unspecified
+disease_rett_syndrome,Rett syndrome,,other/unspecified
+disease_shy_drager_syndrome,Shy Drager syndrome,,other/unspecified
+disease_spinocerebellar_ataxia,Spinocerebellar ataxia,,other/unspecified
+disease_eating_disorder,Eating disorder,,other/unspecified
+disease_personality_disorder,Personality disorder,,other/unspecified
+disease_major_depressive_disorder,Major depressive disorder,MONDO:0002009,other/unspecified
+disease_phelan_mcdermid_syndrome,Phelan McDermid syndrome,,other/unspecified
+disease_cerebral_amyloid_angiopathy,Cerebral amyloid angiopathy,,other/unspecified
+disease_acute_lymphoblastic_leukemia,Acute lymphoblastic leukemia,,oncology
+disease_acute_myelogenous_leukemia,Acute myelogenous leukemia,,oncology
+disease_atopic_dermatitis,Atopic dermatitis,,other/unspecified
+disease_chronic_lymphocytic_leukemia,Chronic lymphocytic leukemia,,oncology
+disease_chronic_obstructive_pulmonary_disease,Chronic obstructive pulmonary disease,,other/unspecified
+disease_lung_inflammation,Lung inflammation,,other/unspecified
+disease_epilepsy,Epilepsy,,other/unspecified
+disease_restless_legs_syndrome,Restless legs syndrome,,other/unspecified
+disease_age_related_macular_degeneration,Age related macular degeneration,,other/unspecified
+disease_diabetic_macular_edema,Diabetic macular edema,,other/unspecified
+disease_prostate_disease,Prostate disease,,other/unspecified
+disease_cardiac_failure,Cardiac failure,,other/unspecified
+disease_fatty_liver_disease,Fatty liver disease,,other/unspecified
+disease_fibrosis,Fibrosis,,other/unspecified
+disease_hypercholesterolemia,Hypercholesterolemia,,other/unspecified
+disease_hyperlipidemia,Hyperlipidemia,,other/unspecified
+disease_metabolic_disorder,Metabolic disorder,,metabolic
+disease_bipolar_i_disorder,Bipolar I disorder,,psychiatry/CNS
+disease_metachromatic_leukodystrophy,Metachromatic leukodystrophy,,other/unspecified
+disease_bronchitis,Bronchitis,,other/unspecified
+disease_pancreatitis,Pancreatitis,,other/unspecified
+disease_post_traumatic_stress_disorder,Post traumatic stress disorder,,other/unspecified
+disease_vascular_dementia,Vascular dementia,,neurology/neurodegeneration
+disease_neuronal_ceroid_lipofuscinosis,Neuronal ceroid lipofuscinosis,,other/unspecified
+disease_peripheral_neuropathy,Peripheral neuropathy,,other/unspecified
+disease_tuberous_sclerosis,Tuberous sclerosis,,other/unspecified
+disease_cerebrovascular_disease,Cerebrovascular disease,,other/unspecified
+disease_spinocerebellar_degenerations,Spinocerebellar degenerations,,other/unspecified
+disease_respiratory_tract_inflammation,Respiratory tract inflammation,,other/unspecified
+disease_bacterial_infection,Bacterial infection,,other/unspecified
+disease_cryopyrin_associated_periodic_syndrome,Cryopyrin associated periodic syndrome,,other/unspecified
+disease_gout,Gout,,other/unspecified
+disease_non_alcoholic_fatty_liver_disease,Non alcoholic fatty liver disease,,other/unspecified
+disease_peritonitis,Peritonitis,,other/unspecified
+disease_cardiovascular_disease,Cardiovascular disease,,other/unspecified
+disease_cerebral_infarction,Cerebral infarction,,other/unspecified
+disease_steatohepatitis,Steatohepatitis,,metabolic
+disease_brugada_syndrome,Brugada syndrome,,other/unspecified
+disease_amnesia,Amnesia,,other/unspecified
+disease_brain_ischemia,Brain ischemia,,other/unspecified
+disease_cranial_nerve_disorder,Cranial nerve disorder,,other/unspecified
+disease_chronic_thromboembolic_pulmonary_hypertension,Chronic thromboembolic pulmonary hypertension,,other/unspecified
+disease_decubitus_ulcer,Decubitus ulcer,,other/unspecified
+disease_diabetic_foot_ulcer,Diabetic foot ulcer,,other/unspecified
+disease_diabetic_neuropathy,Diabetic neuropathy,,other/unspecified
+disease_erectile_dysfunction,Erectile dysfunction,,other/unspecified
+disease_pulmonary_artery_hypertension,Pulmonary artery hypertension,,other/unspecified
+disease_raynauds_disease,Raynauds disease,,other/unspecified
+disease_wound_healing,Wound healing,,other/unspecified
+disease_hiv_infection,HIV infection,,other/unspecified
+disease_heart_disease,Heart disease,,other/unspecified
+disease_cystic_fibrosis,Cystic fibrosis,,other/unspecified
+disease_gestational_diabetes,Gestational diabetes,,metabolic
+disease_hemochromatosis,Hemochromatosis,,other/unspecified
+disease_insulin_resistance,Insulin resistance,,other/unspecified
+disease_metabolic_syndrome_x,Metabolic syndrome X,,metabolic
+disease_colorectal_tumor,Colorectal tumor,,oncology
+disease_coronary_artery_disease,Coronary artery disease,,other/unspecified
+disease_hepatic_encephalopathy,Hepatic encephalopathy,,other/unspecified
+disease_infectious_disease,Infectious disease,,other/unspecified
+disease_intestine_disease,Intestine disease,,other/unspecified
+disease_short_bowel_syndrome,Short bowel syndrome,,other/unspecified
+disease_tinnitus,Tinnitus,,other/unspecified
+disease_vascular_disease,Vascular disease,,other/unspecified
+disease_osteoporosis,Osteoporosis,,other/unspecified
+disease_alopecia,Alopecia,,other/unspecified
+disease_corneal_dystrophy,Corneal dystrophy,,other/unspecified
+disease_liver_tumor,Liver tumor,,oncology
+disease_myelodysplastic_syndrome,Myelodysplastic syndrome,,other/unspecified
+disease_narcolepsy,Narcolepsy,,other/unspecified
+disease_alcoholism,Alcoholism,,other/unspecified
+disease_cocaine_addiction,Cocaine addiction,,other/unspecified
+disease_nicotine_dependence,Nicotine dependence,,other/unspecified
+disease_renal_disease,Renal disease,,other/unspecified
+disease_becker_muscular_dystrophy,Becker muscular dystrophy,,other/unspecified
+disease_charcot_marie_tooth_disease,Charcot Marie Tooth disease,,other/unspecified
+disease_muscular_dystrophy,Muscular dystrophy,,other/unspecified
+disease_myasthenia_gravis,Myasthenia gravis,,other/unspecified
+disease_spinal_muscular_atrophy,Spinal muscular atrophy,,other/unspecified
+disease_ovary_tumor,Ovary tumor,,oncology
+disease_renal_tumor,Renal tumor,,oncology
+disease_endometriosis,Endometriosis,,other/unspecified
+disease_hot_flashes,Hot flashes,,other/unspecified
+disease_menopause,Menopause,,other/unspecified
+disease_prostate_hyperplasia,Prostate hyperplasia,,other/unspecified
+disease_uterine_fibroids,Uterine fibroids,,other/unspecified
+disease_mild_cognitive_impairment,Mild cognitive impairment,,other/unspecified
+disease_drug_withdrawal_syndrome,Drug withdrawal syndrome,,other/unspecified
+disease_migraine,Migraine,,other/unspecified
+disease_intellectual_impairment,Intellectual impairment,,other/unspecified
+disease_arthritis,Arthritis,,inflammation/autoimmune
+disease_skin_burns,Skin burns,,other/unspecified
+disease_emesis,Emesis,,other/unspecified
+disease_genital_tract_infection,Genital tract infection,,other/unspecified
+disease_palpitation,Palpitation,,other/unspecified
+disease_pre-eclampsia,Pre-eclampsia,,other/unspecified
+disease_leukemia,Leukemia,,oncology
+disease_melanoma,Melanoma,,other/unspecified
+disease_scleroderma,Scleroderma,,other/unspecified
+disease_ulcerative_colitis,Ulcerative colitis,,other/unspecified
+disease_xerophthalmia,Xerophthalmia,,other/unspecified
+disease_acute_stress_disorder,Acute stress disorder,,other/unspecified
+disease_insomnia,Insomnia,,other/unspecified
+disease_acquired_immune_deficiency_syndrome,Acquired immune deficiency syndrome,,other/unspecified
+disease_aggression,Aggression,,other/unspecified
+disease_cerebral_edema,Cerebral edema,,other/unspecified
+disease_obsessive_compulsive_disorder,Obsessive compulsive disorder,,other/unspecified
+disease_hypersomnia,Hypersomnia,,other/unspecified
+disease_coronavirus_disease_19_infection,Coronavirus disease 19 infection,,other/unspecified
+disease_irritable_bowel_syndrome,Irritable bowel syndrome,,other/unspecified
+disease_prostate_tumor,Prostate tumor,,oncology
+disease_borderline_personality_disorder,Borderline personality disorder,,other/unspecified
+disease_dissociative_disorder,Dissociative disorder,,other/unspecified
+disease_seizure_disorder,Seizure disorder,,other/unspecified
+disease_ischemic_heart_disease,Ischemic heart disease,,other/unspecified
+disease_appetite_loss,Appetite loss,,other/unspecified
+disease_compulsive_gambling,Compulsive gambling,,other/unspecified
+disease_lipid_metabolism_disorder,Lipid metabolism disorder,,other/unspecified
+disease_thrombosis,Thrombosis,,other/unspecified
+disease_asperger_syndrome,Asperger syndrome,,other/unspecified
+disease_opiate_dependence,Opiate dependence,,other/unspecified
+disease_overactive_bladder,Overactive bladder,,other/unspecified
+disease_sexual_dysfunction,Sexual dysfunction,,other/unspecified
+disease_renal_cell_carcinoma,Renal cell carcinoma,,oncology
+disease_lewy_body_dementia,Lewy body dementia,,neurology/neurodegeneration
+disease_anorexia_nervosa,Anorexia nervosa,,other/unspecified
+disease_chronic_fatigue_syndrome,Chronic fatigue syndrome,,other/unspecified
+disease_generalized_anxiety_disorder,Generalized anxiety disorder,,psychiatry/CNS
+disease_lung_disease,Lung disease,,other/unspecified
+disease_plasmodium_infection,Plasmodium infection,,other/unspecified
+disease_genetic_disorder,Genetic disorder,,other/unspecified
+disease_bulimia_nervosa,Bulimia nervosa,,other/unspecified
+disease_hepatitis_b_virus_infection,Hepatitis B virus infection,,other/unspecified
+disease_neoplasm,Neoplasm,,other/unspecified
+disease_creutzfeldt_jakob_disease,Creutzfeldt Jakob disease,,other/unspecified
+disease_arteriosclerosis,Arteriosclerosis,,other/unspecified
+disease_amyloid_polyneuropathy,Amyloid polyneuropathy,,other/unspecified
+disease_amyloidosis,Amyloidosis,,other/unspecified
+disease_mania,Mania,,other/unspecified
+disease_b-cell_lymphoma,B-cell lymphoma,,oncology
+disease_bone_disease,Bone disease,,other/unspecified
+disease_myeloproliferative_disorder,Myeloproliferative disorder,,other/unspecified
+disease_thrombocythemia,Thrombocythemia,,other/unspecified
+disease_bipolar_ii_disorder,Bipolar II disorder,,psychiatry/CNS
+disease_complex_regional_pain_syndrome,Complex regional pain syndrome,,other/unspecified
+disease_diarrhea,Diarrhea,,other/unspecified
+disease_liver_cirrhosis,Liver cirrhosis,,other/unspecified
+disease_liver_injury,Liver injury,,other/unspecified
+disease_portal_hypertension,Portal hypertension,,other/unspecified
+disease_pulmonary_fibrosis,Pulmonary fibrosis,,other/unspecified
+disease_anemia,Anemia,,other/unspecified
+disease_heart_neoplasm,Heart neoplasm,,other/unspecified
+disease_lung_tumor,Lung tumor,,oncology
+disease_nephritis,Nephritis,,other/unspecified
+disease_mycobacterium_leprae_infection,Mycobacterium leprae infection,,other/unspecified
+disease_atrial_fibrillation,Atrial fibrillation,,other/unspecified
+disease_extrasystole,Extrasystole,,other/unspecified
+disease_heart_arrhythmia,Heart arrhythmia,,other/unspecified
+disease_macular_degeneration,Macular degeneration,,other/unspecified
+disease_delirium,Delirium,,other/unspecified
+disease_hyperprolactinemia,Hyperprolactinemia,,other/unspecified
+disease_panic_disorder,Panic disorder,,other/unspecified
+disease_ocular_disease,Ocular disease,,other/unspecified
+disease_dysthymic_disorder,Dysthymic disorder,,other/unspecified
+disease_polycystic_kidney_disease,Polycystic kidney disease,,other/unspecified
+disease_thyroid_tumor,Thyroid tumor,,oncology
+disease_osteosarcoma,Osteosarcoma,,other/unspecified
+disease_sickle_cell_anemia,Sickle cell anemia,,other/unspecified
+disease_idiopathic_thrombocytopenic_purpura,Idiopathic thrombocytopenic purpura,,other/unspecified
+disease_niemann_pick_disease,Niemann Pick disease,,other/unspecified
+disease_gastrointestinal_disease,Gastrointestinal disease,,other/unspecified
+disease_herpes_simplex_virus_infection,Herpes simplex virus infection,,other/unspecified
+disease_costello_syndrome,Costello syndrome,,other/unspecified
+disease_autoinflammatory_disease,Autoinflammatory disease,,inflammation/autoimmune
+disease_dermatomyositis,Dermatomyositis,,other/unspecified
+disease_immune_disorder,Immune disorder,,other/unspecified
+disease_septic_shock,Septic shock,,other/unspecified
+disease_neuropathy,Neuropathy,,other/unspecified
+disease_anesthesia,Anesthesia,,other/unspecified
+disease_nausea,Nausea,,other/unspecified
+disease_suicidal_ideation,Suicidal ideation,,other/unspecified
+disease_myopathy,Myopathy,,other/unspecified
+disease_neuromuscular_disease,Neuromuscular disease,,other/unspecified
+disease_peripheral_vascular_disease,Peripheral vascular disease,,other/unspecified
+disease_pulmonary_hypertension,Pulmonary hypertension,,other/unspecified
+disease_renal_failure,Renal failure,,other/unspecified
+disease_aging,Aging,,other/unspecified
+disease_encephalomyelitis,Encephalomyelitis,,other/unspecified
+disease_friedreich_ataxia,Friedreich ataxia,,other/unspecified
+disease_melas_syndrome,MELAS syndrome,,other/unspecified
+disease_mitochondrial_disease,Mitochondrial disease,,other/unspecified
+disease_myoglobinuria,Myoglobinuria,,other/unspecified
+disease_herpesvirus_infection,Herpesvirus infection,,other/unspecified
+disease_stomach_ulcer,Stomach ulcer,,other/unspecified
+disease_acute_lung_injury,Acute lung injury,,other/unspecified
+disease_hearing_loss,Hearing loss,,other/unspecified
+disease_respiratory_distress_syndrome,Respiratory distress syndrome,,other/unspecified
+disease_werner_syndrome,Werner syndrome,,other/unspecified
+disease_alcoholic_liver_disease,Alcoholic liver disease,,other/unspecified
+disease_cardiac_reperfusion_injury,Cardiac reperfusion injury,,other/unspecified
+disease_fanconi_anemia,Fanconi anemia,,other/unspecified
+disease_head_and_neck_tumor,Head and neck tumor,,oncology
+disease_cerebral_hemorrhage,Cerebral hemorrhage,,other/unspecified
+disease_absence_seizure,Absence seizure,,other/unspecified
+disease_essential_tremor,Essential tremor,,other/unspecified
+disease_juvenile_myoclonic_epilepsy,Juvenile myoclonic epilepsy,,other/unspecified
+disease_catatonia,Catatonia,,other/unspecified
+disease_hyperalgesia,Hyperalgesia,,other/unspecified
+disease_central_nervous_system_tumor,Central nervous system tumor,,oncology
+disease_congestive_heart_failure,Congestive heart failure,,other/unspecified
+disease_muscle_weakness,Muscle weakness,,other/unspecified
+disease_ventricular_tachycardia,Ventricular tachycardia,,other/unspecified
+disease_dermatitis,Dermatitis,,other/unspecified
+disease_fungal_infection,Fungal infection,,other/unspecified
+disease_hearing_disorder,Hearing disorder,,other/unspecified
+disease_alpha-1_antitrypsin_deficiency,Alpha-1 antitrypsin deficiency,,other/unspecified
+disease_duchenne_dystrophy,Duchenne dystrophy,,other/unspecified
+disease_stargardt_disease,Stargardt disease,,other/unspecified
+disease_niemann_pick_disease_type_c,Niemann Pick disease type C,,other/unspecified
+disease_brain_injury,Brain injury,,neurology/neurodegeneration
+disease_dysmenorrhea,Dysmenorrhea,,other/unspecified
+disease_endocrine_disease,Endocrine disease,,other/unspecified
+disease_hyperplasia,Hyperplasia,,other/unspecified
+disease_hyponatremia,Hyponatremia,,other/unspecified
+disease_premature_labor,Premature labor,,other/unspecified
+disease_burkitts_lymphoma,Burkitts lymphoma,,oncology
+disease_gastroesophageal_reflux,Gastroesophageal reflux,,other/unspecified
+disease_fabry_disease,Fabry disease,,other/unspecified
+disease_neuroblastoma,Neuroblastoma,,other/unspecified
+disease_aicardi_goutieres_syndrome,Aicardi Goutieres syndrome,,other/unspecified
+disease_vasculitis,Vasculitis,,other/unspecified
+disease_degeneration,Degeneration,,other/unspecified
+disease_retinopathy,Retinopathy,,other/unspecified
+disease_ataxia_telangiectasia,Ataxia telangiectasia,,other/unspecified
+disease_refsum_disease,Refsum disease,,other/unspecified
+disease_intracranial_aneurysm,Intracranial aneurysm,,other/unspecified
+disease_immune_deficiency,Immune deficiency,,other/unspecified
+disease_autoimmune_nervous_system_disease,Autoimmune nervous system disease,,inflammation/autoimmune
+disease_nervous_system_inflammation,Nervous system inflammation,,other/unspecified
+disease_melancholia,Melancholia,,other/unspecified
+disease_postnatal_depression,Postnatal depression,,psychiatry/CNS
+disease_status_epilepticus,Status epilepticus,,other/unspecified
+disease_circadian_rhythm_sleep_disorder,Circadian rhythm sleep disorder,,other/unspecified
+disease_multi-infarct_dementia,Multi-infarct dementia,,neurology/neurodegeneration
+disease_enteritis,Enteritis,,other/unspecified
+disease_hepatitis_virus_infection,Hepatitis virus infection,,other/unspecified
+disease_acute_coronary_syndrome,Acute coronary syndrome,,other/unspecified
+disease_pneumonia,Pneumonia,,other/unspecified
+disease_wilson_disease,Wilson disease,,other/unspecified
+disease_head_injury,Head injury,,other/unspecified
+disease_coronavirus_infection,Coronavirus infection,,other/unspecified
+disease_dengue_virus_infection,Dengue virus infection,,other/unspecified
+disease_hepatitis_c_virus_infection,Hepatitis C virus infection,,other/unspecified
+disease_norovirus_infection,Norovirus infection,,other/unspecified
+disease_rhinovirus_infection,Rhinovirus infection,,other/unspecified
+disease_peripheral_nervous_system_disease,Peripheral nervous system disease,,other/unspecified
+disease_male_infertility,Male infertility,,other/unspecified
+disease_delusional_disorder,Delusional disorder,,other/unspecified
+disease_cough,Cough,,other/unspecified
+disease_urinary_tract_disease,Urinary tract disease,,other/unspecified
+disease_dystrophy,Dystrophy,,other/unspecified
+disease_hallervorden-spatz_syndrome,Hallervorden-Spatz syndrome,,other/unspecified
+disease_beta_thalassemia,Beta thalassemia,,other/unspecified
+disease_idiopathic_pulmonary_fibrosis,Idiopathic pulmonary fibrosis,,other/unspecified
+disease_sarcoidosis,Sarcoidosis,,other/unspecified
+disease_bleeding,Bleeding,,other/unspecified
+disease_hypogonadism,Hypogonadism,,other/unspecified
+disease_retinitis_pigmentosa,Retinitis pigmentosa,,other/unspecified
+disease_familial_mediterranean_fever,Familial mediterranean fever,,other/unspecified
+disease_muckle_wells_syndrome,Muckle Wells syndrome,,other/unspecified
+disease_autoimmune_hemolytic_anemia,Autoimmune hemolytic anemia,,inflammation/autoimmune
+disease_glioma,Glioma,,other/unspecified
+disease_sarcoma,Sarcoma,,other/unspecified
+disease_dental_caries,Dental caries,,other/unspecified
+disease_myotonic_dystrophy,Myotonic dystrophy,,other/unspecified
+disease_diabetic_retinopathy,Diabetic retinopathy,,other/unspecified
+disease_hepatitis,Hepatitis,,other/unspecified
+disease_encephalitis,Encephalitis,,other/unspecified
+disease_ischemic_stroke,Ischemic stroke,,neurology/neurodegeneration
+disease_meningitis,Meningitis,,other/unspecified
+disease_nutritional_deficiency,Nutritional deficiency,,other/unspecified
+disease_peroxisome_disease,Peroxisome disease,,other/unspecified
+disease_diabetic_nephropathy,Diabetic nephropathy,,other/unspecified
+disease_neuromyelitis_optica,Neuromyelitis optica,,other/unspecified
+disease_inner_ear_disease,Inner ear disease,,other/unspecified
+disease_central_nervous_system_infection,Central nervous system infection,,other/unspecified
+disease_corneal_injury,Corneal injury,,other/unspecified
+disease_ankylosing_spondylitis,Ankylosing spondylitis,,other/unspecified
+disease_agitation,Agitation,,other/unspecified
+disease_ataxia,Ataxia,,other/unspecified
+disease_hyperkinesia,Hyperkinesia,,other/unspecified
+disease_tardive_dyskinesia,Tardive dyskinesia,,other/unspecified
+disease_moyamoya_disease,Moyamoya disease,,other/unspecified
+disease_cachexia,Cachexia,,other/unspecified
+disease_muscle_disease,Muscle disease,,other/unspecified
+disease_biliary_cancer,Biliary cancer,,oncology
+disease_non-small-cell_lung_cancer,Non-small-cell lung cancer,,oncology
+disease_hematological_neoplasm,Hematological neoplasm,,other/unspecified
+disease_infertility,Infertility,,other/unspecified
+disease_hypothyroidism,Hypothyroidism,,other/unspecified
+disease_transitional_cell_carcinoma,Transitional cell carcinoma,,oncology
+disease_spastic_paraplegia,Spastic paraplegia,,other/unspecified
+disease_hereditary_angioedema,Hereditary angioedema,,other/unspecified
+disease_uveitis,Uveitis,,other/unspecified
+disease_heparin_induced_thrombocytopenia,Heparin induced thrombocytopenia,,other/unspecified
+disease_fatigue,Fatigue,,other/unspecified
+disease_alcohol_withdrawal_syndrome,Alcohol withdrawal syndrome,,other/unspecified
+disease_diabetes_insipidus,Diabetes insipidus,,metabolic
+disease_weight_gain,Weight gain,,other/unspecified
+disease_acidosis,Acidosis,,other/unspecified
+disease_hypoparathyroidism,Hypoparathyroidism,,other/unspecified
+disease_liver_failure,Liver failure,,other/unspecified
+disease_schizoaffective_disorder,Schizoaffective disorder,,other/unspecified
+disease_eczema,Eczema,,other/unspecified
+disease_skin_allergy,Skin allergy,,other/unspecified
+disease_alopecia_areata,Alopecia areata,,other/unspecified
+disease_dilated_cardiomyopathy,Dilated cardiomyopathy,,other/unspecified
+disease_gastrointestinal_stromal_tumor,Gastrointestinal stromal tumor,,oncology
+disease_optic_neuritis,Optic neuritis,,other/unspecified
+disease_weight_loss,Weight loss,,other/unspecified
+disease_hutchinson_gilford_progeria_syndrome,Hutchinson Gilford progeria syndrome,,other/unspecified
+disease_penile_induration,Penile induration,,other/unspecified
+disease_respiratory_disease,Respiratory disease,,other/unspecified
+disease_familial_cold_autoinflammatory_syndrome,Familial cold autoinflammatory syndrome,,inflammation/autoimmune
+disease_holt_oram_syndrome,Holt Oram syndrome,,other/unspecified
+disease_mesothelioma,Mesothelioma,,other/unspecified
+disease_myocardial_disease,Myocardial disease,,other/unspecified
+disease_angina,Angina,,other/unspecified
+disease_transplant_rejection,Transplant rejection,,other/unspecified
+disease_phobia,Phobia,,other/unspecified
+disease_suicide,Suicide,,other/unspecified
+disease_cushings_disease,Cushings disease,,other/unspecified
+disease_hiv-1_infection,HIV-1 infection,,other/unspecified
+disease_diffuse_large_b-cell_lymphoma,Diffuse large B-cell lymphoma,,oncology
+disease_mantle_cell_lymphoma,Mantle cell lymphoma,,oncology
+disease_non-hodgkin_lymphoma,Non-Hodgkin lymphoma,,oncology
+disease_macular_edema,Macular edema,,other/unspecified
+disease_end_stage_renal_disease,End stage renal disease,,other/unspecified
+disease_solid_tumor,Solid tumor,,oncology
+disease_deafness,Deafness,,other/unspecified
+disease_bladder_disease,Bladder disease,,other/unspecified
+disease_reperfusion_injury,Reperfusion injury,,other/unspecified
+disease_blood_clotting_disorder,Blood clotting disorder,,other/unspecified
+disease_alcoholic_fatty_liver_disease,Alcoholic fatty liver disease,,other/unspecified
+disease_celiac_disease,Celiac disease,,other/unspecified
+disease_dermatological_disease,Dermatological disease,,other/unspecified
+disease_psychogenic_pain,Psychogenic pain,,other/unspecified
+disease_coma,Coma,,other/unspecified
+disease_hiv_associated_dementia,HIV associated dementia,,neurology/neurodegeneration
+disease_tremor,Tremor,,other/unspecified
+disease_focal_segmental_glomerulosclerosis,Focal segmental glomerulosclerosis,,other/unspecified
+disease_renal_injury,Renal injury,,other/unspecified
+disease_necrosis,Necrosis,,other/unspecified
+disease_tonic_clonic_epilepsy,Tonic clonic epilepsy,,other/unspecified
+disease_arthralgia,Arthralgia,,other/unspecified
+disease_myalgia,Myalgia,,other/unspecified
+disease_ostealgia,Ostealgia,,other/unspecified
+disease_cluster_headache,Cluster headache,,other/unspecified
+disease_paralysis,Paralysis,,other/unspecified
+disease_glomerulonephritis,Glomerulonephritis,,other/unspecified
+disease_esophagitis,Esophagitis,,other/unspecified
+disease_gastroenteritis,Gastroenteritis,,other/unspecified
+disease_muscle_hypertonia,Muscle hypertonia,,other/unspecified
+disease_periventricular_leukomalacia,Periventricular leukomalacia,,other/unspecified
+disease_proteinosis,Proteinosis,,other/unspecified
+disease_adrenal_gland_hypofunction,Adrenal gland hypofunction,,other/unspecified
+disease_angelman_syndrome,Angelman syndrome,,other/unspecified
+disease_delusion,Delusion,,other/unspecified
+disease_hallucination,Hallucination,,other/unspecified
+disease_senile_dementia,Senile dementia,,neurology/neurodegeneration
+disease_ocular_neovascular_disorder,Ocular neovascular disorder,,other/unspecified
+disease_varicella_zoster_virus_infection,Varicella zoster virus infection,,other/unspecified
+disease_chronic_leukemia,Chronic leukemia,,oncology
+disease_spinal_and_bulbar_muscular_atrophy,Spinal and bulbar muscular atrophy,,other/unspecified
+disease_hypoxia,Hypoxia,,other/unspecified
+disease_birth_complication,Birth complication,,other/unspecified
+disease_planned_abortion,Planned abortion,,other/unspecified
+disease_laron_syndrome,Laron syndrome,,other/unspecified
+disease_marfan_syndrome,Marfan syndrome,,other/unspecified
+disease_tay_sachs_disease,Tay Sachs disease,,other/unspecified
+disease_thalassemia,Thalassemia,,other/unspecified
+disease_carditis,Carditis,,other/unspecified
+disease_hyperuricemia,Hyperuricemia,,other/unspecified
+disease_psoriatic_arthritis,Psoriatic arthritis,,inflammation/autoimmune
+disease_emotional_lability,Emotional lability,,other/unspecified
+disease_prolactinoma,Prolactinoma,,other/unspecified
+disease_marbach_schaaf_neurodevelopmental_syndrome,Marbach Schaaf neurodevelopmental syndrome,,other/unspecified
+disease_agoraphobia,Agoraphobia,,other/unspecified
+disease_prader-willi_syndrome,Prader-Willi syndrome,,other/unspecified
+disease_social_phobia,Social phobia,,other/unspecified
+disease_fibrosarcoma,Fibrosarcoma,,other/unspecified
+disease_hemoglobinopathy,Hemoglobinopathy,,other/unspecified
+disease_vibrio_infection,Vibrio infection,,other/unspecified
+disease_dravet_syndrome,Dravet syndrome,,other/unspecified
+disease_esophagus_tumor,Esophagus tumor,,oncology
+disease_melasma,Melasma,,other/unspecified
+disease_anxiety_disorders,Anxiety disorders,,psychiatry/CNS
+disease_hepatitis_a_virus_infection,Hepatitis A virus infection,,other/unspecified
+disease_premenstrual_syndrome,Premenstrual syndrome,,other/unspecified
+disease_ebola_virus_infection,Ebola virus infection,,other/unspecified
+disease_neurotoxicity_drug-induced,Neurotoxicity drug-induced,,other/unspecified
+disease_machado-joseph_disease,Machado-Joseph disease,,other/unspecified
+disease_lung_embolism,Lung embolism,,other/unspecified
+disease_fetal_alcohol_syndrome,Fetal alcohol syndrome,,other/unspecified
+disease_liposarcoma,Liposarcoma,,other/unspecified
+disease_sars_coronavirus_infection,SARS coronavirus infection,,other/unspecified
+disease_tendon_disease,Tendon disease,,other/unspecified
+disease_phenylketonuria,Phenylketonuria,,other/unspecified
+disease_vitamin_b12_deficiency,Vitamin B12 deficiency,,other/unspecified
+disease_cutaneous_t-cell_lymphoma,Cutaneous T-cell lymphoma,,oncology
+disease_urinary_incontinence,Urinary incontinence,,other/unspecified
+disease_dysplasia,Dysplasia,,other/unspecified
+disease_myotonic_dystrophy_type_1,Myotonic dystrophy type 1,,other/unspecified
+disease_asthma_attack,Asthma attack,,inflammation/autoimmune
+disease_diabetic_complication,Diabetic complication,,other/unspecified
+disease_thiamine_deficiency,Thiamine deficiency,,other/unspecified
+disease_myelitis,Myelitis,,other/unspecified
+disease_treponema_pallidum_infection,Treponema pallidum infection,,other/unspecified
+disease_chronic_myelocytic_leukemia,Chronic myelocytic leukemia,,oncology
+disease_polycythemia_vera,Polycythemia vera,,other/unspecified
+disease_spinal_injury,Spinal injury,,other/unspecified
+disease_urinary_tract_infection,Urinary tract infection,,other/unspecified
+disease_eosinophilic_esophagitis,Eosinophilic esophagitis,,other/unspecified
+disease_ocular_hypertension,Ocular hypertension,,other/unspecified
+disease_niemann_pick_disease_type_c1,Niemann Pick disease type C1,,other/unspecified
+disease_nonne_milroy_meige_syndrome,Nonne Milroy Meige syndrome,,other/unspecified
+disease_staphylococcus_infection,Staphylococcus infection,,other/unspecified
+disease_impulse_control_disorder,Impulse control disorder,,other/unspecified
+disease_pervasive_child_developmental_disorder,Pervasive child developmental disorder,,other/unspecified
+disease_factitious_disorder,Factitious disorder,,other/unspecified
+disease_cerebellar_ataxia,Cerebellar ataxia,,other/unspecified
+disease_shock,Shock,,other/unspecified
+disease_hidradenitis_suppurativa,Hidradenitis suppurativa,,other/unspecified
+disease_parkinson_s_disease_dementia,Parkinson's disease dementia,,neurology/neurodegeneration
+disease_type_i_tyrosinemia,Type I tyrosinemia,,other/unspecified
+disease_type_ii_tyrosinemia,Type II tyrosinemia,,other/unspecified
+disease_type_iii_tyrosinemia,Type III tyrosinemia,,other/unspecified
+disease_urea_cycle_disorder,Urea cycle disorder,,other/unspecified
+disease_t-cell_lymphoma,T-cell lymphoma,,oncology
+disease_rabies_virus_infection,Rabies virus infection,,other/unspecified
+disease_phlebothrombosis,Phlebothrombosis,,other/unspecified
+disease_pruritus,Pruritus,,other/unspecified
+disease_reproductive_disorder,Reproductive disorder,,other/unspecified
+disease_polycythemia,Polycythemia,,other/unspecified
+disease_hashimotos_disease,Hashimotos disease,,other/unspecified
+disease_chediak_higashi_syndrome,Chediak Higashi syndrome,,other/unspecified
+disease_galactose_metabolism_disorder,Galactose metabolism disorder,,other/unspecified
+disease_trypanosomiasis,Trypanosomiasis,,other/unspecified
+disease_apnea,Apnea,,other/unspecified
+disease_periodontitis,Periodontitis,,other/unspecified
+disease_hypotension,Hypotension,,other/unspecified
+disease_sleep_apnea,Sleep apnea,,other/unspecified
+disease_thromboembolism,Thromboembolism,,other/unspecified
+disease_tic_disorder,Tic disorder,,other/unspecified
+disease_cancer_pain,Cancer pain,,oncology
+disease_angiogenesis_disorder,Angiogenesis disorder,,other/unspecified
+disease_conjunctivitis,Conjunctivitis,,other/unspecified
+disease_hemangioma,Hemangioma,,other/unspecified
+disease_abdominal_pain,Abdominal pain,,other/unspecified
+disease_hyperinsulinemia,Hyperinsulinemia,,other/unspecified
+disease_hypertrophy,Hypertrophy,,other/unspecified
+disease_neuroendocrine_tumor,Neuroendocrine tumor,,oncology
+disease_medulloblastoma,Medulloblastoma,,other/unspecified
+disease_menkes_syndrome,Menkes syndrome,,other/unspecified
+disease_progressive_multifocal_leukoencephalopathy,Progressive multifocal leukoencephalopathy,,other/unspecified
+disease_vitiligo,Vitiligo,,other/unspecified
+disease_gallbladder_disease,Gallbladder disease,,other/unspecified
+disease_sinusitis,Sinusitis,,other/unspecified
+disease_bullous_pemphigoid,Bullous pemphigoid,,other/unspecified
+disease_geographic_atrophy,Geographic atrophy,,other/unspecified
+disease_thrombocytopenia,Thrombocytopenia,,other/unspecified
+disease_hypertriglyceridemia,Hypertriglyceridemia,,other/unspecified
+disease_binge_eating_disorder,Binge eating disorder,,other/unspecified
+disease_bradykinesia,Bradykinesia,,other/unspecified
+disease_carbon_monoxide_poisoning,Carbon monoxide poisoning,,other/unspecified
+disease_cataract,Cataract,,other/unspecified
+disease_hyperactivity,Hyperactivity,,other/unspecified
+disease_adenocarcinoma,Adenocarcinoma,,oncology
+disease_small-cell_lung_cancer,Small-cell lung cancer,,oncology
+disease_body_dysmorphic_syndrome,Body dysmorphic syndrome,,other/unspecified
+disease_psychomotor_disorder,Psychomotor disorder,,other/unspecified
+disease_cholangiocarcinoma,Cholangiocarcinoma,,oncology
+disease_dizziness,Dizziness,,other/unspecified
+disease_metastatic_non_small_cell_lung_cancer,Metastatic non small cell lung cancer,,oncology
+disease_soft_tissue_sarcoma,Soft tissue sarcoma,,other/unspecified
+disease_chemotherapy-induced_cognitive_impairment,Chemotherapy-induced cognitive impairment,,other/unspecified
+disease_colitis,Colitis,,other/unspecified
+disease_polymyositis,Polymyositis,,other/unspecified
+disease_pompes_disease,Pompes disease,,other/unspecified
+disease_viral_meningitis,Viral meningitis,,other/unspecified
+disease_infantile_spasms,Infantile spasms,,other/unspecified
+disease_hemorrhagic_stroke,Hemorrhagic stroke,,neurology/neurodegeneration
+disease_marburg_virus_infection,Marburg virus infection,,other/unspecified
+disease_metabolic_encephalopathy,Metabolic encephalopathy,,metabolic
+disease_gastritis,Gastritis,,other/unspecified
+disease_ganglioglioma,Ganglioglioma,,other/unspecified
+disease_hydrocephalus,Hydrocephalus,,other/unspecified
+disease_scabies_infection,Scabies infection,,other/unspecified
+disease_developmental_and_epileptic_encephalopathy,Developmental and epileptic encephalopathy,,other/unspecified
+disease_lennox_gastaut_syndrome,Lennox Gastaut syndrome,,other/unspecified
+disease_mucolipidosis,Mucolipidosis,,other/unspecified
+disease_smith-magenis_syndrome,Smith-Magenis syndrome,,other/unspecified
+disease_testis_tumor,Testis tumor,,oncology
+disease_edema,Edema,,other/unspecified
+disease_autoimmune_hepatitis,Autoimmune hepatitis,,inflammation/autoimmune
+disease_febrile_neutropenia,Febrile neutropenia,,other/unspecified
+disease_mucositis,Mucositis,,other/unspecified
+disease_multidrug_resistant_infection,Multidrug resistant infection,,other/unspecified
+disease_myocarditis,Myocarditis,,other/unspecified
+disease_lymphoid_leukemia,Lymphoid leukemia,,oncology
+disease_cardiac_hypertrophy,Cardiac hypertrophy,,other/unspecified
+disease_rheumatic_heart_disease,Rheumatic heart disease,,other/unspecified
+disease_helicobacter_pylori_infection,Helicobacter pylori infection,,other/unspecified
+disease_fever,Fever,,other/unspecified
+disease_osteopetrosis,Osteopetrosis,,other/unspecified
+disease_thyroid_associated_ophthalmopathy,Thyroid associated ophthalmopathy,,other/unspecified
+disease_acne,Acne,,other/unspecified
+disease_dysphoria,Dysphoria,,other/unspecified
+disease_congenital_adrenal_hyperplasia,Congenital adrenal hyperplasia,,other/unspecified
+disease_inappropriate_adh_syndrome,Inappropriate ADH syndrome,,other/unspecified
+disease_toxicity,Toxicity,,other/unspecified
+disease_zika_virus_infection,Zika virus infection,,other/unspecified
+disease_helminth_infection,Helminth infection,,other/unspecified
+disease_hereditary_spastic_paraplegia,Hereditary spastic paraplegia,,other/unspecified
+disease_demyelinating_disease,Demyelinating disease,,other/unspecified
+disease_deep_vein_thrombosis,Deep vein thrombosis,,other/unspecified
+disease_turners_syndrome,Turners syndrome,,other/unspecified
+disease_uterus_tumor,Uterus tumor,,oncology
+disease_sunburn,Sunburn,,other/unspecified
+disease_viral_encephalitis,Viral encephalitis,,other/unspecified
+disease_hyperoxaluria,Hyperoxaluria,,other/unspecified
+disease_intestine_tumor,Intestine tumor,,oncology
+disease_amyotrophic_lateral_sclerosis,Amyotrophic lateral sclerosis,MONDO:0004976,neurology/neurodegeneration
+disease_chorea,Chorea,,other/unspecified
+disease_myelofibrosis,Myelofibrosis,,other/unspecified
+disease_pox_virus_infection,Pox virus infection,,other/unspecified
+disease_iga_nephropathy,IgA nephropathy,,other/unspecified
+disease_cardiac_arrest,Cardiac arrest,,other/unspecified
+disease_blister,Blister,,other/unspecified
+disease_myeloid_leukemia,Myeloid leukemia,,oncology
+disease_pernicious_anemia,Pernicious anemia,,other/unspecified
+disease_follicle_center_lymphoma,Follicle center lymphoma,,oncology
+disease_lymphoblastic_leukemia,Lymphoblastic leukemia,,oncology
+disease_retinal_edema,Retinal edema,,other/unspecified
+disease_ulcer,Ulcer,,other/unspecified
+disease_dysomia,Dysomia,,other/unspecified
+disease_acne_vulgaris,Acne vulgaris,,other/unspecified
+disease_organ_transplant_rejection,Organ transplant rejection,,other/unspecified
+disease_chronic_inflammatory_demyelinating_polyneuropathy,Chronic inflammatory demyelinating polyneuropathy,,inflammation/autoimmune
+disease_thrombocytopenic_purpura,Thrombocytopenic purpura,,other/unspecified
+disease_renal_fibrosis,Renal fibrosis,,other/unspecified
+disease_hypoactive_sexual_desire_disorder,Hypoactive sexual desire disorder,,other/unspecified
+disease_protozoal_infection,Protozoal infection,,other/unspecified
+disease_hyperthyroidism,Hyperthyroidism,,other/unspecified
+disease_exocrine_pancreatic_insufficiency,Exocrine pancreatic insufficiency,,other/unspecified
+disease_cataplexy,Cataplexy,,other/unspecified
+disease_chronic_bronchitis,Chronic bronchitis,,other/unspecified
+disease_lysosomal_acid_lipase_deficiency,Lysosomal acid lipase deficiency,,other/unspecified
+disease_behcets_disease,Behcets disease,,other/unspecified
+disease_multiple_hamartoma_sydrome,Multiple hamartoma sydrome,,other/unspecified
+disease_neurofibromatosis_type_i,Neurofibromatosis type I,,other/unspecified
+disease_diverticulitis,Diverticulitis,,other/unspecified
+disease_graft_versus_host_disease,Graft versus host disease,,other/unspecified
+disease_spinal_cord_disease,Spinal cord disease,,other/unspecified
+disease_frailty_syndrome,Frailty syndrome,,other/unspecified
+disease_organ_transplantation,Organ transplantation,,other/unspecified
+disease_metastasis,Metastasis,,other/unspecified
+disease_muscle_wasting_disease,Muscle wasting disease,,other/unspecified
+disease_vitamin_e_deficiency,Vitamin E deficiency,,other/unspecified
+disease_trigeminal_neuralgia,Trigeminal neuralgia,,other/unspecified
+disease_ocular_inflammation,Ocular inflammation,,other/unspecified
+disease_ocular_pain,Ocular pain,,other/unspecified
+disease_aneurysm,Aneurysm,,other/unspecified
+disease_heart_injury,Heart injury,,other/unspecified
+disease_iron_metabolism_disorder,Iron metabolism disorder,,other/unspecified
+disease_graves_disease,Graves disease,,other/unspecified
+disease_aplastic_anemia,Aplastic anemia,,other/unspecified
+disease_bone_marrow_failure,Bone marrow failure,,other/unspecified
+disease_neutropenia,Neutropenia,,other/unspecified
+disease_premature_aging_diseases,Premature aging diseases,,other/unspecified
+disease_hyperammonemia,Hyperammonemia,,other/unspecified
+disease_maple_syrup_urine_disease,Maple syrup urine disease,,other/unspecified
+disease_ocular_tumor,Ocular tumor,,oncology
+disease_whipple_disease,Whipple disease,,other/unspecified
+disease_kearns_syndrome,Kearns syndrome,,other/unspecified
+disease_vascular_eye_disease,Vascular eye disease,,other/unspecified
+disease_spondylitis,Spondylitis,,other/unspecified
+disease_diabetic_peripheral_neuropathy,Diabetic peripheral neuropathy,,other/unspecified
+disease_cardiorenal_syndrome,Cardiorenal syndrome,,other/unspecified
+disease_diastolic_heart_failure,Diastolic heart failure,,other/unspecified
+disease_consciousness_disorder,Consciousness disorder,,other/unspecified
+disease_cardiogenic_shock,Cardiogenic shock,,other/unspecified
+disease_adjustment_disorder,Adjustment disorder,,other/unspecified
+disease_kawasaki_disease,Kawasaki disease,,other/unspecified
+disease_meniere_disease,Meniere disease,,other/unspecified
+disease_central_nervous_system_demyelinating_disease,Central nervous system demyelinating disease,,other/unspecified
+disease_propionic_acidemia,Propionic acidemia,,other/unspecified
+disease_tyrosinemia,Tyrosinemia,,other/unspecified
+disease_acute_respiratory_distress_syndrome,Acute respiratory distress syndrome,,other/unspecified
+disease_cutaneous_lupus_erythematosus,Cutaneous lupus erythematosus,,inflammation/autoimmune
+disease_chondrodysplasia_punctata,Chondrodysplasia punctata,,other/unspecified
+disease_glucose_intolerance,Glucose intolerance,,other/unspecified
+disease_unconsciousness,Unconsciousness,,other/unspecified
+disease_alport_syndrome,Alport syndrome,,other/unspecified
+disease_hepatotoxicity_drug-induced,Hepatotoxicity drug-induced,,other/unspecified
+disease_central_nervous_system_development_disorder,Central nervous system development disorder,,other/unspecified
+disease_partial_seizure,Partial seizure,,other/unspecified
+disease_myoclonic_seizure,Myoclonic seizure,,other/unspecified
+disease_progressive_myoclonic_epilepsy,Progressive myoclonic epilepsy,,other/unspecified
+disease_lung_injury,Lung injury,,other/unspecified
+disease_attention_deficit-disruptive_behaviour_disorder,Attention deficit-disruptive behaviour disorder,,other/unspecified
+disease_churg-strauss_syndrome,Churg-Strauss syndrome,,other/unspecified
+disease_renovascular_hypertension,Renovascular hypertension,,other/unspecified
+disease_hematoma,Hematoma,,other/unspecified
+disease_rosacea,Rosacea,,other/unspecified
+disease_spondylarthritis,Spondylarthritis,,inflammation/autoimmune
+disease_allergic_asthma,Allergic asthma,,inflammation/autoimmune
+disease_brain_infarction,Brain infarction,,other/unspecified
+disease_achondroplasia,Achondroplasia,,other/unspecified
+disease_crouzon_syndrome,Crouzon syndrome,,other/unspecified
+disease_hypochondroplasia,Hypochondroplasia,,other/unspecified
+disease_muenke_syndrome,Muenke syndrome,,other/unspecified
+disease_osteodyschrondroplasia,Osteodyschrondroplasia,,other/unspecified
+disease_al_amyloidosis,AL amyloidosis,,other/unspecified
+disease_frontotemporal_dysplasia,Frontotemporal dysplasia,,neurology/neurodegeneration
+disease_central_nervous_system_injury,Central nervous system injury,,other/unspecified
+disease_epithelioid_hemangioendothelioma,Epithelioid hemangioendothelioma,,other/unspecified
+disease_neurofibromatosis_type_ii,Neurofibromatosis type II,,other/unspecified
+disease_oxidative_stress,Oxidative stress,,other/unspecified
+disease_bovine_spongiform_encephalopathy,Bovine spongiform encephalopathy,,other/unspecified
+disease_polyneuropathy,Polyneuropathy,,other/unspecified
+disease_postherpetic_neuralgia,Postherpetic neuralgia,,other/unspecified
+disease_radiculopathy,Radiculopathy,,other/unspecified
+disease_fungal_respiratory_tract_infection,Fungal respiratory tract infection,,other/unspecified
+disease_giant_cell_bone_tumor,Giant cell bone tumor,,oncology
+disease_brain_hemorrhage,Brain hemorrhage,,other/unspecified
+disease_congenital_autonomic_control_failure,Congenital autonomic control failure,,other/unspecified
+disease_chronic_sinusitis,Chronic sinusitis,,other/unspecified
+disease_rhinitis,Rhinitis,,other/unspecified
+disease_cholangitis,Cholangitis,,other/unspecified
+disease_hyperbilirubinemia,Hyperbilirubinemia,,other/unspecified
+disease_lyme_disease,Lyme disease,,other/unspecified
+disease_hurler_syndrome,Hurler syndrome,,other/unspecified
+disease_syndrome_x,Syndrome X,,other/unspecified
+disease_cilia_disease,Cilia disease,,other/unspecified
+disease_gastrointestinal_tumor,Gastrointestinal tumor,,oncology
+disease_arterial_hypertension,Arterial hypertension,,other/unspecified
+disease_batten_disease,Batten disease,,other/unspecified
+disease_diabetic_peripheral_neuropathic_pain,Diabetic peripheral neuropathic pain,,other/unspecified
+disease_gastrointestinal_pain,Gastrointestinal pain,,other/unspecified
+disease_musculoskeletal_pain,Musculoskeletal pain,,other/unspecified
+disease_abdominal_aortic_aneurysm,Abdominal aortic aneurysm,,other/unspecified
+disease_charcot_marie_tooth_type_2_disease,Charcot Marie Tooth type 2 disease,,other/unspecified
+disease_leukoencephalopathy,Leukoencephalopathy,,other/unspecified
+disease_dysphonia,Dysphonia,,other/unspecified
+disease_silicosis,Silicosis,,other/unspecified
+disease_back_pain,Back pain,,other/unspecified
+disease_osteoarthritis_pain,Osteoarthritis pain,,inflammation/autoimmune
+disease_shoulder_pain,Shoulder pain,,other/unspecified
+disease_chronic_myelomonocytic_leukemia,Chronic myelomonocytic leukemia,,oncology
+disease_cannabis_dependence,Cannabis dependence,,other/unspecified
+disease_hematological_disease,Hematological disease,,other/unspecified
+disease_kuru,Kuru,,other/unspecified
+disease_anhedonia,Anhedonia,,other/unspecified
+disease_corneal_disease,Corneal disease,,other/unspecified
+disease_intervertebral_disc_disease,Intervertebral disc disease,,other/unspecified
+disease_farber_disease,Farber disease,,other/unspecified
+disease_immediate_type_hypersensitivity,Immediate type hypersensitivity,,other/unspecified
+disease_chronic_kidney_disease,Chronic kidney disease,,other/unspecified
+disease_emphysema,Emphysema,,other/unspecified
+disease_retinal_venous_occlusion,Retinal venous occlusion,,other/unspecified
+disease_paranoid_schizophrenia,Paranoid schizophrenia,,psychiatry/CNS
+disease_pulmonary_edema,Pulmonary edema,,other/unspecified
+disease_pagets_bone_disease,Pagets bone disease,,other/unspecified
+disease_uterine_cervix_tumor,Uterine cervix tumor,,oncology
+disease_amphetamine_dependence,Amphetamine dependence,,other/unspecified
+disease_small_lymphocytic_lymphoma,Small lymphocytic lymphoma,,oncology
+disease_korsakoff_syndrome,Korsakoff syndrome,,other/unspecified
+disease_drug_overdose,Drug overdose,,other/unspecified
+disease_aortic_valve_disease,Aortic valve disease,,other/unspecified
+disease_calcification,Calcification,,other/unspecified
+disease_chondrocalcinosis,Chondrocalcinosis,,other/unspecified
+disease_hypophosphatemia,Hypophosphatemia,,other/unspecified
+disease_autoimmune_demyelinating_nervous_system_disease,Autoimmune demyelinating nervous system disease,,inflammation/autoimmune
+disease_allergic_rhinitis,Allergic rhinitis,,other/unspecified
+disease_bone_injury,Bone injury,,other/unspecified
+disease_metabolic_dysfunction-associated_steatohepatitis,Metabolic dysfunction-associated steatohepatitis,,metabolic
+disease_acute_renal_disorder,Acute renal disorder,,other/unspecified
+disease_retinitis,Retinitis,,other/unspecified
+disease_fibroma,Fibroma,,other/unspecified
+disease_vulva_disease,Vulva disease,,other/unspecified
+disease_hypokalemia,Hypokalemia,,other/unspecified
+disease_pseudoobstruction,Pseudoobstruction,,other/unspecified
+disease_clostridium_difficile_infection,Clostridium difficile infection,,other/unspecified
+disease_candida_infection,Candida infection,,other/unspecified
+disease_hyperlipoproteinemia,Hyperlipoproteinemia,,other/unspecified
+disease_musculoskeletal_disease,Musculoskeletal disease,,other/unspecified
+disease_head_and_neck_injury,Head and neck injury,,other/unspecified
+disease_urge_urinary_incontinence,Urge urinary incontinence,,other/unspecified
+disease_noonan_syndrome,Noonan syndrome,,other/unspecified
+disease_anaplastic_astrocytoma,Anaplastic astrocytoma,,other/unspecified
+disease_anaplastic_oligoastrocytoma,Anaplastic oligoastrocytoma,,other/unspecified
+disease_astrocytoma,Astrocytoma,,other/unspecified
+disease_ependymoma,Ependymoma,,other/unspecified
+disease_oligodendroglioma,Oligodendroglioma,,other/unspecified
+disease_bilateral_renal_agenesis,Bilateral renal agenesis,,other/unspecified
+disease_male_contraception,Male contraception,,other/unspecified
+disease_medullary_thyroid_cancer,Medullary thyroid cancer,,oncology
+disease_dysesthesia,Dysesthesia,,other/unspecified
+disease_lower_back_pain,Lower back pain,,other/unspecified
+disease_xerostomia,Xerostomia,,other/unspecified
+disease_myotonia,Myotonia,,other/unspecified
+disease_radiation_sickness,Radiation sickness,,other/unspecified
+disease_myotonic_dystrophy_type_2,Myotonic dystrophy type 2,,other/unspecified
+disease_familial_dysautonomia,Familial dysautonomia,,other/unspecified
+disease_joint_disease,Joint disease,,other/unspecified
+disease_kleine-levin_syndrome,Kleine-Levin syndrome,,other/unspecified
+disease_metabolic_dysfunction-associated_steatotic_liver_disease,Metabolic dysfunction-associated steatotic liver disease,,metabolic
+disease_intracranial_hypertension,Intracranial hypertension,,other/unspecified
+disease_adult-onset_leukoencephalopathy_alsp,Adult-onset leukoencephalopathy (ALSP),,other/unspecified
+disease_gingivitis,Gingivitis,,other/unspecified
+disease_urticaria,Urticaria,,other/unspecified
+disease_glomerulosclerosis,Glomerulosclerosis,,other/unspecified
+disease_interstitial_lung_disease,Interstitial lung disease,,other/unspecified
+disease_contact_dermatitis,Contact dermatitis,,other/unspecified
+disease_pediatric_varicella_zoster_virus_infection,Pediatric varicella zoster virus infection,,other/unspecified
+disease_plasmodium_falciparum_infection,Plasmodium falciparum infection,,other/unspecified
+disease_gerstmann_straussler_scheinker_disease,Gerstmann Straussler Scheinker disease,,other/unspecified
+disease_meningioma,Meningioma,,other/unspecified
+disease_keratoderma,Keratoderma,,other/unspecified
+disease_bladder_pain,Bladder pain,,other/unspecified
+disease_parkinsonism,Parkinsonism,,neurology/neurodegeneration
+disease_myositis,Myositis,,other/unspecified
+disease_inclusion_body_myositis,Inclusion body myositis,,other/unspecified
+disease_nutritional_disorder,Nutritional disorder,,other/unspecified
+disease_bells_palsy,Bells palsy,,other/unspecified
+disease_reiter_syndrome,Reiter syndrome,,other/unspecified
+disease_carpal_tunnel_syndrome,Carpal tunnel syndrome,,other/unspecified
+disease_diabetic_coma,Diabetic coma,,other/unspecified
+disease_ketoacidosis,Ketoacidosis,,other/unspecified
+disease_body_weight_change,Body weight change,,other/unspecified
+disease_hypercalcemia,Hypercalcemia,,other/unspecified
+disease_postoperative_pain,Postoperative pain,,other/unspecified
+disease_retinoblastoma,Retinoblastoma,,other/unspecified
+disease_post_covid-19_condition,Post COVID-19 condition,,other/unspecified
+disease_salivary_glands_disease,Salivary glands disease,,other/unspecified
+disease_open_angle_glaucoma,Open angle glaucoma,,other/unspecified
+disease_saccharomyces_infection,Saccharomyces infection,,other/unspecified
+disease_obstructive_sleep_apnea,Obstructive sleep apnea,,other/unspecified
+disease_acute_chest_syndrome,Acute chest syndrome,,other/unspecified
+disease_thyroid_disease,Thyroid disease,,other/unspecified
+disease_contraception,Contraception,,other/unspecified
+disease_topical_anesthesia,Topical anesthesia,,other/unspecified
+disease_tenosynovial_giant_cell_tumor,Tenosynovial giant cell tumor,,oncology
+disease_osteomalacia,Osteomalacia,,other/unspecified
+disease_bone_resorption,Bone resorption,,other/unspecified
+disease_chronic_liver_failure,Chronic liver failure,,other/unspecified
+disease_poliovirus_infection,Poliovirus infection,,other/unspecified
+disease_carbohydrate_metabolism_disorder,Carbohydrate metabolism disorder,,other/unspecified
+disease_hair_disease,Hair disease,,other/unspecified
+disease_triple-negative_breast_cancer,Triple-negative breast cancer,,oncology
+disease_paroxysmal_nocturnal_hemoglobinuria,Paroxysmal nocturnal hemoglobinuria,,other/unspecified
+disease_t-cell_acute_lymphoblastic_leukemia,T-cell acute lymphoblastic leukemia,,oncology
+disease_neurofibromatosis,Neurofibromatosis,,other/unspecified
+disease_ventricular_arrhythmia,Ventricular arrhythmia,,other/unspecified
+disease_medication_overdose,Medication overdose,,other/unspecified
+disease_allergic_conjunctivitis,Allergic conjunctivitis,,other/unspecified
+disease_mastocytosis,Mastocytosis,,other/unspecified
+disease_hemoglobinuria,Hemoglobinuria,,other/unspecified
+disease_periodontal_disease,Periodontal disease,,other/unspecified
+disease_wegener_granulomatosis,Wegener granulomatosis,,other/unspecified
+disease_pigment_disorder,Pigment disorder,,other/unspecified
+disease_vascular_insufficiency,Vascular insufficiency,,other/unspecified
+disease_viral_pneumonia,Viral pneumonia,,other/unspecified
+disease_hemolytic_anemia,Hemolytic anemia,,other/unspecified
+disease_multifocal_motor_neuropathy,Multifocal motor neuropathy,,other/unspecified
+disease_niemann_pick_disease_type_a,Niemann Pick disease type A,,other/unspecified
+disease_clonic_seizure,Clonic seizure,,other/unspecified
+disease_interstitial_cystitis,Interstitial cystitis,,other/unspecified
+disease_temporomandibular_joint_syndrome,Temporomandibular joint syndrome,,other/unspecified
+disease_iron_deficiency_anemia,Iron deficiency anemia,,other/unspecified
+disease_duchenne_muscular_dystrophy,Duchenne muscular dystrophy,,other/unspecified
+disease_endometrioid_carcinoma,Endometrioid carcinoma,,oncology
+disease_antisocial_personality_disorder,Antisocial personality disorder,,other/unspecified
+disease_basal_ganglia_disease,Basal ganglia disease,,other/unspecified
+disease_genital_herpes,Genital herpes,,other/unspecified
+disease_herpetic_keratitis,Herpetic keratitis,,other/unspecified
+disease_trisomy,Trisomy,,other/unspecified
+disease_tangier_disease,Tangier disease,,other/unspecified
